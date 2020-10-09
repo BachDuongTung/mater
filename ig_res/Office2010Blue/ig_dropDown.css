@@ -1,0 +1,432 @@
+/*
+
+Main control CSS class
+*/
+.igdd_Office2010BlueControl
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdd_Office2010BlueControlDisabled
+{
+}
+
+
+/*
+ Main control css class on hover
+*/
+.igdd_Office2010BlueControlHover
+{
+	background-color:White;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueControlFocus
+{
+	background-color:White;
+	border:solid 1px #ABC1DE;
+	table-layout: fixed;
+}
+
+
+.igdd_Office2010BlueControlArea
+{
+	background-color:#F2F7FC;
+	border:solid 1px #ABBAD0;
+	table-layout: fixed;
+}
+
+
+/*
+CSS class for the actual input field (<input type="text" />)
+*/
+.igdd_Office2010BlueValueDisplay
+{
+	background-color:Transparent;
+	font-weight:normal;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	width: 100%;
+	z-index: 0;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueValueDisplayHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueValueDisplayFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueValueDisplayDisabled
+{
+    background-color:Transparent;
+    border:0px;
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    font-weight:normal;
+    width:100%;
+    z-index:0;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueValueDisplayReadOnly
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownList
+{
+	background-color:White;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:1px;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListReadOnly
+{
+}
+
+
+/*
+	
+*/
+.igdd_Office2010BlueDropDownListContainer
+{
+	background-color:White;
+	border:solid 1px #868686;
+	float: left;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListContainerHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownButton
+{
+	width: 17px;
+	z-index: 9999;
+}
+
+.igdd_Office2010BlueDropDownButton img 
+{
+    display:block;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownButtonHover
+{
+}
+
+
+/*
+CSS class that controls the style of the LI items in the list
+*/
+.igdd_Office2010BlueListItem
+{
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	padding:3px 5px 3px 5px;
+	list-style-type: none;
+	width: auto;
+	min-height: 15px;
+	height: auto !important;
+	cursor:pointer;
+<<<<<<< Yours (ig_dropDown.css)
+	color:#1F3979;
+||||||| Original (ig_dropDown.css;C182895)
+	
+	color:#1F3979;
+=======
+>>>>>>> Theirs ($/NetAdvantage/DEV/ASP.NET/2010.3/Source/Infragistics.WebUI/AppStyling/Style Libraries/Office2010Blue/ig_dropDown.css;C182895)
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2010BlueListItem {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2010BlueListItemActive
+{
+	background-color:#FDF8DE;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #F1CA58;
+	list-style-type: none;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueListItemHover
+{
+	background-color:#FDF8DE;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #F1CA58;
+	list-style-type: none;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2010BlueListItemHover {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2010BlueListItemSelected
+{
+	background-color:#FDF8DE;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #F1CA58;
+	list-style-type: none;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueListItemDisabled
+{
+	list-style-type: none;
+	width: auto;
+	cursor:default;
+}
+
+
+/*
+Applied to the whole pager
+*/
+.igdd_Office2010BluePager
+{
+	background-color:Transparent;
+	border-top:solid 1px #868686;
+	vertical-align:middle;
+}
+
+
+/*
+Loading message container
+*/
+.igdd_Office2010BlueLoadingItemsMessage
+{
+	background-color:#567DB1;
+	font-weight:bold;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:1px 0px 0px 1px;
+	padding:3px;
+	color:White;
+}
+
+
+/*
+Styles the current page link only
+*/
+.igdd_Office2010BluePageCurrent
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#FFBD69;
+	text-decoration:underline;
+	vertical-align:middle;
+}
+
+
+/*
+Styles all page links in general 
+*/
+.igdd_Office2010BluePageLink
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#567DB1;
+	vertical-align:middle;
+}
+
+
+.igdd_Office2010BlueListItemActive a link
+{
+	color:#1F3979;
+	text-decoration:none;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownButtonDisabled
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListContainerFocus
+{
+}
+
+
+.igdd_Office2010BlueListItem a:link
+{
+	color:#1F3979;
+	text-decoration:none;
+}
+
+
+/*
+ CSS class for the table that accomodates the value display and the drop down button, and which is a 
+ child of the main control (div)
+*/
+.igdd_Office2010BlueValueDisplayTable
+{
+}
+
+
+/*
+For Disabled=True of a DropDownItem
+*/
+.igdd_Office2010BlueListItemDisabled a:link
+{
+	cursor:default;
+	color:#8D8D8D;
+}
+
+
+.igdd_Office2010BlueListItem a:active
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListDisabled
+{
+}
+
+
+/*
+Styling for anchor when hovered anywhere on ListItem
+*/
+.igdd_Office2010BlueListItemHover a:link
+{
+	color:#1F3979;
+	text-decoration:none;
+}
+
+
+.igdd_Office2010BlueListItem a:visited
+{
+	color:#1F3979;
+	text-decoration:none;
+}
+
+
+/*
+	
+*/
+.igdd_Office2010BlueDropDownButtonFocus
+{
+}
+
+
+/*
+pseudo class used so Value Display input does not have focus
+glow in some browsers like GoogleChrome or AppleSafari
+*/
+input focus
+{
+	outline: none;
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueListItemFocus
+{
+	list-style-type: none;
+	width: auto;
+}
+
+
+.igdd_Office2010BlueListItem a:hover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2010BlueDropDownListFocus
+{
+}
+
+

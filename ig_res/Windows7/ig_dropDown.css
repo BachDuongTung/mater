@@ -1,0 +1,466 @@
+/*
+
+Main control CSS class
+*/
+.igdd_Windows7Control
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdd_Windows7ControlDisabled
+{
+	background-position:notset -63px ;
+	height: 21px;
+}
+
+
+/*
+ Main control css class on hover
+*/
+.igdd_Windows7ControlHover
+{
+	background-position:0px -21px ;
+	height: 21px;
+}
+
+
+/*
+
+*/
+.igdd_Windows7ControlFocus
+{
+	background-position:notset -42px ;
+	background-image: url(images/ig_dropdownbg.png);
+	table-layout: fixed;
+	height: 21px;
+}
+
+
+.igdd_Windows7ControlArea
+{
+	background-color:Transparent;
+	background-position:notset 0px ;
+	background-image: url(images/ig_dropdownbg.png);
+	table-layout: fixed;
+	height: 21px;
+}
+
+
+/*
+CSS class for the actual input field (<input type="text" />)
+*/
+.igdd_Windows7ValueDisplay
+{
+	background-color:Transparent;
+	font-weight:normal;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	padding:0px 0px 0px 4px;
+	width: 100%;
+	z-index: 0;
+}
+
+
+/*
+
+*/
+.igdd_Windows7ValueDisplayHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7ValueDisplayFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7ValueDisplayDisabled
+{
+    background-color:Transparent;
+    border:0px;
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    font-weight:normal;
+    width:100%;
+    z-index:0
+}
+
+
+/*
+
+*/
+.igdd_Windows7ValueDisplayReadOnly
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownList
+{
+	background-color:White;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:1px;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListHover
+{
+	background-color:Red;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListReadOnly
+{
+}
+
+
+/*
+	
+*/
+.igdd_Windows7DropDownListContainer
+{
+	background-color:White;
+	border:solid 1px #868686;
+	float: left;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListContainerHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownButton
+{
+	width: 16px;
+	height: 21px;
+	z-index: 9999;
+	position: relative;
+	left: 2px;
+}
+
+.igdd_Windows7DropDownButton img 
+{
+    display:block;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownButtonHover
+{
+	background-color: Transparent none;
+	background-position:-21px ;
+	width: 16px;
+	height: 21px;
+	z-index: 9999;
+}
+
+
+/*
+CSS class that controls the style of the LI items in the list
+*/
+.igdd_Windows7ListItem
+{
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	padding:2px 5px 3px 3px;
+	list-style-type: none;
+	width: auto;
+	min-height: 15px;
+	height: auto !important;
+	cursor:pointer;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Windows7ListItem {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Windows7ListItemActive
+{
+	background-color:#BEE6FD;
+	border:solid 1px #88C1E0;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Windows7ListItemHover
+{
+	background-color:#A7D9F5;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #3C7FB1;
+	list-style-type: none;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Windows7ListItemHover {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Windows7ListItemSelected
+{
+	background-color:#DEF2FC;
+	border:solid 1px #BEE6FD;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Windows7ListItemDisabled
+{
+	list-style-type: none;
+	width: auto;
+	cursor:default;
+}
+
+
+/*
+Applied to the whole pager
+*/
+.igdd_Windows7Pager
+{
+	background-color:Transparent;
+	border-top:solid 1px #868686;
+	vertical-align:middle;
+}
+
+
+/*
+Loading message container
+*/
+.igdd_Windows7LoadingItemsMessage
+{
+	background-color:#23262A;
+	font-weight:bold;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:1px 0px 0px 1px;
+	padding:3px;
+	color:White;
+}
+
+
+/*
+Styles the current page link only
+*/
+.igdd_Windows7PageCurrent
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#FFBD69;
+	text-decoration:underline;
+	vertical-align:middle;
+}
+
+
+/*
+Styles all page links in general 
+*/
+.igdd_Windows7PageLink
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#7C7C94;
+	vertical-align:middle;
+}
+
+
+.igdd_Windows7DropDownButton:focus
+{
+	background-position:notset -42px ;
+	width: 16px;
+	height: 21px;
+	z-index: 9999;
+	position: relative;
+	left: 2px;
+}
+
+
+/*
+For Disabled=True of a DropDownItem
+*/
+.igdd_Windows7ListItemDisabled a:link
+{
+	cursor:default;
+	color:#8D8D8D;
+}
+
+
+/*
+	
+*/
+.igdd_Windows7DropDownButtonFocus
+{
+	background-position:notset -42px ;
+	background-image: url(images/ig_dropdownarrow.png);
+	width: 16px;
+	height: 21px;
+	z-index: 9999;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownButtonDisabled
+{
+}
+
+
+/*
+Styling for anchor when hovered anywhere on ListItem
+*/
+.igdd_Windows7ListItemHover a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+
+*/
+.igdd_Windows7ListItemFocus
+{
+	list-style-type: none;
+	width: auto;
+}
+
+
+.igdd_Windows7ListItem a:active
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListContainerFocus
+{
+}
+
+
+.igdd_Windows7ListItem a:hover
+{
+}
+
+
+.igdd_Windows7ListItem a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListDisabled
+{
+}
+
+
+/*
+
+*/
+.igdd_Windows7DropDownListFocus
+{
+	background-color:Green;
+}
+
+
+/*
+pseudo class used so Value Display input does not have focus
+glow in some browsers like GoogleChrome or AppleSafari
+*/
+input:focus
+{
+	outline: none;
+}
+
+
+.igdd_Windows7DropDownButton:hover
+{
+	background-position:notset -21px ;
+	width: 16px;
+	height: 21px;
+	z-index: 9999;
+	position: relative;
+	left: 2px;
+}
+
+
+.igdd_Windows7ListItem a:visited
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+ CSS class for the table that accomodates the value display and the drop down button, and which is a 
+ child of the main control (div)
+*/
+.igdd_Windows7ValueDisplayTable
+{
+	background-color:Red;
+}
+
+
+.igdd_Windows7ListItemActive a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+

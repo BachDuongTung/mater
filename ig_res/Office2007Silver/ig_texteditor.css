@@ -1,0 +1,114 @@
+.igte_Office2007SilverEditWithButtons
+{
+	font-size: 10px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #E8EAEC;
+	line-height:1px;
+	height:20px;
+	width: 130px;
+	outline:0;
+	border:solid 1px #A9B1B8;
+}
+
+
+.igte_Office2007SilverEdit
+{
+	font-size: 12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #E8EAEC;
+	border:solid 1px #A9B1B8;
+	outline:0;
+}
+
+.igte_Office2007SilverTextArea
+{
+	font-size: 12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #E8EAEC;
+	border:solid 1px #A9B1B8;
+	outline:0;
+	resize:none;
+}
+
+.igte_Office2007SilverEditInContainer
+{
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: Transparent;
+	border-width:0px;
+	outline:0;
+}
+
+.igte_Office2007SilverFocus
+{
+	background-color: #FFFFFF;
+	border-color:#A4A4A4;
+}
+
+.igte_Office2007SilverHover
+{
+	background-color: #FFFFFF;
+}
+
+.igte_Office2007SilverInner
+{
+}
+
+.igte_Office2007SilverInnerFocus
+{
+}
+
+.igte_Office2007SilverInnerHover
+{
+}
+
+.igte_Office2007SilverButtonSize
+{
+	width:15px;
+	height:100%;
+}
+
+.igte_Office2007SilverButton
+{
+	background-color: #E8EAEC;
+	line-height:normal;
+	border:solid 1px #E8EAEC;
+	cursor: pointer;
+}
+
+.igte_Office2007SilverButtonFocus
+{
+}
+
+.igte_Office2007SilverNullText
+{
+	color: #808080;
+}
+
+.igte_Office2007SilverButtonHover
+{
+	background-color: #FFE7A5;
+	background-image: url(images/igte_spinbuttonbghover.gif);
+	background-repeat: repeat-x;
+	border:solid 1px #DBCE99;
+}
+
+
+.igte_Office2007SilverButtonPressed
+{
+	background-color: #FFD456;
+	background-image: url(images/igte_spinbuttonbgpressed.gif);
+	background-repeat: repeat-x;
+	border:solid 1px #9A8F63;
+}
+
+
+.igte_Office2007SilverButtonDisabled
+{
+	background-image: none;
+	background-color: #CCCCCC;
+}
+
+.igte_Office2007SilverButtonImg
+{
+}

@@ -1,0 +1,208 @@
+.igmc_Office2010BlueControl
+{
+	background-color:white;
+	font-family: Segoe UI, Verdana, Arial, Georgia, Sans-Serif;
+	border:solid 1px #849dbd;
+	margin:0px;
+	padding:0px;
+	width: 225px;
+	height: 200px;
+}
+
+
+.igmc_Office2010BlueHeader
+{
+	background-color:#CEDCED;
+	font-size:10px;
+	border-bottom-width:0px;
+	margin:0px;
+	padding:0px;
+	height: 30px;
+}
+
+
+.igmc_Office2010BlueFooter
+{
+	background-color:#CEDCED;
+	font-size:xx-small;
+	height: 30px;
+	color:#3B3B3B;
+	text-align:center;
+}
+
+
+.igmc_Office2010BlueDOW
+{
+	background-color:transparent;
+	font-weight:bold;
+	font-size:xx-small;
+	border-width:0px;
+	margin:0px;
+	padding:0px;
+	height: 30px;
+	text-align:center;
+	
+	border-bottom:1px solid #9AC6FF;
+	color:#3B3B3B;
+}
+
+
+.igmc_Office2010BlueNextPrev
+{
+	font-size:xx-small;
+	margin:0px;
+	padding:0px 3px 0px 3px;
+	color:White;
+}
+
+
+.igmc_Office2010BlueMonthYear
+{
+	font-weight:bold;
+	font-size:10px;
+	padding-top:0px;
+	padding-right:2px;
+	color:/*Black*/#3B3B3B;
+}
+
+
+.igmc_Office2010BlueDay
+{
+	background-color:transparent;
+	font-size:xx-small;
+	border:solid 1px #FFFFFF;
+	text-align:center;
+	cursor:default;
+}
+
+
+/* CSS classes for Month and Year selection Popup in header */
+.igmc_Office2010BlueList
+{
+	background-color:White;
+	color: #1e395b;
+	border:1px solid #849DBD;
+}
+
+
+.igmc_Office2010BlueItem
+{
+	background-color:transparent;
+	font-size:8pt;
+	text-align:center;
+}
+
+
+.igmc_Office2010BlueHoverFooter
+{
+	cursor:pointer;
+	color:#384e73;
+	background-color:#eff5fb;
+	background-repeat:repeat-x;
+	background-position:0px -35px;
+	background-image: url(images/igmc_footerSprite.png);
+	
+}
+
+
+.igmc_Office2010BlueHoverNextPrev
+{
+	cursor:pointer;
+	color:#FF9933;
+}
+
+
+.igmc_Office2010BlueHoverMonthYear
+{
+	cursor:pointer;
+	color:#849dbd;	
+}
+
+
+.igmc_Office2010BlueWeekNumber
+{
+	background-color:transparent;
+	font-weight:bold;
+	color:#21272d;
+}
+
+
+.igmc_Office2010BlueWeekendDay
+{
+}
+
+
+.igmc_Office2010BlueSelectedItem
+{
+	background-color:#a9c1de;
+	font-weight:bold;
+}
+
+
+.igmc_Office2010BluePressedFooter
+{
+	cursor:pointer;
+	color:#384e73;
+	background-color:#e1ecfa;
+	background-repeat:repeat-x;
+	background-position:0px 0px;
+	background-image: url(images/igmc_footerSprite.png);
+}
+
+
+.igmc_Office2010BluePressedNextPrev
+{
+}
+
+
+.igmc_Office2010BluePressedMonthYear
+{
+	color:#849dbd;
+}
+
+
+.igmc_Office2010BlueOtherMonthDay
+{
+	background-image:none;
+	color:#A3ABB5;
+}
+
+
+.igmc_Office2010BlueHoverItem
+{
+	background-color:#A7CDF0;
+	cursor:pointer;
+}
+
+
+.igmc_Office2010BlueTodayDay
+{
+	background-color:White;
+	border:1px solid #C95C05;
+}
+
+
+.igmc_Office2010BlueSelectedDay
+{
+	background-color:#A9C1DE;
+}
+
+
+.igmc_Office2010BlueFocusDay
+{
+	background-color:#A7CDF0;
+}
+
+
+.igmc_Office2010BlueHoverDay
+{
+	background-color:#A7CDF0;
+}
+
+
+.igmc_Office2010BlueDisabledDay
+{
+	color:#000EEE;
+}
+
+

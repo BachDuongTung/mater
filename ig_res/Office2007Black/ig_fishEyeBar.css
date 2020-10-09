@@ -1,0 +1,41 @@
+﻿.igfeb_Office2007BlackControl
+{
+	background-color: Transparent;
+}
+
+.igfeb_Office2007BlackControlHover
+{
+				
+				
+}
+
+.igfeb_Office2007BlackFishEyeItemLabel
+{
+}
+
+.igfeb_Office2007BlackFishEyeItem
+{
+}
+
+.igfeb_Office2007BlackFishEyeItemHover
+{			
+}
+
+.igfeb_Office2007BlackFishEyeItemDisabled
+{
+				
+				
+}
+
+.igfeb_Office2007BlackControlFocus
+{
+				
+				
+}
+
+.igfeb_Office2007BlackFishEyeItemSelected
+{
+	background-position: bottom;
+	background-image: url(images/igfeb_itemselected.png);	
+	background-repeat:  no-repeat;
+}

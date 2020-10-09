@@ -1,0 +1,135 @@
+.igte_Windows7EditWithButtons
+{
+	background-color:#E8EAEC;
+	background-repeat:repeat-x;
+	background-image: url(images/igte_textareabackground.gif);
+	font-size:10px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	border:solid 1px #A9B1B8;
+	line-height: 1px;
+	height: 20px;
+	width: 130px;
+	outline: 0;
+}
+
+
+.igte_Windows7Edit
+{
+	background-color:#E8EAEC;
+	background-repeat:repeat-x;
+	background-image: url(images/igte_textareabackground.gif);
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	border:solid 1px #A9B1B8;
+	outline: 0;
+}
+
+
+.igte_Windows7EditInContainer
+{
+	background-color:Transparent;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	border-width:0px;
+	outline: 0;
+}
+
+
+.igte_Windows7TextArea
+{
+	background-color:#ECF2F9;
+	background-image: url(images/igte_textareabackground.gif);
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	border:solid 1px #A9B4BF;
+	outline: 0;
+	resize: none;
+}
+
+
+.igte_Windows7ButtonSize
+{
+	width: 15px;
+	height: 100%;
+}
+
+
+.igte_Windows7Button
+{
+	background-color:#E8EAEC;
+	background-repeat:repeat-x;
+	background-image: url(images/igte_textareabackground.gif);
+	line-height: normal;
+	width: 20px;
+	cursor:pointer;
+}
+
+
+.igte_Windows7Inner
+{
+}
+
+
+.igte_Windows7ButtonImg
+{
+}
+
+
+.igte_Windows7Focus
+{
+	background-color:White;
+	background-image:none;
+}
+
+
+.igte_Windows7ButtonFocus
+{
+}
+
+
+.igte_Windows7InnerFocus
+{
+}
+
+
+.igte_Windows7ButtonHover
+{
+	background-color:#FFE7A5;
+	background-repeat:repeat-x;
+	background-image: url(images/igte_spinbuttonbghover.gif);
+}
+
+
+.igte_Windows7NullText
+{
+	color:Gray;
+}
+
+
+.igte_Windows7Hover
+{
+	background-color:White;
+	background-image:none;
+}
+
+
+.igte_Windows7InnerHover
+{
+}
+
+
+.igte_Windows7ButtonPressed
+{
+	background-color:#FFD456;
+	background-repeat:repeat-x;
+	background-image: url(images/igte_spinbuttonbgpressed.gif);
+}
+
+
+.igte_Windows7ButtonDisabled
+{
+	background-color:#CCCCCC;
+	background-image:none;
+}
+
+

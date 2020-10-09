@@ -1,0 +1,62 @@
+.igtb_Windows7Control
+{
+	background-color:#DADEE8;
+	border-color:Transparent;
+}
+
+
+.igtb_Windows7Item
+{
+	background-color:Transparent;
+}
+
+
+.igtb_Windows7Button
+{
+	background-color:Transparent;
+	border:solid 1px Transparent;
+	padding-right:5px;
+	padding-left:5px;
+	color:Black;
+}
+
+
+.igtb_Windows7ButtonHover
+{
+	background-image: url(images/day_header_active.jpg);
+	border:solid 1px BurlyWood;
+	padding-right:5px;
+	padding-left:5px;
+	color:Black;
+}
+
+
+.igtb_Windows7ButtonPressed
+{
+	background-image: url(images\active_day_header.jpg);
+	color:Black;
+}
+
+
+.igtb_Windows7Label
+{
+}
+
+
+.igtb_Windows7TextBox
+{
+	background-color:WhiteSmoke;
+}
+
+
+.igtb_Windows7Separator
+{
+	background-color:Transparent;
+}
+
+
+.igtb_Office2007BlackButtonDisabled
+{
+}
+
+

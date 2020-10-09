@@ -1,0 +1,255 @@
+.igeb_Office2007BlackControl
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Segoe UI, Verdana, Helvetica, sans-serif;
+	border:solid 1px #4C535C;
+	border-top-width:0px;
+	overflow-x: hidden;
+	_overflow: hidden!important;
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackGroup
+{
+	background-repeat:repeat-x;
+	background-position:0px -60px ;
+	background-image: url(images/igeb_GroupBg.png);
+	display: block;
+	height: 30px;
+	overflow: hidden;
+	line-height: 30px;
+	color:#000444;
+	vertical-align:middle;
+}
+
+
+.igeb_Office2007BlackGroupSelected
+{
+	background-repeat:repeat-x;
+	background-position:0px 0px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackGroupActive
+{
+	background-repeat:repeat-x;
+	background-position:0px 0px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackGroupHover
+{
+	background-repeat:repeat-x;
+	background-position:0px -30px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#373C43;
+}
+
+
+.igeb_Office2007BlackItem
+{
+	background-color:White;
+	line-height: 22px;
+}
+
+
+.igeb_Office2007BlackItemImage
+{
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:0px;
+	vertical-align:middle;
+}
+
+
+.igeb_Office2007BlackItemSelected
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007BlackItemActive
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007BlackItemHover
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007BlackItemDisabled
+{
+}
+
+
+.igeb_Office2007BlackGroupContents
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Office2007BlackGroupLabel
+{
+	font-weight:bold;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Sans-Serif;
+	margin-left:5px;
+	padding-left:5px;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007BlackGroupDisabled
+{
+	background-repeat:repeat-x;
+	background-position:0px -90px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#000888;
+}
+
+
+.igeb_Office2007BlackGroupExpanderImage
+{
+	margin-top:5px;
+	margin-right:5px;
+	float: right;
+}
+
+
+.igeb_Office2007BlackItemLabel
+{
+	font-weight:normal;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	display: block;
+}
+
+
+.igeb_Office2007BlackHolder
+{
+}
+
+
+.igeb_Office2007BlackGroupLink
+{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-left:6px;
+	display: block;
+	color: inherit;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007BlackItemLink
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	display: block;
+	color:#373C43;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007BlackItemParent
+{
+}
+
+
+.igeb_Office2007BlackGroupHover a
+{
+	color:#373C43;
+}
+
+
+.igeb_Office2007BlackGroup a
+{
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackGroupSelected a visited
+{
+	color:Black;
+}
+
+
+/* IE 7 Disabled item fix */
+.igeb_Office2007BlackItemDisabled a visited, .igeb_Office2007BlackItemDisabled a
+{
+	color:Gray;
+}
+
+
+.igeb_Office2007BlackGroupHover a visited
+{
+	color:#373C43;
+}
+
+
+.igeb_Office2007BlackGroupActive a
+{
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackGroup a visited
+{
+	color:#373C43;
+}
+
+
+.igeb_Office2007BlackGroupActive a visited
+{
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackItemHolder img
+{
+	vertical-align:middle;
+}
+
+
+/* IE 7 fix to icon bad alignment*/
+.igeb_Office2007BlackItem ,.igeb_Office2007BlackItemActive ,.igeb_Office2007BlackItemSelected
+{
+	min-height: 30px;
+	_height: 30px;
+}
+
+
+.igeb_Office2007BlackItemHolder
+{
+}
+
+
+.igeb_Office2007BlackGroupSelected a
+{
+	color:#000444;
+}
+
+
+.igeb_Office2007BlackItemContents
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+

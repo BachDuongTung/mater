@@ -1,0 +1,182 @@
+.igdw_Office2007SilverControl
+{
+	background-color:Transparent;
+	border-width:0px;
+}
+
+
+.igdw_Office2007SilverHeaderArea
+{
+	font-weight:bold;
+	border-width:0px;
+	height: 30px;
+	cursor:default;
+	color:White;
+}
+
+
+.igdw_Office2007SilverBodyContent
+{
+	background-color:White;
+}
+
+
+.igdw_Office2007SilverHeaderButton
+{
+	margin:1px;
+	cursor:pointer;
+}
+
+
+.igdw_Office2007SilverHeaderCaption
+{
+	font-weight:normal;
+	font-size:12px;
+	margin-top:16px;
+	margin-left:6px;
+	padding-top:10px;
+	color:DimGray;
+}
+
+
+.igdw_Office2007SilverHeaderButtonArea
+{
+	width: 120px;
+	vertical-align:middle;
+}
+
+
+.igdw_Office2007SilverHeaderImage
+{
+	cursor:default;
+}
+
+
+.igdw_Office2007SilverModalBackground
+{
+	background-color: #FFFFFF;
+	filter: alpha(opacity : 50);
+	opacity: 0.5;
+	z-index: 99999;
+}
+
+
+.igdw_Office2007SilverResizingHandle
+{
+	cursor:se-resize;
+}
+
+
+/* used only when header visible */
+.igdw_Office2007SilverHeaderCornerLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_TopLeft.gif);
+	font-size:1px;
+	width: 4px;
+}
+
+
+/* used only when header visible */
+.igdw_Office2007SilverHeaderContent
+{
+	background-image: url(./images/igdw_top.gif);
+}
+
+
+/* used only when header visible */
+.igdw_Office2007SilverHeaderCornerRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_TopRight.gif);
+	font-size:1px;
+	width: 4px;
+}
+
+
+/* used only when header hidden */
+.igdw_Office2007SilverBodyCornerTopLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_TopLeftHidden.gif);
+	font-size:1px;
+	height: 9px;
+	width: 9px;
+}
+
+
+/* used only when header hidden */
+.igdw_Office2007SilverBodyEdgeTop
+{
+	background-image: url(./images/igdw_topHidden.gif);
+	font-size:1px;
+	height: 9px;
+}
+
+
+/* used only when header hidden */
+.igdw_Office2007SilverBodyCornerTopRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_TopRightHidden.gif);
+	font-size:1px;
+	height: 9px;
+	width: 9px;
+}
+
+
+.igdw_Office2007SilverBodyEdgeLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_EdgeLeft.gif);
+	font-size:1px;
+	width: 4px;
+}
+
+
+.igdw_Office2007SilverBodyEdgeRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_EdgeRight.gif);
+	font-size:1px;
+	width: 4px;
+}
+
+
+.igdw_Office2007SilverBodyCornerBottomLeft
+{
+	font-size:1px;
+	height: 4px;
+	width: 4px;
+	background-color: #DEDDDE; 
+	border-left: 1px solid #727880;
+	border-bottom: 1px solid #727880;
+}
+
+
+.igdw_Office2007SilverBodyContentArea
+{
+	vertical-align:top;
+}
+
+
+.igdw_Office2007SilverBodyCornerBottomRight
+{
+	font-size:1px;
+	height: 4px;
+	width: 4px;
+	background-color: #DEDDDE; 
+	border-right: 1px solid #727880;
+	border-bottom: 1px solid #727880;
+}
+
+
+.igdw_Office2007SilverBodyEdgeBottom
+{
+	font-size:1px;
+	width: 4px;
+	background-color: #DEDDDE; 
+	border-bottom: 1px solid #727880;
+}
+
+

@@ -1,0 +1,598 @@
+.igsli_Windows7Control
+{
+	background-color:Transparent;
+	border-style:none;
+	overflow: hidden;
+}
+
+
+.igsli_Windows7TrackH
+{
+	background-image: url(images/igsli_trackfill.gif);
+	font-size:1px;
+	border:solid 0px Black;
+	margin-left:-1px;
+	position: relative;
+	width: 100%;
+	height: 4px;
+	text-align:left;
+}
+
+
+.igsli_Windows7TrackValueH
+{
+	background-image: url(images/igsli_trackvaluefillh.gif);
+	position: absolute;
+	height: 4px;
+}
+
+
+.igsli_Windows7TrackValue2H
+{
+	background-image: url(images/igsli_trackvaluefill2h.gif);
+	position: absolute;
+	height: 4px;
+}
+
+
+.igsli_Windows7TrackV
+{
+	background-image: url(images/igsli_trackfillv.gif);
+	font-size:1px;
+	border:solid 0px Blue;
+	position: relative;
+	height: 99.9%;
+	width: 4px;
+	text-align:left;
+}
+
+
+.igsli_Windows7TrackValueV
+{
+	background-image: url(images/igsli_trackvaluefillv.gif);
+	position: absolute;
+	width: 100%;
+}
+
+
+.igsli_Windows7TrackValue2V
+{
+	background-image: url(images/igsli_trackvaluefill2v.gif);
+	margin-top:-1px;
+	position: absolute;
+	width: 100%;
+}
+
+
+.igsli_Windows7MarginH
+{
+	font-size:1px;
+	width: 10px;
+	height: 100%;
+}
+
+
+.igsli_Windows7LabelsHolderH
+{
+	font-size:10px;
+	font-family: verdana;
+	position: relative;
+	width: 100%;
+}
+
+
+.igsli_Windows7LabelT
+{
+	font-size:10px;
+	font-family: verdana;
+	margin-left:-23px;
+	position: absolute;
+	overflow: hidden;
+	width: 46px;
+	height: 14px;
+	white-space: nowrap;
+	color:Gray;
+	text-align:center;
+}
+
+
+.igsli_Windows7LabelB
+{
+	font-size:10px;
+	font-family: verdana;
+	margin-left:-23px;
+	position: absolute;
+	overflow: hidden;
+	width: 46px;
+	height: 14px;
+	white-space: nowrap;
+	color:Gray;
+	text-align:center;
+}
+
+
+/* it should be after margin */
+/* if labels are on edges, then position and margin are disabled by inline style */
+.igsli_Windows7LabelEdgeH
+{
+	font-size:10px;
+	font-family: verdana;
+	overflow: hidden;
+	width: 26px;
+	height: 14px;
+	white-space: nowrap;
+	color:Gray;
+	text-align:center;
+}
+
+
+.igsli_Windows7TicksHolderT
+{
+	font-size:1px;
+	border-bottom:solid 0px Blue;
+	margin-bottom:2px;
+	position: relative;
+	width: 100%;
+	height: 5px;
+}
+
+
+.igsli_Windows7TickMajorT
+{
+	font-size:1px;
+	border-left:solid 1px #808080;
+	position: absolute;
+	height: 5px;
+}
+
+
+.igsli_Windows7TickMinorT
+{
+	font-size:1px;
+	border-left:solid 1px #A9A9A9;
+	margin-top:2px;
+	position: absolute;
+	height: 3px;
+}
+
+
+.igsli_Windows7TickLastT
+{
+	margin-left:-1px;
+	width: 1px;
+}
+
+
+.igsli_Windows7TicksHolderB
+{
+	font-size:1px;
+	border-top:solid 0px Blue;
+	margin-top:2px;
+	position: relative;
+	width: 100%;
+	height: 5px;
+}
+
+
+.igsli_Windows7TickMajorB
+{
+	font-size:1px;
+	border-left:solid 1px #808080;
+	position: absolute;
+	height: 5px;
+}
+
+
+.igsli_Windows7TickMinorB
+{
+	font-size:1px;
+	border-left:solid 1px #A9A9A9;
+	position: absolute;
+	height: 3px;
+}
+
+
+.igsli_Windows7TickLastB
+{
+	margin-left:-1px;
+	width: 1px;
+}
+
+
+.igsli_Windows7MarginV
+{
+	font-size:1px;
+	height: 10px;
+}
+
+
+.igsli_Windows7LabelsHolderV
+{
+	font-size:10px;
+	font-family: verdana;
+	position: relative;
+	height: 100%;
+	width: 20px;
+	text-align:left;
+}
+
+
+.igsli_Windows7LabelL
+{
+	font-size:10px;
+	font-family: verdana;
+	margin-top:-7px;
+	margin-left:-25px;
+	position: absolute;
+	overflow: hidden;
+	white-space: nowrap;
+	width: 40px;
+	height: 14px;
+	color:Gray;
+	text-align:right;
+}
+
+
+.igsli_Windows7LabelR
+{
+	font-size:10px;
+	font-family: verdana;
+	margin-top:-7px;
+	margin-left:5px;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	width: 40px;
+	height: 14px;
+	color:Gray;
+}
+
+
+/* it should be after margin */
+/* if labels are on edges, then position and margin are disabled by inline style */
+.igsli_Windows7LabelEdgeV
+{
+	font-size:10px;
+	font-family: verdana;
+	padding-top:7px;
+	padding-bottom:7px;
+	overflow: hidden;
+	white-space: nowrap;
+	width: auto;
+	height: auto;
+	color:Gray;
+	text-align:center;
+}
+
+
+.igsli_Windows7TicksHolderL
+{
+	font-size:1px;
+	border-right:solid 0px Blue;
+	margin-right:2px;
+	position: relative;
+	height: 100%;
+	width: 5px;
+	text-align:left;
+}
+
+
+.igsli_Windows7TickMajorL
+{
+	font-size:1px;
+	border-top:solid 1px #808080;
+	position: absolute;
+	width: 5px;
+}
+
+
+.igsli_Windows7TickMinorL
+{
+	font-size:1px;
+	border-top:solid 1px #808080;
+	margin-left:2px;
+	position: absolute;
+	width: 3px;
+}
+
+
+.igsli_Windows7TickLastL
+{
+	margin-top:-1px;
+	height: 1px;
+}
+
+
+.igsli_Windows7TicksHolderR
+{
+	font-size:1px;
+	border-left:solid 0px Blue;
+	margin-left:2px;
+	position: relative;
+	height: 100%;
+	width: 5px;
+	text-align:left;
+}
+
+
+.igsli_Windows7TickMajorR
+{
+	font-size:1px;
+	border-top:solid 1px #808080;
+	position: absolute;
+	width: 5px;
+}
+
+
+.igsli_Windows7TickMinorR
+{
+	font-size:1px;
+	border-top:solid 1px #808080;
+	position: absolute;
+	width: 3px;
+}
+
+
+.igsli_Windows7TickLastR
+{
+	margin-top:-1px;
+	height: 1px;
+}
+
+
+.igsli_Windows7Button
+{
+	margin:2px;
+	cursor:pointer;
+}
+
+
+.igsli_Windows7ValueLabel
+{
+	font-size:10px;
+	font-family: verdana;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 46px;
+	color:Gray;
+	text-align:center;
+}
+
+
+.igsli_Windows7ThumbsHolderH
+{
+	font-size:1px;
+	position: relative;
+	z-index: 1;
+	width: 100%;
+}
+
+
+.igsli_Windows7ThumbH
+{
+	margin-top:-9px;
+	margin-left:-6px;
+	position: absolute;
+	z-index: 2;
+	cursor:hand;
+}
+
+
+.igsli_Windows7ThumbsHolderV
+{
+	font-size:1px;
+	position: relative;
+	z-index: 1;
+	height: 100%;
+}
+
+
+.igsli_Windows7ThumbV
+{
+	margin-top:-6px;
+	margin-left:-9px;
+	position: absolute;
+	z-index: 2;
+}
+
+
+/* applied to left edge of horizontal track bar */
+.igsli_Windows7TrackEdgeL
+{
+	background-image: url(images/igsli_trackedges.gif);
+	position: absolute;
+	width: 6px;
+	height: 100%;
+	top: 0px;
+	left: -5px;
+}
+
+
+/* applied to right edge of horizontal track bar */
+.igsli_Windows7TrackEdgeR
+{
+	background-position:top right ;
+	background-image: url(images/igsli_trackedges.gif);
+	position: absolute;
+	width: 7px;
+	height: 100%;
+	top: 0px;
+	left: 100%;
+}
+
+
+/* applied to top edge of vertical track bar */
+.igsli_Windows7TrackEdgeT
+{
+	background-image: url(images/igsli_trackedgesv.gif);
+	position: absolute;
+	width: 100%;
+	height: 7px;
+	top: -5px;
+	left: 0px;
+}
+
+
+/* applied to left edge of vertical track bar */
+.igsli_Windows7TrackEdgeB
+{
+	background-position:left bottom ;
+	background-image: url(images/igsli_trackedgesv.gif);
+	margin-top:-2px;
+	position: absolute;
+	width: 100%;
+	height: 10px;
+	top: 100%;
+	left: 0px;
+}
+
+
+.igsli_Windows7ValueLabelFloatT
+{
+	background-color:White;
+	border:solid 1px #A9A9A9;
+	margin-top:-30px;
+	margin-left:-23px;
+	padding-right:1px;
+	padding-left:1px;
+	position: absolute;
+	filter: alpha(opacity : 0);
+	opacity: 0;
+	height: 13px;
+	overflow: visible;
+	width: auto;
+	min-width: 28px;
+	color:Gray;
+}
+
+
+.igsli_Windows7ValueLabelFloatB
+{
+	background-color:White;
+	border:solid 1px #A9A9A9;
+	margin-top:10px;
+	margin-left:-23px;
+	padding-right:1px;
+	padding-left:1px;
+	position: absolute;
+	overflow: visible;
+	width: auto;
+	min-width: 28px;
+	filter: alpha(opacity : 0);
+	opacity: 0;
+	height: 13px;
+	color:Gray;
+}
+
+
+.igsli_Windows7ValueLabelFloatL
+{
+	background-color:White;
+	border:solid 1px #A9A9A9;
+	margin-top:-7px;
+	margin-left:-52px;
+	padding-right:1px;
+	padding-left:1px;
+	position: absolute;
+	overflow: visible;
+	filter: alpha(opacity : 0);
+	opacity: 0;
+	height: 13px;
+	width: auto;
+	min-width: 28px;
+	color:Gray;
+	text-align:right;
+}
+
+
+.igsli_Windows7ValueLabelFloatR
+{
+	background-color:White;
+	border:solid 1px #A9A9A9;
+	margin-top:-7px;
+	margin-left:1px;
+	padding-right:1px;
+	padding-left:1px;
+	position: absolute;
+	overflow: visible;
+	filter: alpha(opacity : 0);
+	opacity: 0;
+	height: 13px;
+	min-width: 28px;
+	width: auto;
+	color:Gray;
+	text-align:left;
+}
+
+
+/* applied to control when it is disabled and when rounded corners are disabled */
+.igsli_Windows7Disabled
+{
+	background-color:Silver;
+}
+
+
+/* applied to track bar when control is disabled and when rounded corners of track are disabled */
+.igsli_Windows7TrackDisabled
+{
+	background-color:#A0A0A0;
+}
+
+
+/* applied to left edge of horizontal track bar when TrackValue is enabled */
+.igsli_Windows7TrackValueEdgeL
+{
+	background-image: url(images/igsli_trackvalueedgesh.gif);
+}
+
+
+/* applied to bottom edge of vertical track bar when TrackValue is enabled */
+.igsli_Windows7TrackValueEdgeB
+{
+	background-image: url(images/igsli_trackvalueedgesv.gif);
+}
+
+
+/* applied to control when it has focus and when rounded corners are disabled */
+.igsli_Windows7Focus
+{
+}
+
+
+/* applied to track bar when control focus and when rounded corners of track are disabled */
+.igsli_Windows7TrackFocus
+{
+}
+
+
+/* applied to left edge of horizontal track bar when TrackValue2 is enabled */
+.igsli_Windows7TrackValue2EdgeL
+{
+}
+
+
+/* applied to bottom edge of vertical track bar when TrackValue2 is enabled */
+.igsli_Windows7TrackValue2EdgeB
+{
+}
+
+
+.igsli_Windows7ValueLabelFloatHover
+{
+	filter: alpha(opacity : 100);
+	opacity: 1;
+}
+
+
+/* applied to control when mouse moved over it and when rounded corners are disabled */
+.igsli_Windows7Hover
+{
+}
+
+
+/* applied to track bar when mouse is moved over control and when rounded corners of track are disabled */
+.igsli_Windows7TrackHover
+{
+}
+
+

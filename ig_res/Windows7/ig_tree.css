@@ -1,0 +1,62 @@
+.igtr_Windows7Control
+{
+	border-width:0px;
+	color:Black;
+}
+
+
+.igtr_Windows7Island
+{
+}
+
+
+.igtr_Windows7Node
+{
+	cursor:hand;
+	color:Black;
+}
+
+
+.igtr_Windows7Parent
+{
+}
+
+
+.igtr_Windows7Leaf
+{
+}
+
+
+.igtr_Windows7Edit
+{
+}
+
+
+.igtr_Windows7Root
+{
+	font-weight:bold;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.igtr_Windows7Hover
+{
+	color:Black;
+	text-decoration:underline;
+}
+
+
+.igtr_Windows7Selected
+{
+	background-color:#E5E5E6;
+	color:Black;
+}
+
+
+.igtr_Windows7Disabled
+{
+	color:#DADEE8;
+}
+
+

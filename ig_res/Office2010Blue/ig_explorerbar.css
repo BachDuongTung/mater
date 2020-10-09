@@ -1,0 +1,263 @@
+.igeb_Office2010BlueControl
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Segoe UI, Verdana, Helvetica, sans-serif;
+	border:solid 1px #859EBF;
+	border-top-width:0px;
+	overflow-x: hidden;
+	_overflow: hidden!important;
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroup
+{
+	background-repeat:repeat-x;
+	background-color:#dde9f7;
+	background-position: 0 0;
+	background-image: url(images/igeb_groupSprite.png);	
+	display: block;
+	height: 30px;
+	overflow: hidden;
+	line-height: 30px;
+	color:#1E395B;
+	vertical-align:middle;
+}
+
+
+.igeb_Office2010BlueGroupSelected
+{
+	background-repeat:repeat-x;
+	background-position:0px -80px;
+	background-color:#9bb3d2;
+	background-image: url(images/igeb_groupSprite.png);	
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroupActive
+{
+	background-repeat:repeat-x;
+	background-position:0px -80px;
+	background-color:#9bb3d2;
+	background-image: url(images/igeb_groupSprite.png);
+	color:#0060BF;
+}
+
+
+.igeb_Office2010BlueGroupHover
+{
+	background-repeat:repeat-x;
+	background-position:0px -40px;
+	background-color:#e6f2fa;
+	background-image: url(images/igeb_groupSprite.png);
+	color:#0060BF;
+}
+
+
+.igeb_Office2010BlueItem
+{
+	background-color:transparent;
+	line-height: 22px;
+}
+
+
+.igeb_Office2010BlueItemImage
+{
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:0px;
+}
+
+
+.igeb_Office2010BlueItemSelected
+{
+	background-color:#859EBF;
+	background-repeat:repeat-x;
+	color:White;
+}
+
+
+.igeb_Office2010BlueItemActive
+{
+	background-color:#859EBF;
+	color:White;
+}
+
+
+.igeb_Office2010BlueItemHover
+{
+	background-color:#A7CDF0;
+}
+
+
+.igeb_Office2010BlueItemDisabled
+{
+}
+
+
+.igeb_Office2010BlueGroupContents
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Office2010BlueGroupLabel
+{
+	font-weight:bold;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Sans-Serif;
+	margin-left:5px;
+	padding-left:5px;
+	text-decoration:none;
+}
+
+
+.igeb_Office2010BlueGroupDisabled
+{
+	background-repeat:repeat-x;
+	background-position:0px -120px;
+	background-color:#B5B5B5;
+	background-image: url(images/igeb_groupSprite.png);
+	color:Gray;
+}
+
+
+.igeb_Office2010BlueGroupExpanderImage
+{
+	margin-top:5px;
+	margin-right:5px;
+	float: right;
+}
+
+
+.igeb_Office2010BlueItemLabel
+{
+	font-weight:normal;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	display: block;
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueHolder
+{
+}
+
+
+.igeb_Office2010BlueGroupLink
+{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-left:6px;
+	display: block;
+	color: inherit;
+	text-decoration:none;
+}
+
+
+.igeb_Office2010BlueItemLink
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	display: block;
+	color:#333333;
+	text-decoration:none;
+}
+
+
+.igeb_Office2010BlueItemParent
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igeb_Bullet.png);
+}
+
+
+/* IE 7 Disabled item fix */
+.igeb_Office2010BlueItemDisabled a visited, .igeb_Office2010BlueItemDisabled a
+{
+	color:Gray;
+}
+
+
+.igeb_Office2010BlueGroup a visited
+{
+	color:#1E395B;
+}
+
+
+/* IE 7 fix to icon bad alignment*/
+.igeb_Office2010BlueItem ,.igeb_Office2010BlueItemActive ,.igeb_Office2010BlueItemSelected
+{
+	min-height: 30px;
+	_height: 30px;
+}
+
+
+.igeb_Office2010BlueGroupActive a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroupSelected a visited
+{
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroupSelected a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroupActive a visited
+{
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueGroupHover a
+{
+	color:#0060BF;
+}
+
+
+.igeb_Office2010BlueItemHolder img
+{
+	vertical-align:middle;
+}
+
+
+.igeb_Office2010BlueGroup a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Office2010BlueItemHolder
+{
+}
+
+
+.igeb_Office2010BlueItemContents
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Office2010BlueGroupHover a visited
+{
+	color:#0060BF;
+}

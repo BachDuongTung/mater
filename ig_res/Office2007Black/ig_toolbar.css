@@ -1,0 +1,64 @@
+.igtb_Office2007BlackControl
+{
+	background-color:#3C3C3C;
+	background-repeat:repeat-x;
+	border-color:Transparent;
+}
+
+
+.igtb_Office2007BlackItem
+{
+	background-color:Transparent;
+}
+
+
+.igtb_Office2007BlackButton
+{
+	background-color:Transparent;
+	border:solid 1px Transparent;
+	padding-right:5px;
+	padding-left:5px;
+	color:White;
+}
+
+
+.igtb_Office2007BlackButtonHover
+{
+	background-image: url(images/day_header_active.jpg);
+	border-color:DarkGray;
+	color:Black;
+	border:solid 1px;
+	padding-right:5px;
+	padding-left:5px;
+}
+
+
+.igtb_Office2007BlackButtonPressed
+{
+	color:Black;
+}
+
+
+.igtb_Office2007BlackLabel
+{
+	color:White;
+}
+
+
+.igtb_Office2007BlackTextBox
+{
+	background-color:White;
+}
+
+
+.igtb_Office2007BlackSeparator
+{
+	background-color:Transparent;
+}
+
+
+.igtb_Office2007BlackButtonDisabled
+{
+}
+
+

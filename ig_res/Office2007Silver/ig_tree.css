@@ -1,0 +1,62 @@
+.igtr_Office2007SilverControl
+{
+	border-width:0px;
+	color:Black;
+}
+
+
+.igtr_Office2007SilverIsland
+{
+}
+
+
+.igtr_Office2007SilverNode
+{
+	cursor:hand;
+	color:Black;
+}
+
+
+.igtr_Office2007SilverParent
+{
+}
+
+
+.igtr_Office2007SilverLeaf
+{
+}
+
+
+.igtr_Office2007SilverEdit
+{
+}
+
+
+.igtr_Office2007SilverRoot
+{
+	font-weight:bold;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.igtr_Office2007SilverHover
+{
+	color:Black;
+	text-decoration:underline;
+}
+
+
+.igtr_Office2007SilverSelected
+{
+	background-color:#E5E5E6;
+	color:Black;
+}
+
+
+.igtr_Office2007SilverDisabled
+{
+	color:#DADEE8;
+}
+
+

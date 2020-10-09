@@ -1,0 +1,81 @@
+﻿.igr_Office2007SilverControl
+{
+    outline: none;
+	border : 0px none;
+	background:transparent;
+}
+
+.igr_Office2007SilverEmptyContainer
+{
+    overflow : hidden;
+}
+
+.igr_Office2007SilverSelectedContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Office2007SilverHoveredContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Office2007SilverImageSpan
+{
+    display : inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Office2007SilverImageSpanVert
+{
+    display : block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Office2007SilverEmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.igr_Office2007SilverSelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -50px 0px;
+}
+
+.igr_Office2007SilverHoveredImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -25px 0px;
+}
+/*
+    These were added for our clients to control the disabled appearence
+*/
+
+.igr_Office2007SilverDisabledEmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -75px 0px;
+}
+
+.igr_Office2007SilverDisabledSelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -100px 0px;
+}
+
+.igr_Office2007SilverControlFocus
+{
+    border : 0px none;
+}
+
+.igr_Office2007SilverControlDisabled
+{
+}

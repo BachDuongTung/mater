@@ -1,0 +1,2180 @@
+.igtab_Office2007BlackTHControl
+{
+	overflow:hidden;
+}
+.igtab_Office2007BlackTHContentHolder
+{
+	border:1px solid #BBBBBB;
+	border-top-width:0px;
+	height:80%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Office2007BlackTHContent
+{
+	height:100%;
+	position:relative;
+	background:#E6F0F1 url(./images/igtab_THContentBackground.png) repeat-x;
+}
+.igtab_Office2007BlackTHHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Office2007BlackTHHolder
+{
+	background:#535353 url(./images/igtab_HolderBorder.png) repeat-x bottom left;
+	position:relative;
+	display:block;
+	height:23px;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Office2007BlackTHRoundedForHolder
+{
+	background-color:#535353;
+	margin-left:5px;
+	height:22px;
+}
+.igtab_Office2007BlackTHHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Office2007BlackTHHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Office2007BlackTHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+}
+.igtab_Office2007BlackTHRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Office2007BlackTHImage
+{
+	vertical-align:middle;
+}
+.igtab_Office2007BlackTHClose
+{
+	position:absolute;
+	left:100%;
+	margin-left:-20px;
+	margin-top:6px;
+	top:0px;
+	cursor: pointer;
+}
+.igtab_Office2007BlackTHScrollButton
+{
+	padding:1px;
+}
+.igtab_Office2007BlackTHText
+{
+	color: #FFFFFF;
+	vertical-align:middle;
+	padding:0px 1px 0px 1px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:22px;
+	cursor:default;
+}
+.igtab_Office2007BlackTHCenter
+{
+	padding:0px 1px 0px 1px;
+	display:block;
+	position:relative;
+	background:url(./images/igtab_THCenter.png) repeat-x;
+	white-space:nowrap;
+	text-align:center;
+	font:22px sans-serif;
+	line-height:22px;
+	overflow:hidden;
+}
+.igtab_Office2007BlackTHCloseSize
+{
+	padding-right:20px;
+}
+.igtab_Office2007BlackTHTail
+{
+	background: transparent none;
+	padding-left:0px;
+	padding-right:7px;
+	display:block;
+	margin: 0px;
+	height:100%;
+}
+.igtab_Office2007BlackTHTab
+{
+	display:inline;
+	position:relative;
+	padding-left:7px;
+	float:left;
+	background: transparent url(./images/igtab_THLeft.png) top left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+	border-bottom:1px solid #BBBBBB;
+	height:22px;
+}
+.igtab_Office2007BlackTHOverlap
+{
+	margin-left:-5px;
+}
+.igtab_Office2007BlackTHRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Office2007BlackTHTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Office2007BlackTHCenterHov
+{
+	background-position: 0px -50px;
+}
+.igtab_Office2007BlackTHTailHov
+{
+	background: transparent url(./images/igtab_THRightHov.png) no-repeat;
+	background-position: top right;
+}
+.igtab_Office2007BlackTHTabHov
+{
+	background-position: 0px -50px;
+}
+.igtab_Office2007BlackTHTextSel
+{
+	color: #000000;
+}
+.igtab_Office2007BlackTHCenterSel
+{
+	background-position: 0px -100px;
+}
+.igtab_Office2007BlackTHTailSel
+{
+	background: transparent url(./images/igtab_THRightSel.png) no-repeat;
+	background-position: top right;
+}
+.igtab_Office2007BlackTHTabSel
+{
+	background-position: 0px -100px;
+}
+.igtab_Office2007BlackTHTextAct
+{
+	border:1px dotted #DDD;
+	padding:0px;
+}
+.igtab_Office2007BlackTHCenterAct
+{
+}
+.igtab_Office2007BlackTHTailAct
+{
+}
+.igtab_Office2007BlackTHTabAct
+{
+}
+.igtab_Office2007BlackTHTextDis
+{
+	color:#777777;
+}
+.igtab_Office2007BlackTHCenterDis
+{
+	background-position: 0px -150px;
+}
+.igtab_Office2007BlackTHTailDis
+{
+}
+.igtab_Office2007BlackTHTabDis
+{
+	background-position: 0px -150px;
+}
+.igtab_Office2007BlackTHTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackTHTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+
+.igtab_Office2007BlackTHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackTHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackTHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackTHRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+.igtab_Office2007BlackTVControl
+{
+	overflow:hidden;
+}
+.igtab_Office2007BlackTVContentHolder
+{
+	border:1px solid #BBBBBB;
+	border-top-width:0px;
+	height:50%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Office2007BlackTVContent
+{
+	height:100%;
+	position:relative;
+	background:#E6F0F1 url(./images/igtab_THContentBackground.png) repeat-x;
+}
+.igtab_Office2007BlackTVHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Office2007BlackTVHolder
+{
+	background:#535353 url(./images/igtab_HolderBorder.png) repeat-x bottom left;
+	position:relative;
+	display:block;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Office2007BlackTVRoundedForHolder
+{
+	background-color:#535353;
+	margin-left:5px;
+}
+.igtab_Office2007BlackTVHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Office2007BlackTVHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Office2007BlackTVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	top:100%;
+	display:block;
+	margin-left:-45px;
+	margin-top:-33px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Office2007BlackTVRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Office2007BlackTVImage
+{
+	margin-left:10%;
+	display:block;
+}
+.igtab_Office2007BlackTVClose
+{
+	position:absolute;
+	left:100%;
+	top:100%;
+	margin-left:-24px;
+	margin-top:-14px;
+	cursor: pointer;
+}
+.igtab_Office2007BlackTVScrollButton
+{
+	padding:1px;
+}
+.igtab_Office2007BlackTVText
+{
+	color: #FFFFFF;
+	margin-top:5px;
+	margin-bottom:6px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:11px;
+	display:block;
+	text-align:center;
+	overflow:hidden;
+	margin-left:5px;
+	width:20px;
+	cursor:default;
+}
+.igtab_Office2007BlackTVCenter
+{
+	padding-top:5px;
+	display:block;
+	position:relative;
+	overflow:hidden;
+}
+.igtab_Office2007BlackTVCloseSize
+{
+	padding-bottom:14px;
+}
+.igtab_Office2007BlackTVMirrorCenter
+{
+	background:transparent none;
+	display:block;
+	margin-top:12px;
+	width:100%;
+	height:100%;
+}
+.igtab_Office2007BlackTVMirror
+{
+	background:transparent none;
+	display:block;
+	position:absolute;
+	margin-left:8px;
+	width:26px;
+	height:100%;
+}
+.igtab_Office2007BlackTVTail
+{
+	background:url(./images/igtab_TVLeft.png) repeat-y;
+	padding:0px;
+	display:block;
+	position:absolute;
+	width:12px;
+	margin-top:12px;
+	height:100%;
+}
+.igtab_Office2007BlackTVTab
+{
+	display:inline;
+	position:relative;
+	padding:0px;
+	float:left;
+	background:url(./images/igtab_TVLeftTop.png) -22px -28px no-repeat;
+	margin:0px;
+	overflow:hidden;
+	width:34px;
+	border-bottom:1px solid #BBBBBB;
+}
+.igtab_Office2007BlackTVOverlap
+{
+	margin-left:-7px;
+}
+.igtab_Office2007BlackTVRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Office2007BlackTVTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Office2007BlackTVCenterHov
+{
+}
+.igtab_Office2007BlackTVMirrorCenterHov
+{
+	background:url(./images/igtab_TVRightHov.png) top right repeat-y;
+}
+.igtab_Office2007BlackTVMirrorHov
+{
+	background:url(./images/igtab_TVRightTopHov.png) top right no-repeat;
+}
+.igtab_Office2007BlackTVTailHov
+{
+	background-position: -50px 0px;
+}
+.igtab_Office2007BlackTVTabHov
+{
+	background-position: -11px 0px;
+}
+.igtab_Office2007BlackTVTextSel
+{
+	color: #000000;
+}
+.igtab_Office2007BlackTVCenterSel
+{
+}
+.igtab_Office2007BlackTVMirrorCenterSel
+{
+	background: #d2d6dc url(./images/igtab_TVRightSel.png) top right repeat-y;
+}
+.igtab_Office2007BlackTVMirrorSel
+{
+	background:url(./images/igtab_TVRightTopSel.png) top right no-repeat;
+}
+.igtab_Office2007BlackTVTailSel
+{
+	background-position: -100px 0px;
+	background-color: #d2d6dc;
+}
+.igtab_Office2007BlackTVTabSel
+{
+	background-position: 0px -14px;
+}
+.igtab_Office2007BlackTVTextAct
+{
+	margin-left:4px;
+	border:1px dotted #ddd;
+}
+.igtab_Office2007BlackTVCenterAct
+{
+}
+.igtab_Office2007BlackTVMirrorCenterAct
+{
+}
+.igtab_Office2007BlackTVMirrorAct
+{
+}
+.igtab_Office2007BlackTVTailAct
+{
+}
+.igtab_Office2007BlackTVTabAct
+{
+}
+.igtab_Office2007BlackTVTextDis
+{
+	color:#777777;
+}
+.igtab_Office2007BlackTVCenterDis
+{
+}
+.igtab_Office2007BlackTVMirrorCenterDis
+{
+}
+.igtab_Office2007BlackTVMirrorDis
+{
+}
+.igtab_Office2007BlackTVTailDis
+{
+	background-position: -150px 0px;
+}
+.igtab_Office2007BlackTVTabDis
+{
+	background-position: 0px -57px;
+}
+.igtab_Office2007BlackTVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackTVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackTVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackTVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackTVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackTVRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.igtab_Office2007BlackBHControl
+{
+	overflow:hidden;
+}
+.igtab_Office2007BlackBHContentHolder
+{
+	border:1px solid #BBBBBB;
+	border-bottom-width: 0px;
+	height:60%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Office2007BlackBHContent
+{
+	height:100%;
+	background:#E6F0F1 url(./images/igtab_THContentBackground.png) repeat-x;
+	position:relative;
+}
+.igtab_Office2007BlackBHHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Office2007BlackBHHolder
+{
+	background:#535353 url(./images/igtab_HolderBorder.png) repeat-x;
+	position:relative;
+	display:block;
+	height:23px;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Office2007BlackBHRoundedForHolder
+{
+	background-color:#535353;
+	margin-left:5px;
+	height:22px;
+}
+.igtab_Office2007BlackBHHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Office2007BlackBHHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Office2007BlackBHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:1px;
+}
+.igtab_Office2007BlackBHRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Office2007BlackBHImage
+{
+	vertical-align:middle;
+}
+.igtab_Office2007BlackBHClose
+{
+	position:absolute;
+	left:100%;
+	margin-left:-20px;
+	margin-top:5px;
+	top:0px;
+	cursor: pointer;
+}
+.igtab_Office2007BlackBHScrollButton
+{
+	padding:1px;
+}
+.igtab_Office2007BlackBHText
+{
+	color: #FFFFFF;
+	vertical-align:middle;
+	padding:0px 1px 0px 1px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:22px;
+	cursor:default;
+}
+.igtab_Office2007BlackBHCenter
+{
+	padding:0px 1px 0px 1px;
+	display:block;
+	position:relative;
+	/* do not use position-y:bottom, because of IE7 bugs: if tab has IMG, then background is shifted by 1-3 pixels down. */
+	background:url(./images/igtab_BHCenter.png) top left repeat-x;
+	white-space:nowrap;
+	text-align:center;
+	font:22px sans-serif;
+	line-height:22px;
+	overflow:hidden;
+}
+.igtab_Office2007BlackBHCloseSize
+{
+	padding-right:20px;
+}
+.igtab_Office2007BlackBHTail
+{
+	background: transparent none;
+	padding-left:0px;
+	padding-right:7px;
+	display:block;
+	height:100%;
+}
+.igtab_Office2007BlackBHTab
+{
+	display:inline;
+	position:relative;
+	padding-left:7px;
+	float:left;
+	background:transparent url(./images/igtab_BHLeft.png) top left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+	border-top:1px solid #BBBBBB;
+	height:22px;
+}
+.igtab_Office2007BlackBHOverlap
+{
+	margin-left:-5px;
+}
+.igtab_Office2007BlackBHRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Office2007BlackBHTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Office2007BlackBHCenterHov
+{
+	background-position: 0px -27px;
+}
+.igtab_Office2007BlackBHTailHov
+{
+	background:url(./images/igtab_BHRightHov.png) bottom right;
+}
+.igtab_Office2007BlackBHTabHov
+{
+	background-position: 0px -27px;
+}
+.igtab_Office2007BlackBHTextSel
+{
+	color: #000000;
+}
+.igtab_Office2007BlackBHCenterSel
+{
+	background-position: 0px -54px;
+}
+.igtab_Office2007BlackBHTailSel
+{
+	background:url(./images/igtab_BHRightSel.png) bottom right;
+}
+.igtab_Office2007BlackBHTabSel
+{
+	background-position: 0px -54px;
+}
+.igtab_Office2007BlackBHTextAct
+{
+	border:1px dotted #ddd;
+	padding:0px;
+}
+.igtab_Office2007BlackBHCenterAct
+{
+}
+.igtab_Office2007BlackBHTailAct
+{
+}
+.igtab_Office2007BlackBHTabAct
+{
+}
+.igtab_Office2007BlackBHTextDis
+{
+	color:#777777;
+}
+.igtab_Office2007BlackBHCenterDis
+{
+	background-position: 0px -81px;
+}
+.igtab_Office2007BlackBHTailDis
+{
+}
+.igtab_Office2007BlackBHTabDis
+{
+	background-position: 0px -81px;
+}
+.igtab_Office2007BlackBHTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackBHTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackBHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackBHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackBHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackBHRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.igtab_Office2007BlackBVControl
+{
+	overflow:hidden;
+}
+.igtab_Office2007BlackBVContentHolder
+{
+	border:1px solid #BBBBBB;
+	border-bottom-width: 0px;
+	height:50%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Office2007BlackBVContent
+{
+	height:100%;
+	position:relative;
+	background:#E6F0F1 url(./images/igtab_THContentBackground.png) repeat-x;
+}
+.igtab_Office2007BlackBVHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Office2007BlackBVHolder
+{
+	background:#535353 url(./images/igtab_HolderBorder.png) repeat-x;
+	position:relative;
+	display:block;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Office2007BlackBVRoundedForHolder
+{
+	background-color:#535353;
+	margin-left:5px;
+}
+.igtab_Office2007BlackBVHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Office2007BlackBVHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Office2007BlackBVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	margin-top:3px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Office2007BlackBVRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Office2007BlackBVImage
+{
+	margin-left:10%;
+	display:block;
+}
+.igtab_Office2007BlackBVClose
+{
+	position:absolute;
+	left:100%;
+	top:100%;
+	margin-left:-24px;
+	margin-top:-18px;
+	cursor: pointer;
+}
+.igtab_Office2007BlackBVScrollButton
+{
+	padding:1px;
+}
+.igtab_Office2007BlackBVText
+{
+	color: #FFFFFF;
+	margin-top:3px;
+	margin-bottom:5px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:11px;
+	display:block;
+	text-align:center;
+	overflow:hidden;
+	margin-left:5px;
+	width:20px;
+	cursor:default;
+}
+.igtab_Office2007BlackBVCenter
+{
+	padding-bottom:5px;
+	display:block;
+	position:relative;
+	overflow:hidden;
+}
+.igtab_Office2007BlackBVCloseSize
+{
+	padding-bottom:17px;
+}
+.igtab_Office2007BlackBVMirrorCenter
+{
+	display:block;
+	margin-top:-12px;
+	width:100%;
+	height:100%;
+}
+.igtab_Office2007BlackBVMirror
+{
+	background:bottom right no-repeat;
+	display:block;
+	position:absolute;
+	margin-left:8px;
+	width:26px;
+	height:100%;
+}
+.igtab_Office2007BlackBVTail
+{
+	background: #d2d6dc url(./images/igtab_BVLeft.png) repeat-y;
+	padding:0px;
+	display:block;
+	position:absolute;
+	width:12px;
+	margin-top:-12px;
+	height:100%;
+}
+.igtab_Office2007BlackBVTab
+{
+	display:inline;
+	position:relative;
+	padding:0px;
+	float:left;
+	background:bottom left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	width:34px;
+	border-top:1px solid #BBBBBB;
+}
+.igtab_Office2007BlackBVOverlap
+{
+	margin-left:-7px;
+}
+.igtab_Office2007BlackBVRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Office2007BlackBVTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Office2007BlackBVCenterHov
+{
+}
+.igtab_Office2007BlackBVMirrorCenterHov
+{
+	background-image:url(./images/igtab_BVRightHov.png);
+}
+.igtab_Office2007BlackBVMirrorHov
+{
+	background-image:url(./images/igtab_BVRightBotHov.png);
+}
+.igtab_Office2007BlackBVTailHov
+{
+	background-position: -50px 0px;
+	background-color: #9b884b;
+}
+.igtab_Office2007BlackBVTabHov
+{
+	background-image:url(./images/igtab_BVLeftBotHov.png);
+	background-color: #9b884b;
+}
+.igtab_Office2007BlackBVTextSel
+{
+	color: #000000;
+}
+.igtab_Office2007BlackBVCenterSel
+{
+}
+.igtab_Office2007BlackBVMirrorCenterSel
+{
+	background-image:url(./images/igtab_BVRightSel.png);
+	background-color:#d2d6dc;
+}
+.igtab_Office2007BlackBVMirrorSel
+{
+	background-image:url(./images/igtab_BVRightBotSel.png);
+}
+.igtab_Office2007BlackBVTailSel
+{
+	background-position: -100px 0px;
+	background-color: #d2d6dc;
+}
+.igtab_Office2007BlackBVTabSel
+{
+	background-image:url(./images/igtab_BVLeftBotSel.png);
+}
+.igtab_Office2007BlackBVTextAct
+{
+	margin: 2px 0px 0px 4px;
+	border:1px dotted #ddd;
+}
+.igtab_Office2007BlackBVCenterAct
+{
+}
+.igtab_Office2007BlackBVMirrorCenterAct
+{
+}
+.igtab_Office2007BlackBVMirrorAct
+{
+}
+.igtab_Office2007BlackBVTailAct
+{
+}
+.igtab_Office2007BlackBVTabAct
+{
+}
+.igtab_Office2007BlackBVTextDis
+{
+	color:#777777;
+}
+.igtab_Office2007BlackBVCenterDis
+{
+}
+.igtab_Office2007BlackBVMirrorCenterDis
+{
+}
+.igtab_Office2007BlackBVMirrorDis
+{
+}
+.igtab_Office2007BlackBVTailDis
+{
+	background-position: -150px 0px;
+}
+.igtab_Office2007BlackBVTabDis
+{
+}
+.igtab_Office2007BlackBVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackBVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackBVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackBVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackBVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackBVRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+ 
+
+
+
+
+
+
+
+.igtab_Office2007BlackLVControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackLVContentHolder
+{
+	background:#FFFFFF;
+	border:1px solid #bbbbbb;
+	height:99%;
+	margin-left:24px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Office2007BlackLVContent
+{
+	height:100%;
+	position:relative;
+	background:url(./images/igtab_LVContentBackground.png) repeat-y scroll 0 0 #E6F0F1;
+}
+.igtab_Office2007BlackLVHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:0px;
+	top:0px;
+	height:100%;
+	width:25px;
+	
+	background: #535353;
+}
+.igtab_Office2007BlackLVHolderScroll
+{	
+	top:-47px;
+}
+.igtab_Office2007BlackLVHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Office2007BlackLVRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Office2007BlackLVRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Office2007BlackLVRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Office2007BlackLVRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Office2007BlackLVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	margin-left:5px;	
+	z-index:20000; 
+	left:0px;
+}
+.igtab_Office2007BlackLVRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Office2007BlackLVScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Office2007BlackLVClose
+{
+	position:absolute;
+	cursor:pointer;
+	margin-top:-15px;
+	margin-left:6px;
+}
+.igtab_Office2007BlackLVCloseSize 
+{
+	padding-bottom:14px;
+}
+.igtab_Office2007BlackLVImage
+{
+	vertical-align:middle;
+	position:relative;
+	display:block;
+}
+.igtab_Office2007BlackLVText
+{
+	vertical-align:middle;
+	line-height:14px;
+	font-family:Verdana;
+	font-size:11px;
+	display:block;
+	padding-left:6px;
+	position:relative;
+	
+	cursor:default;
+	color:#FFFFFF;
+}
+.igtab_Office2007BlackLVCenter
+{
+	display:block;
+	position:relative;
+	overflow:hidden;	
+	background:url(./images/igtab_LVCenter.gif) repeat-y;
+	background-color:transparent;
+	padding-left:3px;
+}
+.igtab_Office2007BlackLVTail
+{
+	display:block;
+	background:url(./images/igtab_LVBot.gif) bottom left;
+	padding-top:3px;
+}
+.igtab_Office2007BlackLVTab
+{
+	background:url(./images/igtab_LVTop.gif) no-repeat top left;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	padding-top:3px;
+	border-right:1px solid #bbbbbb;
+}
+.igtab_Office2007BlackLVOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Office2007BlackLVTextHov
+{
+}
+.igtab_Office2007BlackLVCenterHov
+{
+	background-image:url(./images/igtab_LVCenterHov.gif);
+	background-color:#9b884b;
+}
+.igtab_Office2007BlackLVTailHov
+{
+	background-image:url(./images/igtab_LVBotHov.gif);
+}
+.igtab_Office2007BlackLVTabHov
+{
+	background-image:url(./images/igtab_LVTopHov.gif);
+	color:#ffffff;
+}
+.igtab_Office2007BlackLVTextSel
+{
+    color:#000000;
+}
+.igtab_Office2007BlackLVCenterSel
+{
+	background-image:url(./images/igtab_LVCenterSel.gif);
+	background-color:#d2d6dc;
+}
+.igtab_Office2007BlackLVTailSel
+{
+	background-image:url(./images/igtab_LVBotSel.gif);
+	border-right-color:#bebebe;
+}
+.igtab_Office2007BlackLVTabSel
+{
+	background-image:url(./images/igtab_LVTopSel.gif);
+	border-right-color:#bebebe;
+}
+.igtab_Office2007BlackLVTextAct
+{	
+	border:1px dotted #000;
+}
+.igtab_Office2007BlackLVCenterAct
+{
+}
+.igtab_Office2007BlackLVTailAct
+{
+}
+.igtab_Office2007BlackLVTabAct
+{
+}
+.igtab_Office2007BlackLVTextDis
+{
+    color:#777777;
+}
+.igtab_Office2007BlackLVCenterDis
+{
+	background-image:url(./images/igtab_LVCenterDis.gif);
+	background-color:#535353;
+}
+.igtab_Office2007BlackLVTailDis
+{
+	background-image:url(./images/igtab_LVBotDis.gif);
+}
+.igtab_Office2007BlackLVTabDis
+{
+	background-image:url(./images/igtab_LVTopDis.gif);
+	border-right:1px solid #535353;
+}
+.igtab_Office2007BlackLVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackLVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackLVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackLVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackLVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackLVRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+.igtab_Office2007BlackRVControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackRVContentHolder
+{
+	background:#FFFFFF;
+	border-right:1px solid #bbbbbb;
+	border-bottom:1px solid #bbbbbb;
+	border-top:1px solid #bbbbbb;
+	height:99%;
+	margin-left:-24px;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	z-index:9;
+}
+.igtab_Office2007BlackRVContentHolderInner
+{
+	border-left:1px solid #bbbbbb;
+	height:100%;
+	margin-left:24px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Office2007BlackRVContent
+{
+	height:100%;
+	position:relative;
+	background:url(./images/igtab_RVContentBackground.png) repeat-y scroll right 0 #E6F0F1;
+}
+.igtab_Office2007BlackRVHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:100%;
+	top:0px;
+	height:100%;
+	width:24px;
+	margin-left:-24px;
+	
+	background: #535353;
+}
+.igtab_Office2007BlackRVHolderScroll
+{
+	top:-47px;
+}
+.igtab_Office2007BlackRVHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Office2007BlackRVRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Office2007BlackRVRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Office2007BlackRVRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Office2007BlackRVRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Office2007BlackRVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;	
+	z-index:20000;
+	left:100%;
+	margin-top:-47px;
+	margin-left:-22px;
+}
+.igtab_Office2007BlackRVRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Office2007BlackRVScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Office2007BlackRVClose
+{
+	position:absolute;
+	margin-top:-15px;
+	margin-left:4px;
+	cursor:pointer;
+}
+.igtab_Office2007BlackRVCloseSize
+{
+	padding-bottom:14px;
+}
+.igtab_Office2007BlackRVImage
+{
+	vertical-align:middle;
+	position:relative;
+	display:block;
+}
+.igtab_Office2007BlackRVText
+{
+	vertical-align:middle;
+	line-height:14px;
+	font-family:Verdana;
+	font-size:11px;
+	display:block;
+	padding-left:5px;
+	width:13px;
+	position:relative;
+	
+	cursor:default;
+	color:#FFFFFF;
+}
+.igtab_Office2007BlackRVCenter
+{
+	display:block;
+	position:relative;
+	overflow:hidden;
+	background:url(./images/igtab_RVCenter.gif) repeat-y top right;
+	background-color:transparent;
+	padding-left:1px;
+}
+.igtab_Office2007BlackRVTail
+{
+	display:block;
+	background:url(./images/igtab_RVBot.gif) bottom right;
+	padding-top:3px;
+}
+.igtab_Office2007BlackRVTab
+{
+	background:url(./images/igtab_RVTop.gif) no-repeat top right;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	padding-top:3px;
+	border-left:1px solid #bbbbbb;
+}
+.igtab_Office2007BlackRVOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Office2007BlackRVTextHov
+{
+}
+.igtab_Office2007BlackRVCenterHov
+{
+	background-image:url(./images/igtab_RVCenterHov.gif);
+	background-color:#9b884b;
+}
+.igtab_Office2007BlackRVTailHov
+{
+	background-image:url(./images/igtab_RVBotHov.gif);
+}
+.igtab_Office2007BlackRVTabHov
+{
+	background-image:url(./images/igtab_RVTopHov.gif);
+	color:#ffffff;
+}
+.igtab_Office2007BlackRVTextSel
+{
+    color:#000000;
+}
+.igtab_Office2007BlackRVCenterSel
+{
+	background-image:url(./images/igtab_RVCenterSel.gif);
+	background-color:#d2d6dc;
+}
+.igtab_Office2007BlackRVTailSel
+{
+	background-image:url(./images/igtab_RVBotSel.gif);
+	border-left-color:#bebebe;
+}
+.igtab_Office2007BlackRVTabSel
+{
+	background-image:url(./images/igtab_RVTopSel.gif);
+	border-left-color:#bebebe;
+}
+.igtab_Office2007BlackRVTextAct
+{
+	border:1px dotted #000;
+}
+.igtab_Office2007BlackRVCenterAct
+{
+}
+.igtab_Office2007BlackRVTailAct
+{
+}
+.igtab_Office2007BlackRVTabAct
+{
+}
+.igtab_Office2007BlackRVTextDis
+{
+    color:#777777;
+}
+.igtab_Office2007BlackRVCenterDis
+{
+	background-image:url(./images/igtab_RVCenterDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Office2007BlackRVTailDis
+{
+	background-image:url(./images/igtab_RVBotDis.gif);
+}
+.igtab_Office2007BlackRVTabDis
+{
+	background-image:url(./images/igtab_RVTopDis.gif);
+}
+.igtab_Office2007BlackRVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackRVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackRVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackRVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackRVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackRVRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+
+
+
+
+.igtab_Office2007BlackLHControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackLHContentHolder
+{
+	background:#FFFFFF;
+	border:1px solid #bbbbbb;
+	height:99%;
+	left:-1px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Office2007BlackLHContent
+{
+	height:100%;
+	position:relative;
+	background:url(./images/igtab_LVContentBackground.png) repeat-y scroll 0 0 #E6F0F1;
+}
+.igtab_Office2007BlackLHHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:0px;
+	top:0px;
+	height:100%;
+	
+	background-color:#535353;
+}
+.igtab_Office2007BlackLHHolderScroll
+{
+	top:-47px;
+}
+.igtab_Office2007BlackLHHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Office2007BlackLHRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Office2007BlackLHRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Office2007BlackLHRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Office2007BlackLHRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Office2007BlackLHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	margin-left:-21px;
+	z-index:20000;
+}
+.igtab_Office2007BlackLHRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Office2007BlackLHScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Office2007BlackLHClose
+{
+	position:absolute;
+	left:100%;
+	top:12px;
+	margin-left:-17px;
+	cursor:pointer;
+}
+.igtab_Office2007BlackLHCloseSize
+{
+	padding-right:10px;
+}
+.igtab_Office2007BlackLHImage
+{
+	vertical-align:middle;
+	position:relative;
+	margin-top:2px;
+}
+.igtab_Office2007BlackLHText
+{
+	vertical-align:middle;	
+	line-height:24px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	position:relative;
+	cursor:default;
+	color:#FFFFFF;
+}
+.igtab_Office2007BlackLHCenter
+{
+	display:block;
+	background:url(./images/igtab_LHTop.gif) repeat-x;
+	background-color:transparent;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Office2007BlackLHTail
+{
+	display:block;
+	background:url(./images/igtab_LHTopLeft.gif) no-repeat;
+	padding-left:10px;
+	white-space:nowrap;
+	border-right:1px solid #535353;
+	height:24px;
+}
+.igtab_Office2007BlackLHMirror
+{
+	display:block;
+	padding-left:10px;
+	background:url(./images/igtab_LHBotLeft.gif) bottom left no-repeat;
+	border-right:1px solid #535353;
+	height:3px;
+}
+.igtab_Office2007BlackLHMirrorCenter
+{
+	display:block;
+	background:url(./images/igtab_LHBot.gif) bottom left repeat-x;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Office2007BlackLHTab
+{
+	display:block;
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackLHOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Office2007BlackLHTextHov
+{
+}
+.igtab_Office2007BlackLHCenterHov
+{
+	background-image:url(./images/igtab_LHTopHov.gif);
+	background-color:#9b884b;
+}
+.igtab_Office2007BlackLHTailHov
+{
+	background-image:url(./images/igtab_LHTopLeftHov.gif);
+}
+.igtab_Office2007BlackLHMirrorHov
+{
+	background-image:url(./images/igtab_LHBotLeftHov.gif);
+}
+.igtab_Office2007BlackLHMirrorCenterHov
+{
+	background-image:url(./images/igtab_LHBotHov.gif);
+}
+.igtab_Office2007BlackLHTabHov
+{
+}
+.igtab_Office2007BlackLHTextSel
+{
+    color:#000000;
+}
+.igtab_Office2007BlackLHCenterSel
+{
+	background-image:url(./images/igtab_LHTopSel.gif);
+	background-color:#d2d6dc;
+}
+.igtab_Office2007BlackLHTailSel
+{
+	background-image:url(./images/igtab_LHTopLeftSel.gif);
+	border-right-color:#bebebe;
+}
+.igtab_Office2007BlackLHMirrorSel
+{
+	background-image:url(./images/igtab_LHBotLeftSel.gif);
+	border-right-color:#bebebe;
+}
+.igtab_Office2007BlackLHMirrorCenterSel
+{
+	background-image:url(./images/igtab_LHBotSel.gif);
+}
+.igtab_Office2007BlackLHTabSel
+{
+}
+.igtab_Office2007BlackLHTextAct
+{
+	border:1px dotted blue;
+}
+.igtab_Office2007BlackLHCenterAct
+{
+}
+.igtab_Office2007BlackLHTailAct
+{
+}
+.igtab_Office2007BlackLHMirrorAct
+{
+}
+.igtab_Office2007BlackLHMirrorCenterAct
+{
+}
+.igtab_Office2007BlackLHTabAct
+{
+}
+.igtab_Office2007BlackLHTextDis
+{
+    color:#777777;
+}
+.igtab_Office2007BlackLHCenterDis
+{
+	background-image:url(./images/igtab_LHTopDis.gif);
+	background-color:transparent;
+}
+.igtab_Office2007BlackLHTailDis
+{
+	background-image:url(./images/igtab_LHTopLeftDis.gif);
+}
+.igtab_Office2007BlackLHMirrorDis
+{
+	background-image:url(./images/igtab_LHBotLeftDis.gif);
+	border-right:1px solid #535353;
+}
+.igtab_Office2007BlackLHMirrorCenterDis
+{
+	background-image:url(./images/igtab_LHBotDis.gif);
+	background-color:#535353;
+}
+.igtab_Office2007BlackLHTabDis
+{
+}
+.igtab_Office2007BlackLHTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Office2007BlackLHTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Office2007BlackLHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackLHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackLHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackLHRoundedFill
+{
+	position:absolute;
+	display:block;
+}
+
+
+
+
+
+
+
+.igtab_Office2007BlackRHControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackRHContentHolder
+{
+	background:#FFFFFF;
+	border-right:1px solid #bbbbbb;
+	border-bottom:1px solid #bbbbbb;
+	border-top:1px solid #bbbbbb;
+	height:99%;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	z-index:9;
+}
+.igtab_Office2007BlackRHContentHolderInner
+{
+	border-left:1px solid #bbbbbb;
+	height:100%;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Office2007BlackRHContent
+{
+	height:100%;
+	position:relative;
+	background:url(./images/igtab_RVContentBackground.png) repeat-y scroll right 0 #E6F0F1;
+}
+.igtab_Office2007BlackRHHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:100%;
+	top:0px;
+	height:100%;
+	
+	background-color:#535353;
+}
+.igtab_Office2007BlackRHHolderScroll
+{
+	top:-47px;
+}
+.igtab_Office2007BlackRHHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Office2007BlackRHRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Office2007BlackRHRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Office2007BlackRHRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Office2007BlackRHRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Office2007BlackRHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	z-index:20000;
+	left:100%;
+}
+.igtab_Office2007BlackRHRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Office2007BlackRHScrollButton
+{
+	display:block;
+	margin-top:2px;
+	margin-left:3px;
+}
+.igtab_Office2007BlackRHClose
+{
+	position:absolute;
+	top:12px;
+	margin-left:3px;
+	cursor:pointer;
+}
+.igtab_Office2007BlackRHCloseSize
+{
+	padding-left:10px;
+}
+.igtab_Office2007BlackRHImage
+{
+	vertical-align:middle;
+	position:relative;
+	margin-top:2px;
+}
+.igtab_Office2007BlackRHText
+{
+	vertical-align:middle;
+	line-height:24px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	position:relative;
+	cursor:default;
+	color:#FFFFFF;
+}
+.igtab_Office2007BlackRHCenter
+{
+	display:block;
+	background:url(./images/igtab_RHTop.gif) repeat-x;
+	background-color:transparent;
+	line-height:20px;
+	font:22px sans-serif;
+	text-align:right;
+	white-space:nowrap;
+	overflow:hidden;
+}
+.igtab_Office2007BlackRHTail
+{
+	display:block;
+	padding-right:10px;
+	background:url(./images/igtab_RHTopRight.gif) top right no-repeat;
+	white-space:nowrap;
+	border-left:1px solid #535353;
+	height:24px;
+}
+.igtab_Office2007BlackRHMirror
+{
+	display:block;
+	padding-right:10px;
+	background:url(./images/igtab_RHBotRight.gif) bottom right no-repeat;
+	border-left:1px solid #535353;
+	height:3px;
+}
+.igtab_Office2007BlackRHMirrorCenter
+{
+	display:block;
+	background:url(./images/igtab_RHBot.gif) bottom left repeat-x;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Office2007BlackRHTab
+{
+	display:block;
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Office2007BlackRHOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Office2007BlackRHTextHov
+{
+}
+.igtab_Office2007BlackRHCenterHov
+{
+	background-image:url(./images/igtab_RHTopHov.gif);
+	background-color:#9b884b;
+}
+.igtab_Office2007BlackRHTailHov
+{
+	background-image:url(./images/igtab_RHTopRightHov.gif);
+}
+.igtab_Office2007BlackRHMirrorHov
+{
+	background-image:url(./images/igtab_RHBotRightHov.gif);
+}
+.igtab_Office2007BlackRHMirrorCenterHov
+{
+	background-image:url(./images/igtab_RHBotHov.gif);
+}
+.igtab_Office2007BlackRHTabHov
+{
+}
+.igtab_Office2007BlackRHTextSel
+{
+    color:#000000;
+}
+.igtab_Office2007BlackRHCenterSel
+{
+	background-image:url(./images/igtab_RHTopSel.gif);
+	background-color:#d2d6dc;
+}
+.igtab_Office2007BlackRHTailSel
+{
+	background-image:url(./images/igtab_RHTopRightSel.gif);
+	border-left-color:#bebebe;
+}
+.igtab_Office2007BlackRHMirrorSel
+{
+	background-image:url(./images/igtab_RHBotRightSel.gif);
+	border-left-color:#bebebe;
+}
+.igtab_Office2007BlackRHMirrorCenterSel
+{
+	background-image:url(./images/igtab_RHBotSel.gif);
+}
+.igtab_Office2007BlackRHTabSel
+{
+}
+.igtab_Office2007BlackRHTextAct
+{
+	border:1px dotted blue;
+}
+.igtab_Office2007BlackRHCenterAct
+{
+}
+.igtab_Office2007BlackRHTailAct
+{
+}
+.igtab_Office2007BlackRHMirrorAct
+{
+}
+.igtab_Office2007BlackRHMirrorCenterAct
+{
+}
+.igtab_Office2007BlackRHTabAct
+{
+}
+.igtab_Office2007BlackRHTextDis
+{
+    color:#777777;
+}
+.igtab_Office2007BlackRHCenterDis
+{
+	background-image:url(./images/igtab_RHTopDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Office2007BlackRHTailDis
+{
+	background-image:url(./images/igtab_RHTopRightDis.gif);
+}
+.igtab_Office2007BlackRHMirrorDis
+{
+	background-image:url(./images/igtab_RHBotRightDis.gif);
+}
+.igtab_Office2007BlackRHMirrorCenterDis
+{
+	background-image:url(./images/igtab_RHBotDis.gif);
+}
+.igtab_Office2007BlackRHTabDis
+{
+}
+.igtab_Office2007BlackRHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.png);
+	background-repeat:no-repeat;
+}
+.igtab_Office2007BlackRHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.png);
+	background-repeat:repeat-x;
+}
+.igtab_Office2007BlackRHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.png);
+	background-repeat:repeat-y;
+}
+.igtab_Office2007BlackRHRoundedFill
+{
+	position:absolute;
+	display:block;
+}

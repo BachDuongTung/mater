@@ -1,0 +1,81 @@
+﻿.igr_Windows7Control
+{
+    outline: none;
+	border : 0px none;
+	background:transparent;
+}
+
+.igr_Windows7EmptyContainer
+{
+    overflow : hidden;
+}
+
+.igr_Windows7SelectedContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Windows7HoveredContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Windows7ImageSpan
+{
+    display : inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Windows7ImageSpanVert
+{
+    display : block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Windows7EmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.igr_Windows7SelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -50px 0px;
+}
+
+.igr_Windows7HoveredImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -25px 0px;
+}
+/*
+    These were added for our clients to control the disabled appearence
+*/
+
+.igr_Windows7DisabledEmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -75px 0px;
+}
+
+.igr_Windows7DisabledSelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -100px 0px;
+}
+
+.igr_Windows7ControlFocus
+{
+    border : 0px none;
+}
+
+.igr_Windows7ControlDisabled
+{
+}

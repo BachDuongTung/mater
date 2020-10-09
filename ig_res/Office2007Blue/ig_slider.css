@@ -1,0 +1,470 @@
+.igsli_Office2007BlueControl
+{
+	overflow:hidden;
+	border: none;
+	background: transparent;
+}
+.igsli_Office2007BlueTicksHolderT
+{
+	position:relative;
+	width:100%;
+	font-size:1px;
+	height:5px;
+	border-bottom:0px solid blue;
+	margin-bottom:2px;
+}
+.igsli_Office2007BlueTicksHolderB
+{
+	position:relative;
+	width:100%;
+	font-size:1px;
+	height:5px;
+	border-top:0px solid blue;
+	margin-top:2px;
+}
+.igsli_Office2007BlueTickMinorT
+{
+	position:absolute;
+	font-size:1px;
+	border-left:1px solid #567DB0;
+	margin-top:2px;
+	height:3px;
+}
+.igsli_Office2007BlueTickMajorT
+{
+	position:absolute;
+	font-size:1px;
+	border-left:2px solid #567DB0;
+	height:5px;
+}
+.igsli_Office2007BlueTickLastT
+{
+	width:1px;
+	margin-left:-1px;
+}
+.igsli_Office2007BlueTickMinorB
+{
+	position:absolute;
+	font-size:1px;
+	border-left:1px solid #567DB0;
+	height:3px;
+}
+.igsli_Office2007BlueTickMajorB
+{
+	position:absolute;
+	font-size:1px;
+	border-left:2px solid #567DB0;
+	height:5px;
+}
+.igsli_Office2007BlueTickLastB
+{
+	width:1px;
+	margin-left:-1px;
+}
+.igsli_Office2007BlueMarginH
+{
+	width:10px;
+	font-size:1px;
+	height:100%;
+}
+.igsli_Office2007BlueLabelsHolderH
+{
+	position:relative;
+	width:100%;
+	font-family:verdana;
+	font-size:10px;
+}
+/* it should be after margin */
+/* if labels are on edges, then position and margin are disabled by inline style */
+.igsli_Office2007BlueLabelEdgeH
+{
+	overflow:hidden;
+	text-align:center;
+	width:26px;
+	height:14px;
+	white-space:nowrap;
+	font-family:verdana;
+	font-size:10px;
+	color: #092061;
+}
+.igsli_Office2007BlueLabelT
+{
+	position:absolute;
+	overflow:hidden;
+	text-align:center;
+	margin-left:-23px;
+	width:46px; 
+	height:14px;
+	white-space:nowrap;
+	font-family:verdana;
+	font-size:10px;
+	color: #092061;
+}
+.igsli_Office2007BlueLabelB
+{
+	position:absolute;
+	overflow:hidden;
+	text-align:center;
+	margin-left:-23px;
+	width:46px;
+	height:14px;
+	white-space:nowrap;
+	font-family:verdana;
+	font-size:10px;
+	color: #092061;
+}
+.igsli_Office2007BlueTrackH
+{
+	position:relative;
+	text-align:left;
+	margin-left:-1px;
+	border:0px solid #DEE2EC;
+	background:#7496C2;
+	width:100%;
+	font-size:1px;
+	height:1px;
+}
+.igsli_Office2007BlueTrackValueH
+{
+	position:absolute;
+	background:#FD8C1F;
+	height:1px;
+}
+.igsli_Office2007BlueTrackValue2H
+{
+	position:absolute;
+	background:#900000;
+	height:1px;
+}
+.igsli_Office2007BlueButton
+{
+	margin:2px;
+	cursor:pointer;
+}
+.igsli_Office2007BlueThumbsHolderH
+{
+	position:relative;
+	z-index:1;
+	font-size:1px;
+	width:100%;
+}
+.igsli_Office2007BlueThumbH
+{
+	position:absolute;
+	margin-left:-4px;
+	margin-top:-8px;
+	cursor: hand;
+	z-index:2;
+}
+.igsli_Office2007BlueValueLabel
+{
+	white-space:nowrap;
+	overflow:hidden;
+	font-family:verdana;
+	font-size:10px;
+	text-align:center;
+	width:46px;
+	color: #808080;
+}
+.igsli_Office2007BlueValueLabelFloatT
+{
+	position:absolute;
+	background:white;
+	border:1px solid #A9A9A9;
+	filter:alpha(opacity:0);
+	opacity:0;
+	height:13px;
+	overflow:visible;
+	width: auto;
+	min-width: 28px;
+	margin-left:-23px;
+	margin-top:-28px;
+	color: #808080;
+	padding-left:1px;
+	padding-right: 1px;
+}
+.igsli_Office2007BlueValueLabelFloatB
+{
+	position:absolute;
+	overflow:visible;
+	width: auto;
+	min-width: 28px;
+	background:white;
+	border:1px solid #A9A9A9;
+	filter:alpha(opacity:0);
+	opacity:0;
+	height:13px;
+	margin-left:-23px;
+	margin-top:10px;
+	color: #808080;
+	padding-left:1px;
+	padding-right: 1px;
+}
+
+.igsli_Office2007BlueTicksHolderL
+{
+	position:relative;
+	height:100%;
+	font-size:1px;
+	width:5px;
+	border-right:0px solid blue;
+	text-align:left;
+	margin-right:2px;
+}
+.igsli_Office2007BlueTicksHolderR
+{
+	position:relative;
+	height:100%;
+	font-size:1px;
+	width:5px;
+	border-left:0px solid blue;
+	text-align:left;
+	margin-left:2px;
+}
+.igsli_Office2007BlueTickMinorL
+{
+	position:absolute;
+	font-size:1px;
+	border-top:1px solid #567DB0;
+	margin-left:2px;
+	width:3px;
+}
+.igsli_Office2007BlueTickMajorL
+{
+	position:absolute;
+	font-size:1px;
+	border-top:2px solid #567DB0;
+	width:5px;
+}
+.igsli_Office2007BlueTickLastL
+{
+	height:1px;
+	margin-top:-1px;
+}
+.igsli_Office2007BlueTickMinorR
+{
+	position:absolute;
+	font-size:1px;
+	border-top:1px solid #567DB0;
+	width:3px;
+}
+.igsli_Office2007BlueTickMajorR
+{
+	position:absolute;
+	font-size:1px;
+	border-top:2px solid #567DB0;
+	width:5px;
+}
+.igsli_Office2007BlueTickLastR
+{
+	height:1px;
+	margin-top:-1px;
+}
+.igsli_Office2007BlueMarginV
+{
+	height:10px;
+	font-size:1px;
+}
+/* it should be after margin */
+/* if labels are on edges, then position and margin are disabled by inline style */
+.igsli_Office2007BlueLabelEdgeV
+{
+	overflow:hidden;
+	white-space:nowrap;
+	width:auto;
+	height:14px;
+	font-family:verdana;
+	font-size:10px;
+	text-align:center;
+	color: #092061;
+}
+.igsli_Office2007BlueLabelL
+{
+	position:absolute;
+	overflow:hidden;
+	white-space:nowrap;
+	width:40px;
+	height:14px;
+	margin-top:-7px;
+	margin-left: -25px;
+	font-family:verdana;
+	font-size:10px;
+	text-align:right;
+	color: #092061;
+}
+.igsli_Office2007BlueLabelR
+{
+	position:absolute;
+	overflow:visible;
+	white-space:nowrap;
+	width:40px;
+	height:14px;
+	margin-top:-7px;
+	margin-left: 5px;
+	font-family:verdana;
+	font-size:10px;
+	color: #092061;
+}
+.igsli_Office2007BlueLabelsHolderV
+{
+	position:relative;
+	text-align:left;
+	height:100%;
+	font-family:verdana;
+	font-size:10px;
+	width:20px;
+}
+.igsli_Office2007BlueTrackV
+{
+	position:relative;
+	text-align:left;
+	margin-top:-1px;
+	border:0px solid #7496C2;
+	background:#7496C2;
+	height:100%;
+	font-size:1px;
+	width:1px;
+}
+.igsli_Office2007BlueTrackValueV
+{
+	position:absolute;
+	background:#FD8C1F;
+	width:100%;
+}
+.igsli_Office2007BlueTrackValue2V
+{
+	position:absolute;
+	background:#900000;
+	width:100%;
+}
+.igsli_Office2007BlueThumbsHolderV
+{
+	position:relative;
+	z-index:1;
+	font-size:1px;
+	height:100%;
+}
+.igsli_Office2007BlueThumbV
+{
+	position:absolute;
+	margin-left:-8px;
+	margin-top:-4px;
+	z-index:2;
+}
+.igsli_Office2007BlueValueLabelFloatL
+{
+	position:absolute;
+	overflow:visible;
+	background:white;
+	border:1px solid #A9A9A9;
+	filter:alpha(opacity:0);
+	opacity:0;
+	height:13px;
+	text-align:right;
+	margin-top:-7px;	
+	margin-left:-46px;
+	width:auto;
+	min-width: 28px;
+	color: #808080;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+.igsli_Office2007BlueValueLabelFloatR
+{
+	position:absolute;
+	overflow:visible;
+	background:white;
+	border:1px solid #A9A9A9;
+	filter:alpha(opacity:0);
+	opacity:0;
+	height:13px;
+	text-align:left;
+	margin-left:8px;
+	margin-top:-7px;
+	min-width: 28px;
+	width: auto;
+	color: #808080;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+.igsli_Office2007BlueValueLabelFloatHover
+{
+	filter:alpha(opacity:100);
+	opacity:1;
+}
+/* applied to control when it has focus and when rounded corners are disabled */
+.igsli_Office2007BlueFocus
+{
+}
+/* applied to control when mouse moved over it and when rounded corners are disabled */
+.igsli_Office2007BlueHover
+{
+}
+/* applied to control when it is disabled and when rounded corners are disabled */
+.igsli_Office2007BlueDisabled
+{
+	background:#C0C0C0;
+}
+/* applied to track bar when control focus and when rounded corners of track are disabled */
+.igsli_Office2007BlueTrackFocus
+{
+}
+/* applied to track bar when mouse is moved over control and when rounded corners of track are disabled */
+.igsli_Office2007BlueTrackHover
+{
+}
+/* applied to track bar when control is disabled and when rounded corners of track are disabled */
+.igsli_Office2007BlueTrackDisabled
+{
+	background:#A0A0A0;
+}
+/* applied to left edge of horizontal track bar */
+.igsli_Office2007BlueTrackEdgeL
+{
+	position:absolute;
+	width:6px;
+	height:100%;
+	top:0px;
+	left:-5px;
+	background:url(none);
+}
+/* applied to right edge of horizontal track bar */
+.igsli_Office2007BlueTrackEdgeR
+{
+	position:absolute;
+	width:7px;
+	height:100%;
+	top:0px;
+	left:100%; 
+	background:url(none) top right;
+}
+/* applied to top edge of vertical track bar */
+.igsli_Office2007BlueTrackEdgeT
+{
+	position:absolute;
+	width:100%;
+	height:0px;
+	top:-0px;
+	left:0px;
+	background:url(none);
+}
+/* applied to left edge of vertical track bar */
+.igsli_Office2007BlueTrackEdgeB
+{
+	position:absolute;
+	width:100%;
+	height:0px;
+	top:100%;
+	left:0px;
+	background:url(none) left bottom;
+}
+/* applied to left edge of horizontal track bar when TrackValue is enabled */
+.igsli_Office2007BlueTrackValueEdgeL
+{
+	background:url(none);
+}
+/* applied to bottom edge of vertical track bar when TrackValue is enabled */
+.igsli_Office2007BlueTrackValueEdgeB
+{
+	background:url(none);
+}

@@ -1,0 +1,214 @@
+.igtbl_Windows7Control
+{
+	cursor:default;
+}
+
+
+.igtbl_Windows7PagerArea
+{
+	background-image: url(images/add_new.gif);
+	border-width:0px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+
+
+.igtbl_Windows7PageCurrent
+{
+	background-repeat:no-repeat;
+	background-image: url(images/submit_up.gif);
+	margin-right:10px;
+	padding:2px 7px 5px 5px;
+}
+
+
+.igtbl_Windows7PageLink
+{
+	margin-right:10px;
+	color:DimGray;
+}
+
+
+.igtbl_Windows7GroupByBox
+{
+	background-color:#DDE2E8;
+	background-repeat:repeat-x;
+	background-image: url(images/caption_bg.jpg);
+	border-bottom:solid 1px DarkGray;
+}
+
+
+.igtbl_Windows7AddNewBox
+{
+	background-image: url(images/add_new.gif);
+	border-bottom:solid 1px Gainsboro;
+}
+
+
+.igtbl_Windows7Item
+{
+	border:solid 1px Transparent;
+	border-right-color:#D0D7E5;
+	border-bottom-color:#D0D7E5;
+	padding:0px 0px 0px 10px;
+}
+
+
+.igtbl_Windows7FilterOperandButton
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-position:center ;
+	background-image: url(images/submit_disable.gif);
+	border-width:0px;
+	padding-top:2px;
+	width: 18px;
+}
+
+
+.igtbl_Windows7FilterDropDown
+{
+}
+
+
+.igtbl_Windows7FilterOperandDropDown
+{
+}
+
+
+.igtbl_Windows7Alt
+{
+}
+
+
+.igtbl_Windows7Edit
+{
+	background-color:White;
+	font-size:x-small;
+	font-family: Verdana;
+	border:solid 1px Transparent;
+	padding-top:6px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igtbl_Windows7Button
+{
+}
+
+
+.igtbl_Windows7FxdCell
+{
+}
+
+
+.igtbl_Windows7Header
+{
+	background-color:#DFDFDF;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_header.gif);
+	border-width:0px;
+	border-right:solid 1px #909192;
+	border-bottom:solid 1px #909192;
+	padding-top:3px;
+	padding-bottom:3px;
+	color:#27415C;
+}
+
+
+.igtbl_Windows7Footer
+{
+	background-color:#B4B4B4;
+	background-repeat:repeat-x;
+	background-image: url(images/iguwg_footer.gif);
+	border-color:#B6B6B6;
+}
+
+
+.igtbl_Windows7Label
+{
+	background-color:#EDEDED;
+	background-image:none;
+	border-right-width:1px;
+	border-right-color:#B6B6B6;
+	border-bottom-width:1px;
+	border-bottom-color:#B6B6B6;
+	height: 3x;
+}
+
+
+.igtbl_Windows7ExpArea
+{
+	background-color:#EDEDED;
+	background-image:none;
+	border-width:0px;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+}
+
+
+.igtbl_Windows7GrpItem
+{
+}
+
+
+.igtbl_Windows7FxdHeader
+{
+}
+
+
+.igtbl_Windows7GroupBandLabel
+{
+}
+
+
+.igtbl_Windows7FxdFooter
+{
+}
+
+
+.igtbl_Windows7DropDown
+{
+	background-color:WhiteSmoke;
+	font-size:xx-small;
+	font-family: Verdana;
+	border:solid 1px LightGrey;
+}
+
+
+.igtbl_Windows7DropDownSel
+{
+}
+
+
+.igtbl_Windows7Selected
+{
+	background-color:#FFC875;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_cellselected.gif);
+	border-bottom:solid 1px #FDAD11;
+	color:Black;
+}
+
+
+.igtbl_Windows7ActiveBorderTopBottom
+{
+	border-top:solid 1px #CA9E62;
+	border-bottom:solid 1px #D0D7E5;
+}
+
+
+.igtbl_Windows7ActiveBorderLeft
+{
+	border-left:solid 1px #CA9E62;
+}
+
+
+.igtbl_Windows7ActiveBorderRight
+{
+	border-right:solid 1px #D0D7E5;
+}
+
+

@@ -1,0 +1,91 @@
+.igcv_CalendarViewFrame
+{
+	cursor:default;
+	font-family: "Segoe UI", Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid #B0B6BE;
+}
+
+.igcv_CaptionHeader
+{
+	font-size:10px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	white-space: nowrap;
+	padding: 3px;
+	color: #000000;
+}
+
+.igcv_DayHeader
+{
+background-color:White;
+border-width:0;
+font-size:xx-small;
+font-weight:bold;
+height:30px;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+.igcv_Day
+{
+	background-color:White;
+	font-size:xx-small;
+	border:solid 1px #FFFFFF;
+	text-align:center;
+}
+
+.igcv_WeekendDay
+{
+
+}
+
+
+.igcv_OtherMonthDay
+{
+	background-image:none;
+	color:#AAAAAA;
+}
+
+.igcv_TodayDay
+{
+		background-color:White;
+	background-repeat:no-repeat;
+	background-position:center center ;
+	background-image: url(images/igmc_today.gif);
+}
+
+.igcv_ActivityDay
+{
+	font-weight:bold;
+}
+
+.igcv_ActiveDay
+{
+
+}
+
+.igcv_Footer
+{
+	cursor:pointer;
+	font-size:xx-small;
+	text-align:left;
+	white-space:nowrap;
+	padding:3px;
+	text-align:center;
+}
+
+.igcv_DropDown
+{
+	font-size:8pt;
+}
+
+.igcv_NavigationButton
+{
+	cursor:pointer;
+	padding-left:3px;
+	padding-right:3px;
+}

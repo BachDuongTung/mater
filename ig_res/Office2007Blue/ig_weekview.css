@@ -1,0 +1,187 @@
+.igwv_Office2007BlueControl
+{
+	border:solid 1px #5D8CC9;
+}
+
+
+.igwv_Office2007BlueCaptionHeader
+{
+	background-color:#E3EFFF;
+	border-width: 0;
+	font-weight:bold;
+	font-size:8pt;
+	line-height: 16pt;
+	color: #000000;
+	text-align:center;
+}
+
+
+.igwv_Office2007BlueDayHeader
+{
+	background-color: #D1DEEF;
+	background-repeat:repeat-x;
+	background-image: url(images/day_header.jpg);
+	font-size:8pt;
+	padding:2px;
+	text-align: center;
+	border-width: 0;
+	border-top: 1px solid #8DAED9;
+	border-bottom: 1px solid #8DAED9;
+}
+
+
+.igwv_Office2007BlueDay
+{
+	background-color: #ffffff;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+
+.igwv_Office2007BlueAppointment
+{
+	background-color: #d9dbe0;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_appointmentbg.gif);
+	font-size:8pt;
+	border-width: 0;
+	padding: 2px;
+	margin: 1px;
+	overflow: hidden;
+}
+
+.igwv_Office2007BlueFadedAppointment
+{
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+
+
+.igwv_Office2007BlueAllDayEvent
+{
+	background-color: #D0DEF0;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_alldayeventbg1.gif);
+	border:solid 1px #8DAED9;
+	margin: 1px;
+	padding: 2px;
+	cursor: pointer;
+	text-align: left;
+	font-size: 8pt;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+
+.igwv_Office2007BlueNavigationButton
+{
+	background-color:Transparent;
+	border-width:0px;
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	vertical-align:middle;
+}
+
+
+.igwv_Office2007BlueDayArea
+{
+	border-width: 0;
+	border-left: solid 1px #8DAED9;
+	border-right: solid 1px #8DAED9;
+}
+
+
+.igwv_Office2007BlueTodayHeader
+{
+	background-color:#F7CF70;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/day_header_active.jpg);
+	font-size:8pt;
+	border: 1px solid #EE9311;
+	color:Black;
+}
+
+
+.igwv_Office2007BlueToday
+{
+	border: 1px solid #EE9311;
+	border-top-width: 0;
+}
+
+
+.igwv_Office2007BlueSelectedAppointment
+{
+	border:1px solid #FFD151;
+	background-color: #fada82;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_dayheaderbg.gif);
+	font-size:8pt;
+	padding: 2px;
+	margin: 1px;
+	overflow: hidden;
+}
+
+
+.igwv_Office2007BlueActiveDayHeader
+{
+}
+
+
+.igwv_Office2007BlueActiveDay
+{
+	background-color: #E6EDF7;
+	background-image: none;
+}
+
+.igwv_Office2007BlueResourceButton
+{
+	background: #C1DBFF;
+	background-image: url(images/caption_bg.jpg);
+	background-repeat: repeat-x;
+	padding: 4px;
+	font-size: 8pt;
+	color: #000000;
+	border-width: 0;
+	border-right: solid 1px #5D8CC9;
+	border-bottom: solid 1px #5D8CC9;
+}
+
+.igwv_Office2007BlueResourceButton:focus, .igwv_Office2007BlueResourceButtonActive
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igwv_Office2007BlueResourceButton:hover
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igwv_Office2007BlueMultiDayEventArrowLeft
+{
+      background-image: url(images/igws_arrowLeft.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}
+
+.igwv_Office2007BlueMultiDayEventArrowRight
+{
+      background-image: url(images/igws_arrowRight.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}

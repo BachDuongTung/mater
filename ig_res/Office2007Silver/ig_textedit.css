@@ -1,0 +1,82 @@
+.igtxt_Office2007SilverEditWithButtons
+{
+	background-color:#E8EAEC;
+	font-family: Verdana;
+	font-size:10px;
+	line-height:1px;
+	height:20px;
+	width:130px;
+	border:solid 1px #A9B1B8;
+}
+
+
+.igtxt_Office2007SilverEdit
+{
+	background-color:#E8EAEC;
+	border:solid 1px #A9B1B8;
+	outline:0;
+}
+
+.igtxt_Office2007SilverTextArea
+{
+	background-color:#E8EAEC;
+	border:solid 1px #A9B1B8;
+	font-family:arial;
+	font-size:12px;
+	outline:0;
+}
+
+.igtxt_Office2007SilverEditInContainer
+{
+	background-color:#E8E8E8;
+	border-width:0px;
+	margin:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	outline:0;
+}
+
+.igtxt_Office2007SilverFocus
+{
+	border-color:#C0C080;
+}
+
+.igtxt_Office2007SilverButtonSize
+{
+	width:15px;
+	height:100%;
+}
+
+.igtxt_Office2007SilverButton
+{
+	background-color:#E8E8E8;
+	line-height:normal;
+	border:solid 1px #E8E8E8;
+}
+
+.igtxt_Office2007SilverButtonFocus
+{
+	background-color:#F0F0B0;
+}
+
+.igtxt_Office2007SilverButtonHover
+{
+	background-color:#FFDA7A;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Office2007SilverButtonPressed
+{
+	background-color:#FFA738;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Office2007SilverButtonDisabled
+{
+	background-color: LightGrey;
+	border:solid 1px White;
+}
+
+

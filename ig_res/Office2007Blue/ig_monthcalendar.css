@@ -1,0 +1,190 @@
+.igmc_Office2007BlueControl
+{
+	background-color: #FFFFFF;
+	border:1px solid #6593CF;
+	width: 225px;
+	height: 200px;
+	padding: 0px;
+	margin: 0px;
+	font-family: Segoe UI, Verdana, Arial, Georgia, Sans-Serif;
+}
+
+.igmc_Office2007BlueDOW
+{
+	background-color: #E3EFFF;
+	font-size:xx-small;
+	border-width:0px;
+	border-bottom:solid 1px #AED1FF;
+	padding: 0px ;
+	text-align:center;
+	font-weight: bold;
+}
+
+.igmc_Office2007BlueNextPrev
+{
+	margin: 0px;
+	padding: 0px;
+	font-size:xx-small;
+	color: #FFFFFF;
+	padding: 0px 3px;
+}
+
+.igmc_Office2007BlueHoverNextPrev
+{
+	cursor: pointer;
+	color: #FF9933;
+}
+
+.igmc_Office2007BluePressedNextPrev
+{
+}
+
+.igmc_Office2007BlueFooter
+{
+	background-color: #c0dbff;
+	background-image: url(images/igmc_footerbg.gif);
+	background-repeat:repeat-x;
+	border-top: 1px solid #AED1FF;
+	font-size:xx-small;
+	text-align:center;
+	color: #000000;
+}
+
+.igmc_Office2007BlueHoverFooter
+{
+	background-color: #eaf3ff;
+	background-image: url(images/igmc_footerbghover.gif);
+	background-repeat:repeat-x;
+	cursor: pointer;
+}
+
+.igmc_Office2007BluePressedFooter
+{
+	background-color: #eaf3ff;
+	background-image: url(images/igmc_footerbgpressed.gif);
+	background-repeat:repeat-x;
+}
+
+.igmc_Office2007BlueHeader
+{
+	background-color: #c0dbff;
+	background-repeat:repeat-x;
+	background-position:top;
+	background-image: url(images/igmc_headerbg.png);
+	font-size:10px;
+	border-bottom: 1px solid #AED1FF;
+}
+
+.igmc_Office2007BlueMonthYear
+{
+	font-size:10px;
+	font-weight:bold;
+	padding:0px 2px;
+	color: #000000;
+}
+
+.igmc_Office2007BluePressedMonthYear
+{
+	color: #FFD151;
+}
+
+.igmc_Office2007BlueHoverMonthYear
+{
+	cursor: pointer;
+	color: #FFD151;
+	
+}
+
+.igmc_Office2007BlueDay
+{
+	background-color:#FFFFFF;
+	font-size:xx-small;
+	text-align:center;
+	border: 1px solid #FFFFFF;
+}
+
+.igmc_Office2007BlueWeekNumber
+{
+	border: 1px solid #fff2ce;
+	background-color: #fff2ce;
+	background-repeat:repeat-y;
+	background-position:top left;
+	background-image: url(images/igmc_weekbg.gif);
+	font-weight: bold;
+}
+
+.igmc_Office2007BlueWeekendDay
+{
+	background-color:#FAFAFA;
+	border: 1px solid #FAFAFA;
+}
+
+.igmc_Office2007BlueOtherMonthDay
+{
+	color:#AAAAAA;
+	background-image: none;
+}
+
+.igmc_Office2007BlueTodayDay
+{
+	background-color: #ffe69f;
+	border-color: #FFD151;
+}
+
+.igmc_Office2007BlueSelectedDay
+{
+	background-color: #FFD151;
+	background-repeat: repeat-x;
+	font-weight:bold;
+}
+
+.igmc_Office2007BlueFocusDay
+{
+	background-color: #fee07a;
+	background-image: url(images/igmc_dayfocus.gif);
+	background-repeat: repeat-x;
+	border-color: #FFD151;
+}
+
+.igmc_Office2007BlueHoverDay
+{
+	background-color: #ff9933;
+	background-image: url(images/igmc_dayselected.gif);
+	background-repeat: repeat-x;
+	font-weight: bold;
+}
+
+
+
+.igmc_Office2007BlueDisabledDay
+{
+	color:#EEE;
+}
+
+/* CSS classes for Month and Year selection Popup in header */
+.igmc_Office2007BlueList
+{
+	background:#FFFFFF;
+	border:1px solid #666666;
+}
+
+.igmc_Office2007BlueItem
+{
+	font-size:8pt;
+	background:#F7F7F7;
+	text-align: center;
+}
+
+.igmc_Office2007BlueSelectedItem
+{
+	background-color: #fee07a;
+	background-image: url(images/igmc_dayfocus.gif);
+	background-repeat: repeat-x;
+	font-weight: bold;
+}
+
+.igmc_Office2007BlueHoverItem
+{
+	background-color: #fee07a;
+	cursor: pointer;
+}

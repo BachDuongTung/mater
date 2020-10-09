@@ -1,0 +1,256 @@
+.igeb_Windows7Control
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Segoe UI, Verdana, Helvetica, sans-serif;
+	border:solid 1px #CDDAEA;
+	border-top-width:0px;
+	overflow-x: hidden;
+	_overflow: hidden!important;
+	color:Black;
+}
+
+
+.igeb_Windows7Group
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igeb_GroupBg.png);
+	display: block;
+	height: 30px;
+	overflow: hidden;
+	line-height: 30px;
+	color:#1E395B;
+	vertical-align:middle;
+}
+
+
+.igeb_Windows7GroupSelected
+{
+	background-repeat:repeat-x;
+	background-position:0px -60px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#1E395B;
+}
+
+
+.igeb_Windows7GroupActive
+{
+	background-repeat:repeat-x;
+	background-position:0px -60px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#0060BF;
+}
+
+
+.igeb_Windows7GroupHover
+{
+	background-repeat:repeat-x;
+	background-position:0px -30px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#0060BF;
+}
+
+
+.igeb_Windows7Item
+{
+	background-color:White;
+	line-height: 22px;
+}
+
+
+.igeb_Windows7ItemImage
+{
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:0px;
+}
+
+
+.igeb_Windows7ItemSelected
+{
+	background-color:#ECEFF8;
+	background-repeat:repeat-x;
+	color:#4C607A;
+}
+
+
+.igeb_Windows7ItemActive
+{
+	background-color:#ECEFF8;
+	color:#4C607A;
+}
+
+
+.igeb_Windows7ItemHover
+{
+	background-color:#ECEFF8;
+}
+
+
+.igeb_Windows7ItemDisabled
+{
+}
+
+
+.igeb_Windows7GroupContents
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Windows7GroupLabel
+{
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Sans-Serif;
+	margin-left:5px;
+	padding-left:5px;
+	text-decoration:none;
+}
+
+
+.igeb_Windows7GroupDisabled
+{
+	background-repeat:repeat-x;
+	background-position:0px -90px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:Gray;
+}
+
+
+.igeb_Windows7GroupExpanderImage
+{
+	margin-top:5px;
+	margin-right:5px;
+	float: right;
+}
+
+
+.igeb_Windows7ItemLabel
+{
+	font-weight:normal;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	display: block;
+}
+
+
+.igeb_Windows7Holder
+{
+}
+
+
+.igeb_Windows7GroupLink
+{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-left:6px;
+	display: block;
+	color: inherit;
+	text-decoration:none;
+}
+
+
+.igeb_Windows7ItemLink
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	display: block;
+	color:#333333;
+	text-decoration:none;
+}
+
+
+.igeb_Windows7ItemParent
+{
+	background-repeat:no-repeat;
+}
+
+
+/* IE 7 fix to icon bad alignment*/
+.igeb_Windows7Item ,.igeb_Windows7ItemActive ,.igeb_Windows7ItemSelected
+{
+	min-height: 30px;
+	_height: 30px;
+}
+
+
+.igeb_Windows7GroupActive a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Windows7GroupSelected a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Windows7GroupSelected a visited
+{
+	color:#1E395B;
+}
+
+
+.igeb_Windows7ItemHolder
+{
+}
+
+
+.igeb_Windows7Group a
+{
+	color:#1E395B;
+}
+
+
+.igeb_Windows7GroupActive a visited
+{
+	color:#1E395B;
+}
+
+
+.igeb_Windows7GroupHover a
+{
+	color:#0060BF;
+}
+
+
+.igeb_Windows7Group a visited
+{
+	color:#1E395B;
+}
+
+
+/* IE 7 Disabled item fix */
+.igeb_Windows7ItemDisabled a visited, .igeb_Windows7ItemDisabled a
+{
+	color:Gray;
+}
+
+
+.igeb_Windows7ItemHolder img
+{
+	vertical-align:middle;
+}
+
+
+.igeb_Windows7GroupHover a visited
+{
+	color:#0060BF;
+}
+
+
+.igeb_Windows7ItemContents
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+

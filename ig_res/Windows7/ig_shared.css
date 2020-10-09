@@ -1,0 +1,172 @@
+.ig_Windows7Control
+{
+	background-color:White;
+	font-size:xx-small;
+	font-family: verdana;
+	color:Black;
+}
+
+
+.ig_Windows7Item
+{
+	background-color:White;
+	font-size:10px;
+	font-family: verdana;
+	padding-left:1px;
+}
+
+
+.ig_Windows7Button
+{
+	cursor:hand;
+}
+
+
+.ig_Windows7ButtonHover
+{
+}
+
+
+.ig_Windows7ButtonPressed
+{
+}
+
+
+.ig_Windows7ButtonDisabled
+{
+}
+
+
+.ig_Windows7Hover
+{
+}
+
+
+.ig_Windows7Selected
+{
+}
+
+
+.ig_Windows7Disabled
+{
+}
+
+
+.ig_Windows7Header
+{
+}
+
+
+.ig_Windows7Footer
+{
+}
+
+
+.ig_Windows7EditWithButtons
+{
+}
+
+
+.ig_Windows7Edit
+{
+}
+
+
+.ig_Windows7EditInContainer
+{
+}
+
+
+.ig_Windows7Alt
+{
+	border-top:solid 1px #E3EFFF;
+	border-right:solid 0px #FFFFFF;
+	border-bottom:solid 1px #E3EFFF;
+	border-left:solid 0px #FFFFFF;
+}
+
+
+.ig_Windows7DropDown
+{
+}
+
+
+.ig_Windows7EditSelected
+{
+}
+
+
+Body
+{
+}
+
+
+.ms-WPBody .igmc_Windows7Control TD
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-style:inherit;
+}
+
+
+.ms-WPBody .igdw_Windows7Control TD
+{
+	background-color:White;
+}
+
+
+.ig_Windows7AjaxIndicatorBlock
+{
+	background-color:#909090;
+	filter: alpha(opacity : 30);
+	opacity: 0.3;
+}
+
+
+.ms-wpbody .ig_Windows7Control td
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-bottom-style:none;
+}
+
+
+.ms-WPBody .igmc_Windows7Control TABLE
+{
+	font-style:inherit;
+	font-size:xx-small;
+}
+
+
+.ig_Windows7AjaxIndicator
+{
+}
+
+
+.ms-WPBody .igte_Windows7EditWithButtons TABLE
+{
+	font-size:1px;
+}
+
+
+.ms-wpbody .ig_Windows7Control table
+{
+	font-style:inherit;
+	font-size:xx-small;
+	border-collapse:Separate;
+}
+
+
+.ms-WPBody .igte_Windows7EditWithButtons TD
+{
+	background-color:Transparent;
+	font-size:1px;
+	border-bottom-style:none;
+}
+
+.ie7_DisplayInlineFix { display: inline-block; }
+.ie7_DisplayInlineFix { display: inline; }
+
+

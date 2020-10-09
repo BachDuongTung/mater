@@ -1,0 +1,172 @@
+.ig_Office2010BlueControl
+{
+	background-color:White;
+	font-size:xx-small;
+	font-family: verdana;
+	color:Black;
+}
+
+
+.ig_Office2010BlueItem
+{
+	background-color:White;
+	font-size:10px;
+	font-family: verdana;
+	padding-left:1px;
+}
+
+
+.ig_Office2010BlueButton
+{
+	cursor:hand;
+}
+
+
+.ig_Office2010BlueButtonHover
+{
+}
+
+
+.ig_Office2010BlueButtonPressed
+{
+}
+
+
+.ig_Office2010BlueButtonDisabled
+{
+}
+
+
+.ig_Office2010BlueHover
+{
+}
+
+
+.ig_Office2010BlueSelected
+{
+}
+
+
+.ig_Office2010BlueDisabled
+{
+}
+
+
+.ig_Office2010BlueHeader
+{
+}
+
+
+.ig_Office2010BlueFooter
+{
+}
+
+
+.ig_Office2010BlueEditWithButtons
+{
+}
+
+
+.ig_Office2010BlueEdit
+{
+}
+
+
+.ig_Office2010BlueEditInContainer
+{
+}
+
+
+.ig_Office2010BlueAlt
+{
+	border-top:solid 1px #E3EFFF;
+	border-right:solid 0px #FFFFFF;
+	border-bottom:solid 1px #E3EFFF;
+	border-left:solid 0px #FFFFFF;
+}
+
+
+.ig_Office2010BlueDropDown
+{
+}
+
+
+.ig_Office2010BlueEditSelected
+{
+}
+
+
+Body
+{
+}
+
+
+.ms-WPBody .igdw_Windows7Control TD
+{
+	background-color:White;
+}
+
+
+.ms-WPBody .igmc_Windows7Control TABLE
+{
+	font-style:inherit;
+	font-size:xx-small;
+}
+
+
+.ig_Office2010BlueAjaxIndicator
+{
+}
+
+
+.ms-WPBody .igte_Windows7EditWithButtons TD
+{
+	background-color:Transparent;
+	font-size:1px;
+	border-bottom-style:none;
+}
+
+
+.ms-wpbody .ig_Office2010BlueControl td
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-bottom-style:none;
+}
+
+
+.ms-WPBody .igte_Windows7EditWithButtons TABLE
+{
+	font-size:1px;
+}
+
+
+.ms-wpbody .ig_Office2010BlueControl table
+{
+	font-style:inherit;
+	font-size:xx-small;
+	border-collapse:Separate;
+}
+
+
+.ms-WPBody .igmc_Windows7Control TD
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-style:inherit;
+}
+
+
+.ig_Office2010BlueAjaxIndicatorBlock
+{
+	background-color:#909090;
+	filter: alpha(opacity : 30);
+	opacity: 0.3;
+}
+
+.ie7_DisplayInlineFix { display: inline-block; }
+.ie7_DisplayInlineFix { display: inline; }
+
+

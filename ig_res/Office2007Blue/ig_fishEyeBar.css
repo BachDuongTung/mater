@@ -1,0 +1,41 @@
+﻿.igfeb_Office2007BlueControl
+{
+	background-color: Transparent;
+}
+
+.igfeb_Office2007BlueControlHover
+{
+				
+				
+}
+
+.igfeb_Office2007BlueFishEyeItemLabel
+{
+}
+
+.igfeb_Office2007BlueFishEyeItem
+{
+}
+
+.igfeb_Office2007BlueFishEyeItemHover
+{			
+}
+
+.igfeb_Office2007BlueFishEyeItemDisabled
+{
+				
+				
+}
+
+.igfeb_Office2007BlueControlFocus
+{
+				
+				
+}
+
+.igfeb_Office2007BlueFishEyeItemSelected
+{
+	background-position: bottom;
+	background-image: url(images/igfeb_itemselected.png);	
+	background-repeat:  no-repeat;
+}

@@ -1,0 +1,423 @@
+/*
+
+Main control CSS class
+*/
+.igdd_Office2007BlackControl
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdd_Office2007BlackControlDisabled
+{
+	background-color:#E8E8E8;
+	border:solid 1px #E8E8E8;
+	table-layout: fixed;
+}
+
+
+/*
+ Main control css class on hover
+*/
+.igdd_Office2007BlackControlHover
+{
+	background-color:White;
+	table-layout: fixed;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackControlFocus
+{
+	background-color:White;
+	border:solid 1px #898989;
+	table-layout: fixed;
+}
+
+
+.igdd_Office2007BlackControlArea
+{
+	background-color:#E8E8E8;
+	border:solid 1px #898989;
+	table-layout: fixed;
+}
+
+
+/*
+CSS class for the actual input field (<input type="text" />)
+*/
+.igdd_Office2007BlackValueDisplay
+{
+	background-color:Transparent;
+	font-weight:normal;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	width: 100%;
+	z-index: 0;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackValueDisplayHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackValueDisplayFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackValueDisplayDisabled
+{
+    background-color:Transparent;
+    border:0px;
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    font-weight:normal;
+    width:100%;
+    z-index:0;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackValueDisplayReadOnly
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownList
+{
+	background-color:White;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:1px;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListReadOnly
+{
+}
+
+
+/*
+	
+*/
+.igdd_Office2007BlackDropDownListContainer
+{
+	background-color:White;
+	border:solid 1px #868686;
+	float: left;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListContainerHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownButton
+{
+	width: 17px;
+	z-index: 9999;
+}
+
+.igdd_Office2007BlackDropDownButton img 
+{
+    display:block;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownButtonHover
+{
+}
+
+
+/*
+CSS class that controls the style of the LI items in the list
+*/
+.igdd_Office2007BlackListItem
+{
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	padding:3px 5px 3px 5px;
+	list-style-type: none;
+	width: auto;
+	min-height: 15px;
+	height: auto !important;
+	cursor:pointer;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2007BlackListItem {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2007BlackListItemActive
+{
+	background-color:#FFE7A2;
+	border:solid 1px #FFBD69;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackListItemHover
+{
+	background-color:#FFE59C;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #C0A776;
+	list-style-type: none;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2007BlackListItemHover {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2007BlackListItemSelected
+{
+	background-color:#FFF5B8;
+	border:solid 1px #FFFBDD;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackListItemDisabled
+{
+	list-style-type: none;
+	width: auto;
+	cursor:default;
+}
+
+
+/*
+Applied to the whole pager
+*/
+.igdd_Office2007BlackPager
+{
+	background-color:Transparent;
+	border-top:solid 1px #868686;
+	vertical-align:middle;
+}
+
+
+/*
+Loading message container
+*/
+.igdd_Office2007BlackLoadingItemsMessage
+{
+	background-color:#616A76;
+	font-weight:bold;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:1px 0px 0px 1px;
+	padding:3px;
+	color:White;
+}
+
+
+/*
+Styles the current page link only
+*/
+.igdd_Office2007BlackPageCurrent
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#FFBD69;
+	text-decoration:underline;
+	vertical-align:middle;
+}
+
+
+/*
+Styles all page links in general 
+*/
+.igdd_Office2007BlackPageLink
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#4C535C;
+	vertical-align:middle;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListFocus
+{
+}
+
+
+.igdd_Office2007BlackListItem a:active
+{
+}
+
+
+/*
+For Disabled=True of a DropDownItem
+*/
+.igdd_Office2007BlackListItemDisabled a:link
+{
+	cursor:default;
+	color:#8D8D8D;
+}
+
+
+.igdd_Office2007BlackListItem a:visited
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+.igdd_Office2007BlackListItem a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListContainerFocus
+{
+}
+
+
+/*
+Styling for anchor when hovered anywhere on ListItem
+*/
+.igdd_Office2007BlackListItemHover a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownButtonDisabled
+{
+}
+
+
+.igdd_Office2007BlackListItemActive a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+pseudo class used so Value Display input does not have focus
+glow in some browsers like GoogleChrome or AppleSafari
+*/
+input:focus
+{
+	outline: none;
+}
+
+
+/*
+	
+*/
+.igdd_Office2007BlackDropDownButtonFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackListItemFocus
+{
+	list-style-type: none;
+	width: auto;
+}
+
+
+.igdd_Office2007BlackListItem a:hover
+{
+}
+
+
+/*
+ CSS class for the table that accomodates the value display and the drop down button, and which is a 
+ child of the main control (div)
+*/
+.igdd_Office2007BlackValueDisplayTable
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007BlackDropDownListDisabled
+{
+}

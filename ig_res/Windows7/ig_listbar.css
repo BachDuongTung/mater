@@ -1,0 +1,171 @@
+.iglb_Windows7Control
+{
+	font-size:small;
+	border:solid 1px #C5C7C7;
+	margin-bottom:0px;
+	cursor:default;
+}
+
+
+.iglb_Windows7Control_Exp
+{
+	font-size:small;
+	border:solid 1px #C5C7C7;
+	cursor:default;
+}
+
+
+.iglb_Windows7Button
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Windows7ButtonHover
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Windows7ButtonSelected
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Windows7HeaderCollapsed
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Windows7HeaderExpanded
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Windows7HeaderHover
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Windows7Group
+{
+}
+
+
+.iglb_Windows7Group_Exp
+{
+	margin-bottom:0px;
+}
+
+
+.iglb_Windows7Item
+{
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	text-align:left;
+}
+
+
+.iglb_Windows7Item_Exp
+{
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+}
+
+
+.iglb_Windows7ItemHover
+{
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+	text-decoration:underline;
+}
+
+
+.iglb_Windows7ItemHover_Exp
+{
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+	text-decoration:underline;
+}
+
+
+.iglb_Windows7ItemSelected
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	color:Black;
+	text-align:left;
+}
+
+
+.iglb_Windows7ItemSelected_Exp
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	color:Black;
+	text-align:left;
+}
+
+

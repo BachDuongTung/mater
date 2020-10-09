@@ -1,0 +1,84 @@
+.igpb_Office2010BlueControl
+{
+}
+
+
+.igpb_Office2010BlueContainer
+{
+	border:solid 1px #ABC1DE;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+
+.igpb_Office2010BlueInnerDiv
+{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	overflow: hidden;
+}
+
+
+.igpb_Office2010BlueBaseLabel
+{
+	padding:2px;
+	white-space: nowrap;
+	position: absolute;
+	text-align:left;
+}
+
+
+.igpb_Office2010BlueForegroundLabel
+{
+	color:White;
+}
+
+
+.igpb_Office2010BlueBackgroundLabel
+{
+	color:Black;
+}
+
+
+.igpb_Office2010BlueFill_Horiz
+{
+	background-color:#638F21;
+	background-repeat:repeat-x;
+	background-position:0px -35px ;
+	background-image: url(./images/igpb_horizontalsprite.png);
+}
+
+
+.igpb_Office2010BlueFill_Vert
+{
+	background-color:#638F21;
+	background-repeat:repeat-y;
+	background-position:-35px 0px ;
+	background-image: url(./images/igpb_verticalsprite.png);
+}
+
+
+.igpb_Office2010BlueBackground_Horiz
+{
+	background-color:#E0E4ED;
+	background-repeat:repeat-x;
+	background-position:0px 0px ;
+	background-image: url(./images/igpb_horizontalsprite.png);
+}
+
+
+.igpb_Office2010BlueBackground_Vert
+{
+	background-color:#E0E4ED;
+	background-repeat:repeat-y;
+	background-position:0px 0px ;
+	background-image: url(./images/igpb_verticalsprite.png);
+}
+
+
+body
+{
+}

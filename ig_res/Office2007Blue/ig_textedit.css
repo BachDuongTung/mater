@@ -1,0 +1,83 @@
+.igtxt_Office2007BlueEditWithButtons
+{
+	background-color:#EAF2FB;
+	font-family: Verdana;
+	font-size:10px;
+	line-height:1px;
+	height:20px;
+	width:130px;
+	border:solid 1px #ABC1DE;
+}
+
+
+.igtxt_Office2007BlueEdit
+{
+	background-color:#EAF2FB;
+	border:solid 1px #ABC1DE;
+	height:16px;
+	outline:0;
+}
+
+.igtxt_Office2007BlueTextArea
+{
+	background-color:#EAF2FB;
+	border:solid 1px #ABC1DE;
+	font-family:arial;
+	font-size:12px;
+	outline:0;
+}
+
+.igtxt_Office2007BlueEditInContainer
+{
+	background-color:#EAF2FB;
+	border-width:0px;
+	margin:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	outline:0;
+}
+
+.igtxt_Office2007BlueFocus
+{
+	border-color:#C0C080;
+}
+
+.igtxt_Office2007BlueButtonSize
+{
+	width:15px;
+	height:100%;
+}
+
+.igtxt_Office2007BlueButton
+{
+	background-color:#EAF2FB;
+	line-height:normal;
+	border:solid 1px #EAF2FB;
+}
+
+.igtxt_Office2007BlueButtonFocus
+{
+	background-color:#F0F0B0;
+}
+
+.igtxt_Office2007BlueButtonHover
+{
+	background-color:#FFDA7A;
+	border:solid 1px #ABC1DE;
+}
+
+
+.igtxt_Office2007BlueButtonPressed
+{
+	background-color:#FFA738;
+	border:solid 1px #ABC1DE;
+}
+
+
+.igtxt_Office2007BlueButtonDisabled
+{
+	background-color:#EAF2FB;
+	border:solid 1px White;
+}
+
+

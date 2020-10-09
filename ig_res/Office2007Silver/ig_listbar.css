@@ -1,0 +1,171 @@
+.iglb_Office2007SilverControl
+{
+	font-size:small;
+	border:solid 1px #C5C7C7;
+	margin-bottom:0px;
+	cursor:default;
+}
+
+
+.iglb_Office2007SilverControl_Exp
+{
+	font-size:small;
+	border:solid 1px #C5C7C7;
+	cursor:default;
+}
+
+
+.iglb_Office2007SilverButton
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Office2007SilverButtonHover
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Office2007SilverButtonSelected
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Office2007SilverHeaderCollapsed
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Office2007SilverHeaderExpanded
+{
+	background-image: url(images/caption_bg.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.iglb_Office2007SilverHeaderHover
+{
+	background-image: url(images/day_header_active.jpg);
+	font-size:x-small;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:3px;
+	cursor:hand;
+}
+
+
+.iglb_Office2007SilverGroup
+{
+}
+
+
+.iglb_Office2007SilverGroup_Exp
+{
+	margin-bottom:0px;
+}
+
+
+.iglb_Office2007SilverItem
+{
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	text-align:left;
+}
+
+
+.iglb_Office2007SilverItem_Exp
+{
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+}
+
+
+.iglb_Office2007SilverItemHover
+{
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+	text-decoration:underline;
+}
+
+
+.iglb_Office2007SilverItemHover_Exp
+{
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	text-align:left;
+	text-decoration:underline;
+}
+
+
+.iglb_Office2007SilverItemSelected
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-top:8px;
+	margin-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	color:Black;
+	text-align:left;
+}
+
+
+.iglb_Office2007SilverItemSelected_Exp
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-top:4px;
+	margin-bottom:0px;
+	padding-bottom:3px;
+	padding-left:4px;
+	cursor:hand;
+	color:Black;
+	text-align:left;
+}
+
+

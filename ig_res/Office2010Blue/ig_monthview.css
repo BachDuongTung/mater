@@ -1,0 +1,307 @@
+.igmv_Office2010BlueControl
+{
+	border:solid 1px #999999;
+	overflow: auto;
+	position: relative;
+}
+
+
+.igmv_Office2010BlueCaptionHeader
+{
+	background-color:#77B9E5;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/header.gif);
+	font-weight:bold;
+	border-width:0px;
+	border-bottom:solid 1px #679AC7;
+	line-height: 16pt;
+	color:Black;
+	text-align:center;
+}
+
+
+.igmv_Office2010BlueDayHeader
+{
+	background-color:#DCE9F1;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/dayheader.jpg);
+	font-weight:bold;
+	font-size:8pt;
+	border:solid 1px #999999;
+	border-right-width:0px;
+	padding:3px;
+	height: 1%;
+	cursor:default;
+	color:#333333;
+	text-align:left;
+}
+
+
+.igmv_Office2010BlueDay
+{
+	border:solid 1px #999999;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	overflow: hidden;
+	cursor:hand;
+	color:Black;
+	vertical-align:top;
+}
+
+
+.igmv_Office2010BlueAppointment
+{
+	background-color:#EFF5F8;
+	background-image:none;
+	font-size:8pt;
+	border:solid 1px #999999;
+	margin:1px;
+	padding:3px;
+	overflow: hidden;
+	cursor:hand;
+	text-align:left;
+}
+
+
+.igmv_Office2010BlueAllDayEvent
+{
+	background-color:#EFF5F8;
+	background-repeat:repeat-x;
+	background-position:bottom ;
+	background-image: url(images/groupbyheader.gif);
+	font-size:8pt;
+	border:solid 1px #999999;
+	margin:1px;
+	padding:3px;
+	overflow: hidden;
+	cursor:hand;
+	text-align:left;
+}
+
+
+.igmv_Office2010BlueNavigationButton
+{
+	background-color:Transparent;
+	border-width:0px;
+	margin:0px;
+	padding:0px;
+	width: 20px;
+	cursor:hand;
+}
+
+
+.igmv_Office2010BlueMultiDayEventArrowLeft
+{
+	background-repeat:no-repeat;
+	background-position:center center ;
+	background-image: url(images/igws_arrowleft.gif);
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+}
+
+
+.igmv_Office2010BlueMultiDayEventArrowRight
+{
+	background-repeat:no-repeat;
+	background-position:center center ;
+	background-image: url(images/igws_arrowright.gif);
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+}
+
+
+.igmv_Office2010BlueResource
+{
+}
+
+
+.igmv_Office2010BlueResourceButton
+{
+	background-color:#DCE9F1;
+	background-repeat:repeat-x;
+	background-image: url(images/dayheader.jpg);
+	font-size:8pt;
+	border-width:0px;
+	border-right:solid 1px #999999;
+	border-bottom:solid 1px #999999;
+	padding:4px;
+	color:#000333;
+}
+
+
+.igmv_Office2010BlueResourceButtonActive
+{
+}
+
+
+.igmv_Office2010BlueFadedAppointment
+{
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+
+.igmv_Office2010BlueWeekNumber
+{
+	background-color:#CDDCED;
+	font-weight:bold;
+	font-size:8pt;
+	border:solid 1px #999999;
+	border-right-width:0px;
+	border-left-width:0px;
+	width: 30px;
+	text-align:center;
+}
+
+
+.igmv_Office2010BlueCompressedDay
+{
+	border-left:solid 1px Silver;
+	vertical-align:top;
+}
+
+
+tr.igmv_Office2010BlueCaptionHeader td.igmv_Office2010BlueWeekNumber
+{
+	background-color:#77B9E5;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/header.gif);
+	border-width:0px;
+	text-align:left;
+}
+
+
+.igmv_Office2010BlueMonthDayOfWeekHeader
+{
+	background-color:#CDDCED;
+	font-size:8pt;
+	border:solid 1px #999999;
+	border-right-width:0px;
+	padding:3px;
+	height: 1%;
+	color:#333333;
+	text-align:center;
+}
+
+
+.igmv_Office2010BlueOtherMonthDayHeader
+{
+	background-color:#F3F3F3;
+	background-image:none;
+	font-size:8pt;
+	border:solid 1px #999999;
+	border-right-width:0px;
+	padding:3px;
+	height: 1%;
+	color:#666666;
+	text-align:left;
+}
+
+
+.igmv_Office2010BlueOtherMonthDay
+{
+	background-color:#FAFAFA;
+	border:solid 1px #999999;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	cursor:hand;
+	color:Black;
+	vertical-align:top;
+}
+
+
+.igmv_Office2010BlueOtherCompressedDay
+{
+	border-left:solid 1px #999999;
+	vertical-align:top;
+}
+
+
+.igmv_Office2010BlueTodayHeader
+{
+	background-color:#FFE569;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_todayheaderbg.gif);
+	font-size:8pt;
+	color:Black;
+}
+
+
+.igmv_Office2010BlueToday
+{
+}
+
+
+.igmv_Office2010BlueSelectedAppointment
+{
+	background-color:#FF9933;
+	background-repeat:repeat-x;
+	background-image: url(images/igmc_dayselected.gif);
+	font-size:8pt;
+	border:solid 1px #FF9933;
+	margin:1px;
+	padding:3px;
+	white-space: nowrap;
+	overflow: hidden;
+	cursor:pointer;
+}
+
+
+.igmv_Office2010BlueActiveDayHeader
+{
+	background-color:#A1B6D2;
+	background-repeat:repeat-x;
+	background-image: url(images/active_day.gif);
+	color:Black;
+}
+
+
+.igmv_Office2010BlueActiveDay
+{
+	background-color:#CDDCED;
+}
+
+
+.igmv_Office2010BlueNavigationButtonNext
+{
+	margin-right:3px;
+}
+
+
+.igmv_Office2010BlueNavigationButtonPrev
+{
+	margin-left:3px;
+}
+
+
+.igmv_Office2010BlueMonthDayOfWeekHeader.igmv_Office2010BlueWeekNumber
+{
+	border-left-width:0px;
+}
+
+
+.igmv_Office2010BlueResourceButton focus, .igmv_Office2010BlueResourceButtonActive
+{
+	filter: alpha(opacity=100);
+	opacity: 1.0;
+}
+
+
+.igmv_Office2010BlueControl table
+{
+	border-collapse:Collapse;
+}
+
+
+.igmv_Office2010BlueResourceButton hover
+{
+	filter: alpha(opacity=100);
+	opacity: 1.0;
+}
+
+

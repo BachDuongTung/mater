@@ -1,0 +1,81 @@
+﻿.igr_Office2010BlueControl
+{
+    outline: none;
+	border : 0px none;
+	background:transparent;
+}
+
+.igr_Office2010BlueEmptyContainer
+{
+    overflow : hidden;
+}
+
+.igr_Office2010BlueSelectedContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Office2010BlueHoveredContainer
+{
+    position : relative;
+    overflow : hidden;
+    white-space : nowrap;
+}
+
+.igr_Office2010BlueImageSpan
+{
+    display : inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Office2010BlueImageSpanVert
+{
+    display : block;
+    width: 20px;
+    height: 20px;
+}
+
+.igr_Office2010BlueEmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.igr_Office2010BlueSelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -50px 0px;
+}
+
+.igr_Office2010BlueHoveredImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -25px 0px;
+}
+/*
+    These were added for our clients to control the disabled appearence
+*/
+
+.igr_Office2010BlueDisabledEmptyImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -75px 0px;
+}
+
+.igr_Office2010BlueDisabledSelectedImg
+{
+    background:transparent url(images/igr_RatingSprite.png) no-repeat;
+    background-position: -100px 0px;
+}
+
+.igr_Office2010BlueControlFocus
+{
+    border : 0px none;
+}
+
+.igr_Office2010BlueControlDisabled
+{
+}

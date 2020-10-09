@@ -1,0 +1,110 @@
+﻿.igc_Office2010BlueControl
+{
+	border:solid 1px #849DBD;
+	background-color:#CDDCED;
+	padding:10px;
+	margin:0px;
+	font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+}
+
+.igc_Office2010BlueControlActive
+{
+	
+}
+
+.igc_Office2010BlueCaptchaInput
+{
+    background:#ffffff;
+    border:1px solid #849DBD;
+    display:block;
+    padding:5px 0;
+    
+    margin-bottom:10px;
+    /*IE6 and IE7 specific hack*/
+    *margin-bottom:0;
+    
+}
+
+.igc_Office2010BlueRefreshAndAudioButtonsArea
+{
+    margin-left:10px;
+	border-width:0;
+	text-decoration:none;
+    display:block;
+}
+
+    .igc_Office2010BlueRefreshAndAudioButtonsArea img
+    {
+	    border-width:0px;
+	    text-decoration:none;
+	    margin-bottom:3px;
+    }
+
+.igc_Office2010BlueSubmitButton {
+    background:#78BAE5 url(./images/igc_submitButtonBg.png) repeat-x 0 0;
+    border:1px solid #ABBAD0;
+    clear:left;
+    display:block;
+    height:30px;
+    width:177px;
+    cursor:pointer;
+    color:#1E395B;
+    margin-top:10px;
+    font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+    padding:0px;
+}
+
+.igc_Office2010BlueErrorLabel
+{
+    background-color:#FF6666;
+    color:white;
+    padding:3px;
+}
+
+.igc_Office2010BlueCaptchaImageLabel
+{
+	border:1px solid #bbbbbb;
+}
+
+.igc_Office2010BlueCaptchaInputLabel{
+}
+
+.igc_Office2010BlueCaptchaInfoTextLabel
+{
+    display:block;
+    margin:10px 0 5px 0;
+}
+
+.igc_Office2010BlueCaptchaImage
+{
+    display:block;
+    margin-bottom:10px;
+} 
+
+.igc_Office2010BlueCaptchaImageArea
+{
+    display:block;
+    float:left;
+    padding:0;
+    margin:0;
+}
+    .igc_Office2010BlueCaptchaImageArea label 
+    {
+        display:block
+    }
+	    
+.igc_Office2010BlueRefreshAndAudioButtonsArea 
+{
+    float:left;
+}
+    .igc_Office2010BlueRefreshAndAudioButtonsArea a 
+    {
+        display:block
+    }
+    .igc_Office2010BlueRefreshAndAudioButtonsArea a,
+    .igc_Office2010BlueRefreshAndAudioButtonsArea img 
+    {
+        cursor:pointer
+    }

@@ -1,0 +1,55 @@
+﻿body
+{
+}
+.igpb_Office2007BlueBaseLabel
+{
+	text-align:left;
+	white-space:nowrap;
+	position:absolute;
+	padding:2px;
+}
+.igpb_Office2007BlueBackgroundLabel
+{
+	color:Black;
+}
+.igpb_Office2007BlueForegroundLabel
+{
+	color:white;
+}
+.igpb_Office2007BlueInnerDiv
+{
+	height:100%;
+	width:100%;
+	position:absolute;
+	overflow:hidden;
+	
+}
+.igpb_Office2007BlueFill_Horiz
+{
+	background-image: url(./images/igpb_horizontalFill.gif);
+	background-repeat: repeat-x;
+	background-color: #14DD1D;
+	
+}
+.igpb_Office2007BlueFill_Vert
+{
+	background-image: url(./images/igpb_VerticalFill.gif);
+	background-repeat: repeat-y;
+	background-color: #14DD1D;
+	
+}
+.igpb_Office2007BlueBackground_Horiz
+{
+}
+.igpb_Office2007BlueBackground_Vert
+{
+	
+}
+.igpb_Office2007BlueContainer
+{
+	height:100%;
+	width:100%;
+	position:relative;
+	border:solid 1px #ABC1DE;
+	overflow: hidden;
+}

@@ -1,0 +1,55 @@
+﻿body
+{
+}
+.igpb_Office2007SilverBaseLabel
+{
+	text-align:left;
+	white-space:nowrap;
+	position:absolute;
+	padding:2px;
+}
+.igpb_Office2007SilverBackgroundLabel
+{
+	color:Black;
+}
+.igpb_Office2007SilverForegroundLabel
+{
+	color:white;
+}
+.igpb_Office2007SilverInnerDiv
+{
+	height:100%;
+	width:100%;
+	position:absolute;
+	overflow:hidden;
+	
+}
+.igpb_Office2007SilverFill_Horiz
+{
+	background-image: url(./images/igpb_horizontalFill.gif);
+	background-repeat: repeat-x;
+	background-color: #14DD1D;
+	
+}
+.igpb_Office2007SilverFill_Vert
+{
+	background-image: url(./images/igpb_VerticalFill.gif);
+	background-repeat: repeat-y;
+	background-color: #14DD1D;
+	
+}
+.igpb_Office2007SilverBackground_Horiz
+{
+}
+.igpb_Office2007SilverBackground_Vert
+{
+	
+}
+.igpb_Office2007SilverContainer
+{
+	height:100%;
+	width:100%;
+	position:relative;
+	border:solid 1px #ACACAC;
+	overflow: hidden;
+}

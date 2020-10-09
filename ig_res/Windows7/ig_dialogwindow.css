@@ -1,0 +1,179 @@
+.igdw_Windows7Control
+{
+	background-color:Transparent;
+	font-family: Segoe UI;
+	border-width:0px;
+}
+
+
+.igdw_Windows7HeaderArea
+{
+	font-weight:bold;
+	border-width:0px;
+	height: 30px;
+	cursor:default;
+	color:White;
+}
+
+
+.igdw_Windows7BodyContent
+{
+	background-color:White;
+	font-size:12px;
+}
+
+
+.igdw_Windows7HeaderButton
+{
+	margin:1px;
+	cursor:pointer;
+}
+
+
+.igdw_Windows7HeaderButtonArea
+{
+	width: 120px;
+	vertical-align:middle;
+}
+
+
+.igdw_Windows7HeaderImage
+{
+	cursor:default;
+}
+
+
+.igdw_Windows7HeaderCaption
+{
+	font-weight:normal;
+	font-size:12px;
+	margin-top:16px;
+	margin-left:6px;
+	padding-top:10px;
+	color:Black;
+}
+
+
+.igdw_Windows7ModalBackground
+{
+	background-color:White;
+	filter: alpha(opacity : 50);
+	opacity: 0.5;
+	z-index: 99999;
+}
+
+
+.igdw_Windows7ResizingHandle
+{
+	cursor:se-resize;
+}
+
+
+/* used only when header visible */
+.igdw_Windows7HeaderCornerLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_TopLeft.gif);
+	font-size:1px;
+	width: 8px;
+}
+
+
+/* used only when header visible */
+.igdw_Windows7HeaderContent
+{
+	background-image: url(./images/igdw_top.gif);
+}
+
+
+/* used only when header visible */
+.igdw_Windows7HeaderCornerRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_TopRight.gif);
+	font-size:1px;
+	width: 8px;
+}
+
+
+.igdw_Windows7BodyEdgeLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_EdgeLeft.gif);
+	font-size:1px;
+	width: 8px;
+}
+
+
+.igdw_Windows7BodyEdgeRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_EdgeRight.gif);
+	font-size:1px;
+	width: 8px;
+}
+
+
+.igdw_Windows7BodyCornerBottomLeft
+{
+	background-image: url(./images/igdw_BottomLeft.gif);
+	font-size:1px;
+	height: 8px;
+	width: 8px;
+}
+
+
+.igdw_Windows7BodyContentArea
+{
+	vertical-align:top;
+}
+
+
+.igdw_Windows7BodyCornerBottomRight
+{
+	background-image: url(./images/igdw_BottomRight.gif);
+	font-size:1px;
+	height: 8px;
+	width: 8px;
+}
+
+
+.igdw_Windows7BodyEdgeBottom
+{
+	background-image: url(./images/igdw_Bottom.gif);
+	font-size:1px;
+	height: 8px;
+}
+
+
+/* used only when header hidden */
+.igdw_Windows7BodyCornerTopLeft
+{
+	background-position:top left ;
+	background-image: url(./images/igdw_TopLeftHidden.gif);
+	font-size:1px;
+	height: 9px;
+	width: 9px;
+}
+
+
+/* used only when header hidden */
+.igdw_Windows7BodyEdgeTop
+{
+	background-image: url(./images/igdw_topHidden.gif);
+	font-size:1px;
+	height: 9px;
+}
+
+
+/* used only when header hidden */
+.igdw_Windows7BodyCornerTopRight
+{
+	background-position:top right ;
+	background-image: url(./images/igdw_TopRightHidden.gif);
+	font-size:1px;
+	height: 9px;
+	width: 9px;
+}
+
+

@@ -1,0 +1,181 @@
+.igdw_Office2010BlueControl
+{
+	background-color:Transparent;
+	border-width:0px;
+}
+
+
+.igdw_Office2010BlueHeaderArea
+{
+	background-color:Transparent;
+	font-weight:bold;
+	border-width:0px;
+	height: 24px;
+	cursor:default;
+	color:White;
+}
+
+
+.igdw_Office2010BlueBodyContent
+{
+	border:solid 0px #999999;
+}
+
+
+.igdw_Office2010BlueHeaderButton
+{
+	margin:4px 3px 3px 3px;
+	cursor:pointer;
+}
+
+
+.igdw_Office2010BlueHeaderCaption
+{
+	margin-top:16px;
+	padding-top:10px;
+	color:#1E395B;
+	font-size:11px;
+}
+
+
+.igdw_Office2010BlueHeaderButtonArea
+{
+	width: 120px;
+	vertical-align:middle;
+}
+
+
+.igdw_Office2010BlueHeaderImage
+{
+	cursor:default;
+}
+
+
+.igdw_Office2010BlueModalBackground
+{
+	background-color:White;
+	filter: alpha(opacity : 50);
+	opacity: 0.5;
+	z-index: 99999;
+}
+
+
+.igdw_Office2010BlueResizingHandle
+{
+	cursor:se-resize;
+}
+
+
+/* used only when header visible */
+.igdw_Office2010BlueHeaderCornerLeft
+{
+	background-color:Transparent;
+	background-position:top left ;
+	background-image: url(images/igdw_HeaderCornerLeft.gif);
+	width: 9px;
+}
+
+
+/* used only when header visible */
+.igdw_Office2010BlueHeaderContent
+{
+	background-image: url(images/igdw_HeaderContent.gif);
+}
+
+
+/* used only when header visible */
+.igdw_Office2010BlueHeaderCornerRight
+{
+	background-position:top right ;
+	background-image: url(images/igdw_HeaderCornerRight.gif);
+	width: 9px;
+}
+
+
+/* used only when header hidden */
+.igdw_Office2010BlueBodyCornerTopLeft
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igdw_BodyCornerTopLeft.gif);
+	width: 6px;
+}
+
+
+/* used only when header hidden */
+.igdw_Office2010BlueBodyEdgeTop
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igdw_BodyEdgeTop.gif);
+}
+
+
+/* used only when header hidden */
+.igdw_Office2010BlueBodyCornerTopRight
+{
+	background-repeat:no-repeat;
+	background-position:right ;
+	background-image: url(images/igdw_BodyCornerTopRight.gif);
+	width: 6px;
+}
+
+
+.igdw_Office2010BlueBodyEdgeLeft
+{
+	background-color:White;
+	background-repeat:repeat-y;
+	border-right:solid 1px #BBBBBB;
+	border-left:solid 1px #666666;
+	width: 6px;
+}
+
+
+.igdw_Office2010BlueBodyEdgeRight
+{
+	background-color:White;
+	border-right:solid 1px #666666;
+	border-left:solid 1px #BBBBBB;
+	width: 6px;
+}
+
+
+.igdw_Office2010BlueBodyCornerBottomLeft
+{
+	background-color:White;
+	background-repeat:no-repeat;
+	background-image: url(images/igdw_BodyCornerBottomLeft.gif);
+	font-size:1px;
+	height: 14px;
+	width: 9px;
+}
+
+
+.igdw_Office2010BlueBodyContentArea
+{
+	background-color:White;
+	vertical-align:top;
+}
+
+
+.igdw_Office2010BlueBodyCornerBottomRight
+{
+	background-color:White;
+	background-repeat:no-repeat;
+	background-image: url(images/igdw_BodyCornerBottomRight.gif);
+	background-position:right top;	
+	font-size:1px;
+	height: 14px;
+	width: 9px;
+}
+
+
+.igdw_Office2010BlueBodyEdgeBottom
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igdw_BodyEdgeBottom.gif);
+	font-size:1px;
+	border-top:solid 1px #BBBBBB;
+	height: 15px;
+}
+
+

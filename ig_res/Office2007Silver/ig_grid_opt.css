@@ -1,0 +1,198 @@
+.igtbl_Office2007SilverControl
+{
+	cursor:default;
+}
+
+
+.igtbl_Office2007SilverPagerArea
+{
+	background-image: url(images/add_new.gif);
+	border-width:0px;
+	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+
+
+.igtbl_Office2007SilverPageCurrent
+{
+	background-repeat:no-repeat;
+	background-image: url(images/submit_up.gif);
+	margin-right:10px;
+	padding:2px 7px 5px 5px;
+}
+
+
+.igtbl_Office2007SilverPageLink
+{
+	margin-right:10px;
+	color:DimGray;
+}
+
+
+.igtbl_Office2007SilverGroupByBox
+{
+	background-color:#DDE2E8;
+	background-repeat:repeat-x;
+	background-image: url(images/caption_bg.jpg);
+	border-bottom:solid 1px DarkGray;
+}
+
+
+.igtbl_Office2007SilverAddNewBox
+{
+	background-image: url(images/add_new.gif);
+	border-bottom:solid 1px Gainsboro;
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR TD, THEAD.igtbl_Office2007SilverItem TR TH, TFOOT.igtbl_Office2007SilverItem TR TH, TBODY.igtbl_Office2007SilverItem TR TH
+{
+	border:solid 1px Transparent;
+	border-right-color:#D0D7E5;
+	border-bottom-color:#D0D7E5;
+	height: 25px;
+}
+
+
+.igtbl_Office2007SilverFilterOperandButton
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-position:center ;
+	background-image: url(images/submit_disable.gif);
+	border-width:0px;
+	padding-top:2px;
+	width: 18px;
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR.igtbl_Office2007SilverAlt TD
+{
+}
+
+
+.igtbl_Office2007SilverEdit
+{
+	background-color:White;
+	font-size:x-small;
+	font-family: Verdana;
+	border:solid 1px Transparent;
+	padding-top:6px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igtbl_Office2007SilverButton
+{
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR TD.igtbl_Office2007SilverFxdCell
+{
+}
+
+
+THEAD.igtbl_Office2007SilverHeader TR TH, TFOOT.igtbl_Office2007SilverHeader TR TH, TBODY.igtbl_Office2007SilverHeader TR TH
+{
+	background-color:Transparent;
+	background-position:bottom ;
+	background-image: url(images/gridheader.jpg);
+	border: 1px solid #Transparent;
+	border-right-width:1px;
+	border-right-color:#D4763D;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+
+
+TFOOT.igtbl_Office2007SilverFooter TR TH
+{
+	background-color:#B4B4B4;
+	background-image:none;
+	border-width:0px;
+}
+
+
+TBODY.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverLabel
+{
+	background-color:#E7E7E7;
+	background-image:none;
+	border-right-width:1px;
+	border-right-color:#909192;
+	border-bottom-width:1px;
+	border-bottom-color:#909192;
+	height: 3x;
+}
+
+
+TBODY.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverExpArea, TFOOT.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverExpArea
+{
+	background-color:#B4B4B4;
+	background-image:none;
+	border-width:0px;
+	border-top:solid 1px DarkGray;
+}
+
+
+TBODY.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverGrpItem
+{
+}
+
+
+THEAD.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverFxdHeader
+{
+}
+
+
+.igtbl_Office2007SilverGroupBandLabel
+{
+}
+
+
+TFOOT.igtbl_Office2007SilverHeader TR TH.igtbl_Office2007SilverFxdFooter
+{
+}
+
+
+.igtbl_Office2007SilverDropDown
+{
+	background-color:WhiteSmoke;
+	font-size:xx-small;
+	font-family: Verdana;
+	border:solid 1px LightGrey;
+}
+
+
+.igtbl_Office2007SilverDropDownSel
+{
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR.igtbl_Office2007SilverSelected TD, TBODY.igtbl_Office2007SilverItem TR TD.igtbl_Office2007SilverSelected, .igtbl_Office2007SilverSelected
+{
+	background-color:#EAECF5;
+	color:Black;
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR TD.igtbl_Office2007SilverActiveBorderTopBottom, .igtbl_Office2007SilverActiveBorderTopBottom
+{
+	border-top:solid 1px DimGray;
+	border-bottom:solid 1px DimGray;
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR TD.igtbl_Office2007SilverActiveBorderLeft, .igtbl_Office2007SilverActiveBorderLeft
+{
+	border-left:solid 1px DimGray;
+}
+
+
+TBODY.igtbl_Office2007SilverItem TR TD.igtbl_Office2007SilverActiveBorderRight, .igtbl_Office2007SilverActiveBorderRight
+{
+	border-right:solid 1px DimGray;
+}
+
+

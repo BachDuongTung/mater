@@ -1,0 +1,247 @@
+.igdv_Office2007BlueControl
+{
+	border: 1px solid #5D8CC9;
+}
+
+
+.igdv_Office2007BlueCaptionHeader
+{
+	background-color:#E3EFFF;
+	border-bottom: 1px solid #5D8CC9;
+	font-weight:bold;
+	font-size:8pt;
+	padding: 5px;
+	line-height: 20px;
+	height: 25px;
+	color: #000000;
+	text-align:center;
+}
+
+
+.igdv_Office2007BlueDayHeader
+{
+	background-color: #D1DEEF;
+	background-repeat:repeat-x;
+	background-image: url(images/day_header.jpg);
+	font-size: 8pt;
+	border-width: 0;
+	border-bottom:solid 1px #5D8CC9;
+	padding:3px;
+	color: #000000;
+	text-align:center;
+	vertical-align:middle;
+	overflow: hidden;
+}
+
+
+.igdv_Office2007BlueNonWorkingTimeSlot
+{
+	background-color:#E6EDF7;
+	border-bottom:solid 1px #A5BFE1;
+	height: 20px;
+}
+
+
+.igdv_Office2007BlueWorkingTimeSlot
+{
+	background-color: #ffffff;
+	border-bottom:solid 1px #A5BFE1;
+	height: 20px;
+}
+
+
+.igdv_Office2007BlueAllDayEventArea
+{
+	border-bottom: 1px solid #5D8CC9;
+}
+
+
+.igdv_Office2007BlueAllDayEvent
+{
+	background-color:#FFECBB;
+	font-size:8pt;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_alldayeventbg.gif);
+	padding: 5px;
+	border: 1px solid #FFD151;
+	white-space: nowrap;
+	text-align: center;
+	overflow: hidden;
+}
+
+
+.igdv_Office2007BlueAppointment
+{
+	background-color: #FFECBB;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_alldayeventbg.gif);
+	font-size:8pt;
+	border:solid 1px #FFD151;
+	overflow: hidden;
+}
+
+.igdv_Office2007BlueFadedAppointment
+{
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+
+.igdv_Office2007BlueActivityEdge
+{
+	font-size:1px;
+	height: 4px;
+	cursor:n-resize;
+}
+
+
+.igdv_Office2007BlueActivityEdgeLeft
+{
+	font-size: 2px;
+	width: 6px;
+	cursor: move;
+}
+
+
+.igdv_Office2007BlueTodayHeader
+{
+	background-color: #fada82;
+	font-size:8pt;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_todayheaderbg.gif);
+	border:solid 1px #EE9311;
+	font-weight: bold;
+	height: 20px;
+	color: #000000;
+	text-align:center;
+	vertical-align:middle;
+	overflow: hidden;
+}
+
+
+.igdv_Office2007BlueTimeSlotLabel
+{
+	background-color:#E3EFFF;
+	font-size:16pt;
+	border-right:solid 1px #5D8CC9;
+	border-bottom:solid 1px #5D8CC9;
+	width: 60px;
+	text-align:center;
+	vertical-align: middle;
+	color: #6593cf;
+}
+
+
+.igdv_Office2007BlueTimeSlotLabelMinutes
+{
+	font-size:8pt;
+}
+
+
+.igdv_Office2007BlueAllDayEventSelected
+{
+	background-color: #fada82;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_dayheaderbg.gif);
+}
+
+
+.igdv_Office2007BlueAllDayEventAreaSelected
+{
+	background-color: #DBDEE1;
+}
+
+
+.igdv_Office2007BlueActivityHover
+{
+	z-index: 10000;
+}
+
+
+.igdv_Office2007BlueActivityEdgeBusy
+{
+	background-color:#E6EDF7;
+}
+
+
+.igdv_Office2007BlueActivityEdgeTentative
+{
+	background-color:#E6EDF7;
+}
+
+
+.igdv_Office2007BlueActivityEdgeOutofOffice
+{
+	background-color:#E6EDF7;
+}
+
+
+.igdv_Office2007BlueActivityEdgeFree
+{
+	background-color:#E6EDF7;
+}
+
+
+.igdv_Office2007BlueNavigationButton
+{
+	background-color: Transparent;
+	border-width: 0px;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+
+.igdv_Office2007BlueSelectedAppointment
+{
+	z-index: 9999;
+}
+
+.igdv_Office2007BlueResourceButton
+{
+	background: #C1DBFF;
+	background-image: url(images/caption_bg.jpg);
+	background-repeat: repeat-x;
+	padding: 4px;
+	font-size: 8pt;
+	color: #000000;
+	border-width: 0;
+	border-right: solid 1px #5D8CC9;
+	border-bottom: solid 1px #5D8CC9;
+}
+
+.igdv_Office2007BlueResourceButton:focus, .igdv_Office2007BlueResourceButtonActive
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igdv_Office2007BlueResourceButton:hover
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igdv_Office2007BlueMultiDayEventArrowLeft
+{
+      background-image: url(images/igws_arrowLeft.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}
+
+.igdv_Office2007BlueMultiDayEventArrowRight
+{
+      background-image: url(images/igws_arrowRight.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}

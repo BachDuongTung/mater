@@ -1,0 +1,254 @@
+.igeb_Office2007SilverControl
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Segoe UI, Verdana, Helvetica, sans-serif;
+	border:solid 1px #6F7075;
+	border-top-width:0px;
+	overflow-x: hidden;
+	_overflow: hidden!important;
+	color:Black;
+}
+
+
+.igeb_Office2007SilverGroup
+{
+	background-repeat:repeat-x;
+	background-position:0px -60px ;
+	background-image: url(images/igeb_GroupBg.png);
+	display: block;
+	height: 30px;
+	overflow: hidden;
+	line-height: 30px;
+	color:#4C535E;
+	vertical-align:middle;
+}
+
+
+.igeb_Office2007SilverGroupSelected
+{
+	background-repeat:repeat-x;
+	background-position:0px 0px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:Black;
+}
+
+
+.igeb_Office2007SilverGroupActive
+{
+	background-repeat:repeat-x;
+	background-position:0px -30px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroupHover
+{
+	background-repeat:repeat-x;
+	background-position:0px -30px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverItem
+{
+	background-color:White;
+}
+
+
+.igeb_Office2007SilverItemImage
+{
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:0px;
+	vertical-align:middle;
+}
+
+
+.igeb_Office2007SilverItemSelected
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007SilverItemActive
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007SilverItemHover
+{
+	background-color:#FFE7A2;
+}
+
+
+.igeb_Office2007SilverItemDisabled
+{
+}
+
+
+.igeb_Office2007SilverGroupContents
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Office2007SilverGroupLabel
+{
+	font-weight:bold;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Sans-Serif;
+	margin-left:5px;
+	padding-left:5px;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007SilverGroupDisabled
+{
+	background-repeat:repeat-x;
+	background-position:0px -90px ;
+	background-image: url(images/igeb_GroupBg.png);
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroupExpanderImage
+{
+	margin-top:5px;
+	margin-right:5px;
+	float: right;
+}
+
+
+.igeb_Office2007SilverItemLabel
+{
+	font-weight:normal;
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	display: block;
+}
+
+
+.igeb_Office2007SilverHolder
+{
+}
+
+
+.igeb_Office2007SilverGroupLink
+{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-left:6px;
+	display: block;
+	color: inherit;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007SilverItemLink
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	display: block;
+	color:#333333;
+	text-decoration:none;
+}
+
+
+.igeb_Office2007SilverItemParent
+{
+}
+
+
+.igeb_Office2007SilverItemHolder
+{
+}
+
+
+.igeb_Office2007SilverGroupHover a
+{
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverItemHolder img
+{
+	vertical-align:middle;
+}
+
+
+/* IE 7 Disabled item fix */
+.igeb_Office2007SilverItemDisabled a visited, .igeb_Office2007SilverItemDisabled a
+{
+	color:Gray;
+}
+
+
+.igeb_Office2007SilverGroupActive a
+{
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroupHover a visited
+{
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroupSelected a visited
+{
+	color:Black;
+}
+
+
+/* IE 7 fix to icon bad alignment*/
+.igeb_Office2007SilverItem ,.igeb_Office2007SilverItemActive ,.igeb_Office2007SilverItemSelected
+{
+	min-height: 20px;
+	_height: 20px;
+}
+
+
+.igeb_Office2007SilverItemContents
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igeb_Office2007SilverGroupSelected a
+{
+	color:Black;
+}
+
+
+.igeb_Office2007SilverGroup a visited
+{
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroup a
+{
+	color:#4C535E;
+}
+
+
+.igeb_Office2007SilverGroupActive a visited
+{
+	color:#4C535E;
+}
+
+

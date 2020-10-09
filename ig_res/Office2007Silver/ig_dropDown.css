@@ -1,0 +1,421 @@
+/*
+
+Main control CSS class
+*/
+.igdd_Office2007SilverControl
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdd_Office2007SilverControlDisabled
+{
+}
+
+
+/*
+ Main control css class on hover
+*/
+.igdd_Office2007SilverControlHover
+{
+	background-color:White;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverControlFocus
+{
+	background-color:White;
+	border:solid 1px #A9B1B8;
+	table-layout: fixed;
+}
+
+
+.igdd_Office2007SilverControlArea
+{
+	background-color:#E8EAEC;
+	border:solid 1px #A9B1B8;
+	table-layout: fixed;
+}
+
+
+/*
+CSS class for the actual input field (<input type="text" />)
+*/
+.igdd_Office2007SilverValueDisplay
+{
+	background-color:Transparent;
+	font-weight:normal;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	width: 100%;
+	z-index: 0;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverValueDisplayHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverValueDisplayFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverValueDisplayDisabled
+{
+    background-color:Transparent;
+    border:0px;
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    font-weight:normal;
+    width:100%;
+    z-index:0;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverValueDisplayReadOnly
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownList
+{
+	background-color:White;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:1px;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListReadOnly
+{
+}
+
+
+/*
+	
+*/
+.igdd_Office2007SilverDropDownListContainer
+{
+	background-color:White;
+	border:solid 1px #868686;
+	float: left;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListContainerHover
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownButton
+{
+	width: 17px;
+	z-index: 9999;
+}
+
+.igdd_Office2007SilverDropDownButton img 
+{
+    display:block;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownButtonHover
+{
+}
+
+
+/*
+CSS class that controls the style of the LI items in the list
+*/
+.igdd_Office2007SilverListItem
+{
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	padding:3px 5px 3px 5px;
+	list-style-type: none;
+	width: auto;
+	min-height: 15px;
+	height: auto !important;
+	cursor:pointer;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2007SilverListItem {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2007SilverListItemActive
+{
+	background-color:#FFE7A2;
+	border:solid 1px #FFBD69;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverListItemHover
+{
+	background-color:#FFE59C;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/igdd_listitemhover.png);
+	border:solid 1px #C0A776;
+	list-style-type: none;
+}
+	/* IE 6 fix */
+	.ie6 .igdd_Office2007SilverListItemHover {
+		border:solid 1px white;
+	}
+
+/*
+
+*/
+.igdd_Office2007SilverListItemSelected
+{
+	background-color:#FFF5B8;
+	border:solid 1px #FFFBDD;
+	list-style-type: none;
+	color:#333333;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverListItemDisabled
+{
+	list-style-type: none;
+	width: auto;
+	cursor:default;
+}
+
+
+/*
+Applied to the whole pager
+*/
+.igdd_Office2007SilverPager
+{
+	background-color:Transparent;
+	border-top:solid 1px #868686;
+	vertical-align:middle;
+}
+
+
+/*
+Loading message container
+*/
+.igdd_Office2007SilverLoadingItemsMessage
+{
+	background-color:#23262A;
+	font-weight:bold;
+	font-size:10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:1px 0px 0px 1px;
+	padding:3px;
+	color:White;
+}
+
+
+/*
+Styles the current page link only
+*/
+.igdd_Office2007SilverPageCurrent
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#FFBD69;
+	text-decoration:underline;
+	vertical-align:middle;
+}
+
+
+/*
+Styles all page links in general 
+*/
+.igdd_Office2007SilverPageLink
+{
+	font-size:8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-right:3px;
+	float: left;
+	cursor:pointer;
+	color:#7C7C94;
+	vertical-align:middle;
+}
+
+
+/*
+	
+*/
+.igdd_Office2007SilverDropDownButtonFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListFocus
+{
+}
+
+
+/*
+Styling for anchor when hovered anywhere on ListItem
+*/
+.igdd_Office2007SilverListItemHover a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+.igdd_Office2007SilverListItemActive a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+.igdd_Office2007SilverListItem a:visited
+{
+	color:Black;
+	text-decoration:none;
+}
+
+
+/*
+ CSS class for the table that accomodates the value display and the drop down button, and which is a 
+ child of the main control (div)
+*/
+.igdd_Office2007SilverValueDisplayTable
+{
+}
+
+
+.igdd_Office2007SilverListItem a:hover
+{
+}
+
+
+/*
+For Disabled=True of a DropDownItem
+*/
+.igdd_Office2007SilverListItemDisabled a:link
+{
+	cursor:default;
+	color:#8D8D8D;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListContainerFocus
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownListDisabled
+{
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverDropDownButtonDisabled
+{
+}
+
+
+/*
+pseudo class used so Value Display input does not have focus
+glow in some browsers like GoogleChrome or AppleSafari
+*/
+input:focus
+{
+	outline: none;
+}
+
+
+/*
+
+*/
+.igdd_Office2007SilverListItemFocus
+{
+	list-style-type: none;
+	width: auto;
+}
+
+
+.igdd_Office2007SilverListItem a:active
+{
+}
+
+
+.igdd_Office2007SilverListItem a:link
+{
+	color:Black;
+	text-decoration:none;
+}
+
+

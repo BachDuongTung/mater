@@ -1,0 +1,119 @@
+.igcmb_Windows7Control
+{
+}
+
+
+.igcmb_Windows7EditWithButtons
+{
+	border:solid 1px #ACACAC;
+	cursor:hand;
+}
+
+
+.igcmb_Windows7PagerArea
+{
+}
+
+
+.igcmb_Windows7PageCurrent
+{
+}
+
+
+.igcmb_Windows7PageLink
+{
+}
+
+
+.igcmb_Windows7Item
+{
+	border:solid 1px Transparent;
+	border-right-color:#D0D7E5;
+	border-bottom-color:#D0D7E5;
+}
+
+
+.igcmb_Windows7FilterDropDown
+{
+}
+
+
+.igcmb_Windows7FilterOperandDropDown
+{
+}
+
+
+.igcmb_Windows7Alt
+{
+}
+
+
+.igcmb_Windows7Header
+{
+	background-color:Transparent;
+	background-position:bottom ;
+	background-image: url(images/office_grid_header.jpg);
+	border-width:0px;
+	border-color:Transparent;
+	border-right-width:1px;
+	border-right-color:#F29536;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+.igcmb_Windows7Footer
+{
+}
+
+
+.igcmb_Windows7Label
+{
+	background-color:#EDEDED;
+	background-image:none;
+	border-right-width:1px;
+	border-right-color:#B6B6B6;
+	border-bottom-width:1px;
+	border-bottom-color:#B6B6B6;
+}
+
+
+.igcmb_Windows7Selected
+{
+	background-color:#EAECF5;
+	border-width:1px;
+	color:Black;
+}
+
+
+.igcmb_Windows7EditSelected
+{
+	background-color:White;
+	font-size:x-small;
+	font-family: Verdana;
+	border:solid 1px Transparent;
+	padding-top:6px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igcmb_Windows7ActiveBorderTopBottom
+{
+	border-top:solid 1px DimGray;
+	border-bottom:solid 1px DimGray;
+}
+
+
+.igcmb_Windows7ActiveBorderLeft
+{
+	border-left:solid 1px DimGray;
+}
+
+
+.igcmb_Windows7ActiveBorderRight
+{
+	border-right:solid 1px DimGray;
+}
+
+

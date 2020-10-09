@@ -1,0 +1,286 @@
+.igmv_Office2007SilverControl
+{
+	border:solid 1px #616A76;
+	overflow: auto;
+}
+
+
+.igmv_Office2007SilverCaptionHeader
+{
+	background-color:#F0F1F2;
+	padding: 5px;
+	color: Black;
+	text-align:center;
+	vertical-align:middle;
+	font-size: 10pt;
+	line-height: 30px;
+}
+
+
+.igmv_Office2007SilverDayHeader
+{
+	background-color: #CBCED4;
+	background-repeat:repeat-x;
+	background-image: url(images/day_header1.gif);
+	font-size:8pt;
+	font-weight: bold;
+	border:solid 1px #B0B6BE;
+	border-right-width: 0px;
+	padding: 2px;
+	color: Black;
+	height: 1%;
+}
+
+
+.igmv_Office2007SilverDay
+{
+	background-color:White;
+	border:solid 1px #9199A4;
+	border-right-width:0;
+	cursor:pointer;
+	color:Black;
+	vertical-align: top;
+}
+
+
+.igmv_Office2007SilverAppointment
+{
+	background-color: #d9dbe0;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_appointmentbg.gif);
+	margin:1px;
+	padding:3px;
+	cursor:pointer;
+	text-align:left;
+	vertical-align: middle;
+	font-size: 8pt;
+	overflow: hidden;
+}
+
+.igmv_Office2007SilverFadedAppointment
+{
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+
+.igmv_Office2007SilverAllDayEvent
+{
+	background-color: #DEE0E4;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_alldayeventbg1.gif);
+	border:solid 1px #9199a4;
+	margin: 1px;
+	padding: 2px;
+	cursor: pointer;
+	text-align: left;
+	font-size: 8pt;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+
+.igmv_Office2007SilverNavigationButton
+{
+	background-color:Transparent;
+	border-width:0px;
+	margin:0px;
+	padding:0px;
+	width: 25px;
+	cursor:pointer;
+}
+
+
+.igmv_Office2007SilverWeekNumber
+{
+	background-color:#CACEd4;
+	background-repeat:repeat-y;
+	background-image: url(images/igws_weeknumberbg.gif);
+	font-size:8pt;
+	border:solid 1px #9199a4;
+	border-right:solid 0px #9199a4;
+	width: 18px;
+	text-align:center;
+	vertical-align: middle;
+}
+
+
+.igmv_Office2007SilverCompressedDay
+{
+	border-left:solid 1px #9199a4;
+	vertical-align:top;
+}
+
+
+tr.igmv_Office2007SilverCaptionHeader td.igmv_Office2007SilverWeekNumber
+{
+	background-color:#F0F1F2;
+	background-image: none;
+	border-width:0px;
+	text-align: left;
+}
+
+
+.igmv_Office2007SilverMonthDayOfWeekHeader
+{
+	background-color:#B0B6BE;
+	background-image:none;
+	font-size:8pt;
+	border: 1px solid #9199a4;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	padding: 3px;
+	color:#616a76;
+	text-align:center;
+	vertical-align: middle;
+	height: 1%;
+}
+
+
+.igmv_Office2007SilverOtherMonthDayHeader
+{
+	background-color: #CBCED4;
+	background-repeat:repeat-x;
+	background-image: url(images/day_header1.gif);
+	font-size:8pt;
+	font-weight: bold;
+	border:solid 1px #B0B6BE;
+	padding: 3px;
+	color:Black;
+	height: 1%;
+}
+
+
+.igmv_Office2007SilverOtherMonthDay
+{
+	background-color:#C7CBD1;
+	border-top:solid 1px #9199A4;
+	border-left:solid 1px #9199A4;
+	cursor:pointer;
+	color:Black;
+	vertical-align: top;
+}
+
+
+.igmv_Office2007SilverOtherCompressedDay
+{
+	background-color:#C7CBD1;
+	border-left:solid 1px #9199a4;
+	vertical-align:top;
+}
+
+
+.igmv_Office2007SilverTodayHeader
+{
+	background-color:#F7CF70;
+	background-repeat:repeat-x;
+	background-position:top ;
+	background-image: url(images/day_header_active.jpg);
+	font-size:8pt;
+	border: 1px solid #EE9311;
+	padding:3px;
+	color:Black;
+}
+
+
+.igmv_Office2007SilverToday
+{
+	background-color:White;
+	border:solid 1px #EE9311;
+}
+
+
+.igmv_Office2007SilverSelectedAppointment
+{
+	border:1px solid #FFD151;
+	background-color: #fada82;
+	background-repeat: repeat-x;
+	background-image: url(images/igws_dayheaderbg.gif);
+	margin: 1px;
+	padding: 2px;
+	cursor: pointer;
+	text-align: left;
+	font-size: 8pt;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+
+.igmv_Office2007SilverActiveDayHeader
+{
+}
+
+
+.igmv_Office2007SilverActiveDay
+{
+	background-color:#E8EAEC;
+}
+
+
+.igmv_NavigationButtonPrev
+{
+	margin-left: 3px;
+}
+
+
+.igmv_NavigationButtonNext
+{
+	margin-right: 3px;
+}
+
+
+.igmv_Office2007SilverControl table
+{
+	border-collapse:Collapse;
+}
+
+
+.igmv_Office2007SilverResourceButton
+{
+	background: #DDE2E8;
+	background-image: url(images/caption_bg.jpg);
+	background-repeat: repeat-x;
+	padding: 4px;
+	font-size: 8pt;
+	color: #000000;
+	border-width: 0;
+	border-right: solid 1px #616A76;
+	border-bottom: solid 1px #616A76;
+}
+
+.igmv_Office2007SilverResourceButton:focus, .igmv_Office2007SilverResourceButtonActive
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igmv_Office2007SilverResourceButton:hover
+{
+	filter:alpha(opacity=100);
+	-moz-opacity:1.0;
+	-khtml-opacity: 1.0;
+	opacity: 1.0;
+}
+
+.igmv_Office2007SilverMultiDayEventArrowLeft
+{
+      background-image: url(images/igws_arrowLeft.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}
+
+.igmv_Office2007SilverMultiDayEventArrowRight
+{
+      background-image: url(images/igws_arrowRight.gif);
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+}

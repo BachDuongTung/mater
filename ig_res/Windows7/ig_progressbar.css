@@ -1,0 +1,83 @@
+.igpb_Windows7Control
+{
+}
+
+
+.igpb_Windows7Container
+{
+	border:solid 1px #ACACAC;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+
+.igpb_Windows7InnerDiv
+{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	overflow: hidden;
+}
+
+
+.igpb_Windows7BaseLabel
+{
+	font-size:11px;
+	padding:2px;
+	white-space: nowrap;
+	position: absolute;
+	text-align:left;
+}
+
+
+.igpb_Windows7ForegroundLabel
+{
+	color:White;
+}
+
+
+.igpb_Windows7BackgroundLabel
+{
+	color:Black;
+}
+
+
+.igpb_Windows7Fill_Horiz
+{
+	background-color:#1CE233;
+	background-repeat:repeat-x;
+	background-image: url(./images/igpb_horizontalFill.gif);
+}
+
+
+.igpb_Windows7Fill_Vert
+{
+	background-color:#1CE233;
+	background-repeat:repeat-y;
+	background-image: url(./images/igpb_VerticalFill.gif);
+}
+
+
+.igpb_Windows7Background_Horiz
+{
+	background-color:#E5E5E5;
+	background-repeat:repeat-x;
+	background-image: url(./images/igpb_horizontalBg.gif);
+}
+
+
+.igpb_Windows7Background_Vert
+{
+	background-color:#E5E5E5;
+	background-repeat:repeat-y;
+	background-image: url(./images/igpb_VerticalBg.gif);
+}
+
+
+body
+{
+}
+
+

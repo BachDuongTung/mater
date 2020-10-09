@@ -1,0 +1,102 @@
+.igcv_Windows7Control
+{
+	background-color:White;
+	border:solid 1px #CDDAEA;
+}
+
+
+.igcv_Windows7CaptionHeader
+{
+	background-color:#F1F5FB;
+	font-size:8pt;
+	padding:3px;
+	width: 100%;
+	white-space: nowrap;
+	color:#1E395B;
+	text-align:center;
+}
+
+
+.igcv_Windows7DayHeader
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	font-size:10px;
+	border-bottom:solid 1px #CDDAEA;
+	height: 16px;
+	color:Black;
+}
+
+
+.igcv_Windows7Day
+{
+	background-color:White;
+	font-size:11px;
+	border-width:0px;
+	padding-right:5px;
+	padding-left:7px;
+	cursor:hand;
+	text-align:right;
+}
+
+
+.igcv_Windows7Footer
+{
+	background-color:#F1F5FB;
+	font-size:8pt;
+	padding:3px;
+	white-space: nowrap;
+	cursor:pointer;
+	text-align:left;
+}
+
+
+.igcv_Windows7DropDown
+{
+	font-size:8pt;
+}
+
+
+.igcv_Windows7OtherMonthDay
+{
+	background-color:White;
+	color:#B3B3B3;
+}
+
+
+.igcv_Windows7WeekendDay
+{
+	background-color:#E7EBF6;
+	color:#4C607A;
+}
+
+
+.igcv_Windows7NavigationButton
+{
+	background-color:#F1F5FB;
+	padding-right:3px;
+	padding-left:3px;
+	cursor:pointer;
+}
+
+
+.igcv_Windows7TodayDay
+{
+	border:solid 1px #8FB0D6;
+	color:#4C607A;
+}
+
+
+.igcv_Windows7ActivityDay
+{
+	font-weight:bold;
+}
+
+
+.igcv_Windows7ActiveDay
+{
+	background-color:#CCE2FC;
+	background-image:none;
+}
+
+

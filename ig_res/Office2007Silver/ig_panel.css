@@ -1,0 +1,41 @@
+.igpnl_Office2007SilverControl
+{
+}
+
+
+.igpnl_Office2007SilverPanel
+{
+	background-color:#FAFAFA;
+}
+
+
+.igpnl_Office2007SilverHeaderExpanded
+{
+	background-image: url(images/caption_bg.jpg);
+	font-weight:bold;
+	font-size:xx-small;
+	font-family: Verdana;
+	padding-top:3px;
+	padding-bottom:3px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.igpnl_Office2007SilverHeaderCollapsed
+{
+}
+
+
+.igpnl_Office2007SilverHeaderHover
+{
+	background-image: url(images/monthheadercaption_bg_hover.jpg);
+	color:White;
+}
+
+
+.igpnl_Office2007SilverGroupBoxControl
+{
+}
+
+

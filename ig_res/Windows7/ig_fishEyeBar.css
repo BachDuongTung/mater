@@ -1,0 +1,41 @@
+﻿.igfeb_Windows7Control
+{
+	background-color: Transparent;
+}
+
+.igfeb_Windows7ControlHover
+{
+				
+				
+}
+
+.igfeb_Windows7FishEyeItemLabel
+{
+}
+
+.igfeb_Windows7FishEyeItem
+{
+}
+
+.igfeb_Windows7FishEyeItemHover
+{			
+}
+
+.igfeb_Windows7FishEyeItemDisabled
+{
+				
+				
+}
+
+.igfeb_Windows7ControlFocus
+{
+				
+				
+}
+
+.igfeb_Windows7FishEyeItemSelected
+{
+	background-position: bottom;
+	background-image: url(images/igfeb_itemselected.png);	
+	background-repeat:  no-repeat;
+}

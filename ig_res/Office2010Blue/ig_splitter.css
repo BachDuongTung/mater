@@ -1,0 +1,113 @@
+.igspl_Office2010BlueControl
+{
+	border:solid 1px #CCCCCC;
+}
+
+
+.igspl_Office2010BluePane
+{
+	background-color:White;
+	background-repeat:repeat-x;
+}
+
+
+.igspl_Office2010BlueVSplitBar
+{
+	background-repeat:repeat-y;
+	background-position:center ;
+	background-image: url(images/igspl_splitVert.gif);
+	font-size:1px;
+	cursor:e-resize;
+}
+
+
+.igspl_Office2010BlueHSplitBar
+{
+	background-repeat:repeat-x;
+	background-position:center ;
+	background-image: url(./images/igspl_splitHoriz.gif);
+	font-size:1px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	height: 30px;
+	cursor:n-resize;
+}
+
+
+.igspl_Office2010BlueVSplitBarHover
+{
+	background-image: url(./images/igspl_splitVertHover.gif);
+}
+
+
+.igspl_Office2010BlueHSplitBarHover
+{
+	background-repeat:repeat-x;
+	background-image: url(./images/igspl_splitHorizHover.gif);
+}
+
+
+.igspl_Office2010BlueVSplitBarPressed
+{
+
+}
+
+
+.igspl_Office2010BlueHSplitBarPressed
+{
+	background-repeat:repeat-x;
+	background-position:center ;
+	background-image: url(./images/igspl_splitHorizPressed.gif);
+}
+
+
+.igspl_Office2010BlueHSplitBarShadow
+{
+	background-image: url(./images/igspl_splitHorizHover.gif);
+	border:dotted 1px Black;
+	filter: alpha(opacity : 70);
+	opacity: 0.7;
+}
+
+
+.igspl_Office2010BlueVSplitBarShadow
+{
+	background-image: url(./images/igspl_splitVertHover.gif);
+	border:dotted 1px Black;
+	filter: alpha(opacity : 70);
+	opacity: 0.7;
+}
+
+
+.igspl_Office2010BlueVSplitBarShadowLimit
+{
+	background-color:Yellow;
+	border-style:solid;
+}
+
+
+.igspl_Office2010BlueHSplitBarShadowLimit
+{
+	background-color:Yellow;
+	border-style:solid;
+}
+
+
+.igspl_Office2010BlueCollapseSplitBarButton
+{
+	cursor:pointer;
+}
+
+
+.igspl_Office2010BlueHSplitBarHeight
+{
+	height: 6px;
+}
+
+
+.igspl_Office2010BlueVSplitBarWidth
+{
+	width: 6px;
+}
+
+

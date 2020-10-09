@@ -1,0 +1,114 @@
+.igte_Office2007BlueEditWithButtons
+{
+	font-size: 10px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #EAF2FB;
+	line-height:1px;
+	height:20px;
+	width: 130px;
+	outline:0;
+	border:solid 1px #ABC1DE;
+}
+
+
+.igte_Office2007BlueEdit
+{
+	font-size: 12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #EAF2FB;
+	border:solid 1px #ABC1DE;
+	outline:0;
+}
+
+.igte_Office2007BlueTextArea
+{
+	font-size: 12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: #EAF2FB;
+	border:solid 1px #ABC1DE;
+	outline:0;
+	resize:none;
+}
+
+.igte_Office2007BlueEditInContainer
+{
+	font-size:12px;
+	font-family: Segoe UI, Verdana, Arial, Sans-Serif;
+	background-color: Transparent;
+	border-width:0px;
+	outline:0;
+}
+
+.igte_Office2007BlueFocus
+{
+	background-color: #FFFFFF;
+	border-color:#B3C7E1;
+}
+
+.igte_Office2007BlueHover
+{
+	background-color: #FFFFFF;
+}
+
+.igte_Office2007BlueInner
+{
+}
+
+.igte_Office2007BlueInnerFocus
+{
+}
+
+.igte_Office2007BlueInnerHover
+{
+}
+
+.igte_Office2007BlueButtonSize
+{
+	width:15px;
+	height:100%;
+}
+
+.igte_Office2007BlueButton
+{
+	background-color: #EAF2FB;
+	line-height:normal;
+	border:solid 1px #EAF2FB;
+	cursor: pointer;
+}
+
+.igte_Office2007BlueButtonFocus
+{
+}
+
+.igte_Office2007BlueNullText
+{
+	color: #808080;
+}
+
+.igte_Office2007BlueButtonHover
+{
+	background-color: #FFE7A5;
+	background-image: url(images/igte_spinbuttonbghover.gif);
+	background-repeat: repeat-x;
+	border:solid 1px #DBCE99;
+}
+
+
+.igte_Office2007BlueButtonPressed
+{
+	background-color: #FFD456;
+	background-image: url(images/igte_spinbuttonbgpressed.gif);
+	background-repeat: repeat-x;
+	border:solid 1px #9A8F63;
+}
+
+
+.igte_Office2007BlueButtonDisabled
+{
+	background-image: none;
+	background-color: #CCCCCC;
+}
+
+.igte_Office2007BlueButtonImg
+{
+}

@@ -1,0 +1,259 @@
+.igdv_Windows7Control
+{
+	background-color:White;
+	border:solid 1px #CDDAEA;
+}
+
+
+.igdv_Windows7CaptionHeader
+{
+	background-color:#F1F5FB;
+	font-weight:bold;
+	font-size:8pt;
+	border-bottom:solid 1px #CDDAEA;
+	padding:5px;
+	color:#1E395B;
+	text-align:center;
+}
+
+
+.igdv_Windows7DayHeader
+{
+	background-color: /*#CBCED4*/ #c1dbfc;
+	background-repeat:repeat-x;
+	background-image: url(images/day_header1.gif);
+	font-size:8pt;
+	border-width:0px;
+	border-bottom:solid 1px #CDDAEA;
+	padding:3px;
+	overflow: hidden;
+	color:Black;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+.igdv_Windows7NonWorkingTimeSlot
+{
+	background-color: /*#E7EBF6*/ #eceff8;
+	border-bottom:solid 1px #CDDAEA;
+	height: 20px;
+	color:#4C607A;
+}
+
+
+.igdv_Windows7WorkingTimeSlot
+{
+	background-color:White;
+	border-bottom:solid 1px #E6EDF7;
+	height: 20px;
+}
+
+
+.igdv_Windows7FadedAppointment
+{
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+
+.igdv_Windows7Resource
+{
+}
+
+
+.igdv_Windows7ResourceButton
+{
+	background-color:#DDE2E8;
+	background-repeat:repeat-x;
+	background-image: url(images/caption_bg.jpg);
+	font-size:8pt;
+	border-width:0px;
+	border-right:solid 1px #616A76;
+	border-bottom:solid 1px #616A76;
+	padding:4px;
+	color:Black;
+}
+
+
+.igdv_Windows7ResourceButtonActive
+{
+}
+
+
+.igdv_Windows7AllDayEventArea
+{
+	border-bottom:solid 1px #E6EDF7;
+}
+
+
+/*JP*/
+.igdv_Windows7AllDayEvent
+{
+	background-color: /*#FFECBB*/ #e6f0fc;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_alldayeventbg.gif);
+	font-size:8pt;
+	border:solid 1px #8FB0D6;
+	padding:5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align:center;
+}
+
+
+/*JP*/
+.igdv_Windows7Appointment
+{
+	background-color: #ecf4ff!important;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_alldayeventbg.gif);
+	font-size:8pt;
+	border:solid 1px #8FB0D6;
+	overflow: hidden;
+}
+
+
+.igdv_Windows7ActivityEdge
+{
+	font-size:1px;
+	height: 4px;
+	cursor:n-resize;
+}
+
+
+.igdv_Windows7ActivityEdgeLeft
+{
+	font-size:2px;
+	width: 6px;
+	cursor:move;
+}
+
+
+.igdv_Windows7MultiDayEventArrowLeft
+{
+	background-repeat:no-repeat;
+	background-position:center center ;
+	background-image: url(images/igws_arrowleft.gif);
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+}
+
+
+.igdv_Windows7MultiDayEventArrowRight
+{
+	background-repeat:no-repeat;
+	background-position:center center ;
+	background-image: url(images/igws_arrowright.gif);
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+}
+
+
+.igdv_Windows7TodayHeader
+{
+	background-color:Blue;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_todayheaderbg.gif);
+	font-weight:bold;
+	font-size:8pt;
+	color:Black;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+.igdv_Windows7TimeSlotLabel
+{
+	background-color:#F1F5FB;
+	font-size:16pt;
+	border-right:solid 1px #CDDAEA;
+	border-bottom:solid 1px #CDDAEA;
+	width: 60px;
+	color:#4C607A;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+.igdv_Windows7TimeSlotLabelMinutes
+{
+	font-size:8pt;
+}
+
+
+.igdv_Windows7AllDayEventSelected
+{
+	background-color: /*#FADA82*/ #c4defc;
+	background-repeat:repeat-x;
+	background-image: url(images/igws_dayheaderbg.gif);
+}
+
+
+.igdv_Windows7AllDayEventAreaSelected
+{
+	background-color:#DAEAFC;
+}
+
+
+.igdv_Windows7ActivityHover
+{
+	z-index: 10000;
+}
+
+
+.igdv_Windows7ActivityEdgeBusy
+{
+	background-color: /*#E8EAEC*/ #c4defc;
+}
+
+
+.igdv_Windows7ActivityEdgeTentative
+{
+	background-color: /*#E8EAEC*/ #c4defc;
+}
+
+
+.igdv_Windows7ActivityEdgeOutofOffice
+{
+	background-color: /*#E8EAEC*/ #c4defc;
+}
+
+
+.igdv_Windows7ActivityEdgeFree
+{
+	background-color: /*#E8EAEC*/ #c4defc;
+}
+
+
+.igdv_Windows7NavigationButton
+{
+	background-color:Transparent;
+	border-width:0px;
+	cursor:pointer;
+	vertical-align:middle;
+}
+
+
+.igdv_Windows7SelectedAppointment
+{
+	z-index: 9999;
+}
+
+
+.igdv_Windows7ResourceButton hover
+{
+	filter: alpha(opacity=100);
+	opacity: 1.0;
+}
+
+
+.igdv_Windows7ResourceButton focus, .igdv_Windows7ResourceButtonActive
+{
+	filter: alpha(opacity=100);
+	opacity: 1.0;
+}
+
+

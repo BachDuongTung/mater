@@ -1,0 +1,2162 @@
+.igtab_Windows7THControl
+{
+	overflow:hidden;
+}
+.igtab_Windows7THContentHolder
+{
+	border:1px solid #999999;
+	border-top-width:0px;
+	height:80%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Windows7THContent
+{
+	height:100%;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.igtab_Windows7THHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Windows7THHolder
+{
+	background:url(./images/igtab_HolderBorder.gif) repeat-x bottom left;
+	position:relative;
+	display:block;
+	height:23px;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Windows7THRoundedForHolder
+{
+	background:none;
+	margin-left:5px;
+	height:22px;
+}
+.igtab_Windows7THHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Windows7THHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Windows7THScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Windows7THRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Windows7THImage
+{
+	vertical-align:middle;
+}
+.igtab_Windows7THClose
+{
+	position:absolute;
+	left:100%;
+	margin-left:-20px;
+	margin-top:6px;
+	top:0px;
+	cursor: pointer;
+}
+.igtab_Windows7THScrollButton
+{
+	padding:1px;
+}
+.igtab_Windows7THText
+{
+	vertical-align:middle;
+	padding:0px 1px 0px 1px;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:22px;
+	cursor:default;
+}
+.igtab_Windows7THCenter
+{
+	padding:0px 1px 0px 1px;
+	display:block;
+	position:relative;
+	background:url(./images/igtab_THCenter.jpg) repeat-x;
+	white-space:nowrap;
+	text-align:center;
+	font:22px sans-serif;
+	line-height:22px;
+	overflow:hidden;
+}
+.igtab_Windows7THCloseSize
+{
+	padding-right:20px;
+}
+.igtab_Windows7THTail
+{
+	background: transparent url(./images/igtab_THRight.gif) no-repeat;
+	background-position: top right;
+	padding-left:0px;
+	padding-right:7px;
+	display:block;
+	margin: 0px;
+	height:100%;
+}
+.igtab_Windows7THTab
+{
+	display:inline;
+	position:relative;
+	padding-left:7px;
+	float:left;
+	background: transparent url(./images/igtab_THLeft.gif) top left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+	border-bottom:1px solid #999999;
+	height:22px;
+}
+.igtab_Windows7THOverlap
+{
+	margin-left: -5px;
+}
+.igtab_Windows7THRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Windows7THTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Windows7THCenterHov
+{
+	background-position: 0px -50px;
+}
+.igtab_Windows7THTailHov
+{
+	background: transparent url(./images/igtab_THRightHov.gif) no-repeat;
+	background-position: top right;
+}
+.igtab_Windows7THTabHov
+{
+	background-position: 0px -50px;
+}
+.igtab_Windows7THTextSel
+{
+}
+.igtab_Windows7THCenterSel
+{
+	background-position: 0px -100px;
+}
+.igtab_Windows7THTailSel
+{
+	background: transparent url(./images/igtab_THRightSel.gif) no-repeat;
+	background-position: top right;
+}
+.igtab_Windows7THTabSel
+{
+	background-position: 0px -100px;
+}
+.igtab_Windows7THTextAct
+{
+	border:1px dotted #000;
+	padding:0px;
+}
+.igtab_Windows7THCenterAct
+{
+}
+.igtab_Windows7THTailAct
+{
+}
+.igtab_Windows7THTabAct
+{
+}
+.igtab_Windows7THTextDis
+{
+	color:#AAAAAA;
+}
+.igtab_Windows7THCenterDis
+{
+	background-position: 0px -150px;
+	background-color:#CCCCCC;
+}
+.igtab_Windows7THTailDis
+{
+	background-image:url(./images/igtab_THRightDis.gif);
+}
+.igtab_Windows7THTabDis
+{
+	background-position: 0px -150px;
+}
+.igtab_Windows7THTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7THTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+
+.igtab_Windows7THRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7THRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7THRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7THRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}
+
+
+
+
+
+
+
+
+
+.igtab_Windows7TVControl
+{
+	overflow:hidden;
+}
+.igtab_Windows7TVContentHolder
+{
+	border:1px solid #999999;
+	border-top-width:0px;
+	height:50%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Windows7TVContent
+{
+	height:100%;
+	position:relative;
+	background: #EFEFEF url(./images/igtab_THContentBackground.jpg) repeat-x;
+}
+.igtab_Windows7TVHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Windows7TVHolder
+{
+	background:url(./images/igtab_HolderBorder.gif) repeat-x bottom left;
+	position:relative;
+	display:block;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Windows7TVRoundedForHolder
+{
+	background:none;
+	margin-left:5px;
+}
+.igtab_Windows7TVHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Windows7TVHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Windows7TVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	top:100%;
+	display:block;
+	margin-left:-45px;
+	margin-top:-33px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Windows7TVRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Windows7TVImage
+{
+	margin-left:10%;
+	display:block;
+}
+.igtab_Windows7TVClose
+{
+	position:absolute;
+	left:100%;
+	top:100%;
+	margin-left:-24px;
+	margin-top:-14px;
+	cursor: pointer;
+}
+.igtab_Windows7TVScrollButton
+{
+	padding:1px;
+}
+.igtab_Windows7TVText
+{
+	margin-top:5px;
+	margin-bottom:6px;
+	font:12px sans-serif;
+	white-space:nowrap;
+	border:0px;
+	line-height:11px;
+	display:block;
+	text-align:center;
+	overflow:hidden;
+	margin-left:5px;
+	width:24px;
+}
+.igtab_Windows7TVCenter
+{
+	padding-top:5px;
+	display:block;
+	position:relative;
+	overflow:hidden;
+}
+.igtab_Windows7TVCloseSize
+{
+	padding-bottom:14px;
+}
+.igtab_Windows7TVMirrorCenter
+{
+	background:url(./images/igtab_TVRight.gif) top right repeat-y;
+	display:block;
+	margin-top:12px;
+	width:100%;
+	height:100%;
+}
+.igtab_Windows7TVMirror
+{
+	background:url(./images/igtab_TVRightTop.gif) top right no-repeat;
+	display:block;
+	position:absolute;
+	margin-left:8px;
+	width:26px;
+	height:100%;
+}
+.igtab_Windows7TVTail
+{
+	background:url(./images/igtab_TVLeft.jpg) repeat-y;*/
+	padding:0px;
+	display:block;
+	position:absolute;
+	width:12px;
+	margin-top:12px;
+	height:100%;
+}
+.igtab_Windows7TVTab
+{
+	display:inline;
+	position:relative;
+	padding:0px;
+	float:left;
+	background:url(./images/igtab_TVLeftTop.gif) no-repeat;
+	margin:0px;
+	overflow:hidden;
+	width:34px;
+	border-bottom:1px solid #999999;
+}
+.igtab_Windows7TVOverlap
+{
+	margin-left:-7px;
+}
+.igtab_Windows7TVRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Windows7TVTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Windows7TVCenterHov
+{
+}
+.igtab_Windows7TVMirrorCenterHov
+{
+	background-image:url(./images/igtab_TVRightHov.gif);
+}
+.igtab_Windows7TVMirrorHov
+{
+	background-image:url(./images/igtab_TVRightTopHov.gif);
+}
+.igtab_Windows7TVTailHov
+{
+	background-position: -50px 0px;
+}
+.igtab_Windows7TVTabHov
+{
+	background-position: 0px -19px;
+}
+.igtab_Windows7TVTextSel
+{
+}
+.igtab_Windows7TVCenterSel
+{
+}
+.igtab_Windows7TVMirrorCenterSel
+{
+	background-image:url(./images/igtab_TVRightSel.gif);
+	background-color:#FFFFFF;
+}
+.igtab_Windows7TVMirrorSel
+{
+	background-image:url(./images/igtab_TVRightTopSel.gif);
+}
+.igtab_Windows7TVTailSel
+{
+	background-position: -100px 0px;
+}
+.igtab_Windows7TVTabSel
+{
+	background-position: 0px -38px;
+}
+.igtab_Windows7TVTextAct
+{
+	margin-left:4px;
+	border:1px dotted #000;
+}
+.igtab_Windows7TVCenterAct
+{
+}
+.igtab_Windows7TVMirrorCenterAct
+{
+}
+.igtab_Windows7TVMirrorAct
+{
+}
+.igtab_Windows7TVTailAct
+{
+}
+.igtab_Windows7TVTabAct
+{
+}
+.igtab_Windows7TVTextDis
+{
+	color:#AAAAAA;
+}
+.igtab_Windows7TVCenterDis
+{
+}
+.igtab_Windows7TVMirrorCenterDis
+{
+	background-image:url(./images/igtab_TVRightDis.gif);
+}
+.igtab_Windows7TVMirrorDis
+{
+	background-image:url(./images/igtab_TVRightTopDis.gif);
+}
+.igtab_Windows7TVTailDis
+{
+	background-position: -150px 0px;
+}
+.igtab_Windows7TVTabDis
+{
+	background-position: 0px -57px;
+}
+.igtab_Windows7TVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7TVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7TVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7TVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7TVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7TVRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.igtab_Windows7BHControl
+{
+	overflow:hidden;
+}
+.igtab_Windows7BHContentHolder
+{
+	border:1px solid #999999;
+	border-bottom-width: 0px;
+	height:60%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Windows7BHContent
+{
+	height:100%;
+	background: #EFEFEF url(./images/igtab_THContentBackground.jpg) repeat-x;
+	position:relative;
+}
+.igtab_Windows7BHHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Windows7BHHolder
+{
+	background:url(./images/igtab_HolderBorder.gif) repeat-x;
+	position:relative;
+	display:block;
+	height:23px;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Windows7BHRoundedForHolder
+{
+	background:none;
+	margin-left:5px;
+	height:22px;
+}
+.igtab_Windows7BHHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Windows7BHHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Windows7BHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Windows7BHRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Windows7BHImage
+{
+	vertical-align:middle;
+}
+.igtab_Windows7BHClose
+{
+	position:absolute;
+	left:100%;
+	margin-left:-20px;
+	margin-top:5px;
+	top:0px;
+	cursor: pointer;
+}
+.igtab_Windows7BHScrollButton
+{
+	padding:1px;
+}
+.igtab_Windows7BHText
+{
+	vertical-align:middle;
+	padding:0px 1px 0px 1px;
+	font-size:11px;
+	white-space:nowrap;
+	border:0px;
+	line-height:22px;
+	cursor:default;
+}
+.igtab_Windows7BHCenter
+{
+	padding:0px 1px 0px 1px;
+	display:block;
+	position:relative;
+	/* do not use position-y:bottom, because of IE7 bugs: if tab has IMG, then background is shifted by 1-3 pixels down. */
+	background:url(./images/igtab_BHCenter.gif) top left repeat-x;
+	white-space:nowrap;
+	text-align:center;
+	font:22px sans-serif;
+	line-height:22px;
+	overflow:hidden;
+}
+.igtab_Windows7BHCloseSize
+{
+	padding-right:20px;
+}
+.igtab_Windows7BHTail
+{
+	background:url(./images/igtab_BHRight.gif) top right no-repeat;
+	padding-left:0px;
+	padding-right:7px;
+	display:block;
+	height:100%;
+}
+.igtab_Windows7BHTab
+{
+	display:inline;
+	position:relative;
+	padding-left:7px;
+	float:left;
+	background:transparent url(./images/igtab_BHLeft.gif) top left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+	border-top:1px solid #999999;
+	height:22px;
+}
+.igtab_Windows7BHOverlap
+{
+	margin-left:-5px;
+}
+.igtab_Windows7BHRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Windows7BHTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Windows7BHCenterHov
+{
+	background-position: 0px -27px;
+}
+.igtab_Windows7BHTailHov
+{
+	background-image:url(./images/igtab_BHRightHov.gif);
+}
+.igtab_Windows7BHTabHov
+{
+	background-position: 0px -27px;
+}
+.igtab_Windows7BHTextSel
+{
+}
+.igtab_Windows7BHCenterSel
+{
+	background-position: 0px -54px;
+}
+.igtab_Windows7BHTailSel
+{
+	background-image:url(./images/igtab_BHRightSel.gif);
+}
+.igtab_Windows7BHTabSel
+{
+	background-position: 0px -54px;
+}
+.igtab_Windows7BHTextAct
+{
+	border:1px dotted #000;
+	padding:0px;
+}
+.igtab_Windows7BHCenterAct
+{
+}
+.igtab_Windows7BHTailAct
+{
+}
+.igtab_Windows7BHTabAct
+{
+}
+.igtab_Windows7BHTextDis
+{
+	color:#AAAAAA;
+}
+.igtab_Windows7BHCenterDis
+{
+	background-position: 0px -81px;
+}
+.igtab_Windows7BHTailDis
+{
+	background-image:url(./images/igtab_BHRightDis.gif);
+}
+.igtab_Windows7BHTabDis
+{
+	background-position: 0px -81px;
+}
+.igtab_Windows7BHTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7BHTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7BHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7BHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7BHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7BHRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundFill.gif);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.igtab_Windows7BVControl
+{
+	overflow:hidden;
+}
+.igtab_Windows7BVContentHolder
+{
+	border:1px solid #999999;
+	border-bottom-width: 0px;
+	height:50%;
+	overflow:hidden;
+	position:relative;
+	background:#FFFFFF;
+}
+.igtab_Windows7BVContent
+{
+	height:100%;
+	position:relative;
+	background: #EFEFEF url(./images/igtab_THContentBackground.jpg) repeat-x;
+}
+.igtab_Windows7BVHolderNoScroll
+{
+	display:block;
+	position:relative;
+	width:100%;
+}
+.igtab_Windows7BVHolder
+{
+	background:url(./images/igtab_HolderBorder.gif) repeat-x top left;
+	position:relative;
+	display:block;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.igtab_Windows7BVRoundedForHolder
+{
+	background:none;
+	margin-left:5px;
+}
+.igtab_Windows7BVHolderScroll
+{
+	position:relative;
+	width:100%;
+	margin-left:-45px;
+	display:block;
+	overflow:hidden;
+}
+.igtab_Windows7BVHolderScrollInner
+{
+	position:relative;
+	display:block;
+	width:9999px;
+	left:45px;
+}
+.igtab_Windows7BVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	left:100%;
+	display:block;
+	margin-left:-45px;
+	margin-top:3px;
+	width:45px;
+	z-index:20000;
+	text-align:right;
+	padding-top:2px;
+}
+.igtab_Windows7BVRoundedForScroll
+{
+	margin-left:-66px;
+}
+.igtab_Windows7BVImage
+{
+	margin-left:10%;
+	display:block;
+}
+.igtab_Windows7BVClose
+{
+	position:absolute;
+	left:100%;
+	top:100%;
+	margin-left:-24px;
+	margin-top:-18px;
+	cursor: pointer;
+}
+.igtab_Windows7BVScrollButton
+{
+	padding:1px;
+}
+.igtab_Windows7BVText
+{
+	margin-top:3px;
+	margin-bottom:5px;
+	font:12px sans-serif;
+	white-space:nowrap;
+	border:0px;
+	line-height:11px;
+	display:block;
+	text-align:center;
+	overflow:hidden;
+	margin-left:5px;
+	width:24px;
+}
+.igtab_Windows7BVCenter
+{
+	padding-bottom:5px;
+	display:block;
+	position:relative;
+	overflow:hidden;
+}
+.igtab_Windows7BVCloseSize
+{
+	padding-bottom:17px;
+}
+.igtab_Windows7BVMirrorCenter
+{
+	background:url(./images/igtab_BVRight.gif) top right repeat-y;
+	display:block;
+	margin-top:-12px;
+	width:100%;
+	height:100%;
+}
+.igtab_Windows7BVMirror
+{
+	background:url(./images/igtab_BVRightBot.gif) bottom right no-repeat;
+	display:block;
+	position:absolute;
+	margin-left:8px;
+	width:26px;
+	height:100%;
+}
+.igtab_Windows7BVTail
+{
+	background:url(./images/igtab_BVLeft.jpg) repeat-y;
+	padding:0px;
+	display:block;
+	position:absolute;
+	width:12px;
+	margin-top:-12px;
+	height:100%;
+}
+.igtab_Windows7BVTab
+{
+	display:inline;
+	position:relative;
+	padding:0px;
+	float:left;
+	background:url(./images/igtab_BVLeftBot.gif) bottom left no-repeat;
+	margin:0px;
+	overflow:hidden;
+	width:34px;
+	border-top:1px solid #999999;
+}
+.igtab_Windows7BVOverlap
+{
+	margin-left:-7px;
+}
+.igtab_Windows7BVRoundedLastTab
+{
+	margin-right:10px;
+}
+.igtab_Windows7BVTextHov
+{
+	color: #FFFFFF;
+}
+.igtab_Windows7BVCenterHov
+{
+}
+.igtab_Windows7BVMirrorCenterHov
+{
+	background-image:url(./images/igtab_BVRightHov.gif);
+}
+.igtab_Windows7BVMirrorHov
+{
+	background-image:url(./images/igtab_BVRightBotHov.gif);
+}
+.igtab_Windows7BVTailHov
+{
+	background-position: -50px 0px;
+}
+.igtab_Windows7BVTabHov
+{
+	background-image:url(./images/igtab_BVLeftBotHov.gif);
+}
+.igtab_Windows7BVTextSel
+{
+}
+.igtab_Windows7BVCenterSel
+{
+}
+.igtab_Windows7BVMirrorCenterSel
+{
+	background-image:url(./images/igtab_BVRightSel.gif);
+}
+.igtab_Windows7BVMirrorSel
+{
+	background-image:url(./images/igtab_BVRightBotSel.gif);
+}
+.igtab_Windows7BVTailSel
+{
+	background-position: -100px 0px;
+}
+.igtab_Windows7BVTabSel
+{
+	background-image:url(./images/igtab_BVLeftBotSel.gif);
+}
+.igtab_Windows7BVTextAct
+{
+	margin: 2px 0px 0px 4px;
+	border:1px dotted #000;
+}
+.igtab_Windows7BVCenterAct
+{
+}
+.igtab_Windows7BVMirrorCenterAct
+{
+}
+.igtab_Windows7BVMirrorAct
+{
+}
+.igtab_Windows7BVTailAct
+{
+}
+.igtab_Windows7BVTabAct
+{
+}
+.igtab_Windows7BVTextDis
+{
+	color:#AAAAAA;
+}
+.igtab_Windows7BVCenterDis
+{
+}
+.igtab_Windows7BVMirrorCenterDis
+{
+	background-image:url(./images/igtab_BVRightDis.gif);
+}
+.igtab_Windows7BVMirrorDis
+{
+	background-image:url(./images/igtab_BVRightBotDis.gif);
+}
+.igtab_Windows7BVTailDis
+{
+	background-position: -150px 0px;
+}
+.igtab_Windows7BVTabDis
+{
+	background-image:url(./images/igtab_BVLeftBotDis.gif);
+}
+.igtab_Windows7BVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7BVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7BVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7BVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7BVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7BVRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_BRoundFill.gif);
+}
+
+
+
+
+
+
+
+
+.igtab_Windows7LVControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7LVContentHolder
+{
+	background:#FFFFFF;
+	border:1px solid #999999;
+	height:99%;
+	margin-left:24px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Windows7LVContent
+{
+	height:100%;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.igtab_Windows7LVHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:0px;
+	top:0px;
+	height:100%;
+	width:25px;
+}
+.igtab_Windows7LVHolderScroll
+{	
+	top:-47px;
+}
+.igtab_Windows7LVHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Windows7LVRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Windows7LVRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Windows7LVRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Windows7LVRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Windows7LVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	margin-left:5px;	
+	z-index:20000; 
+	left:0px;
+}
+.igtab_Windows7LVRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Windows7LVScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Windows7LVClose
+{
+	position:absolute;
+	cursor:pointer;
+	margin-top:-15px;
+	margin-left:6px;
+}
+.igtab_Windows7LVCloseSize 
+{
+	padding-bottom:14px;
+}
+.igtab_Windows7LVImage
+{
+	vertical-align:middle;
+	position:relative;
+	display:block;
+}
+.igtab_Windows7LVText
+{
+	vertical-align:middle;
+	line-height:14px;
+	font-family:Verdana;
+	font-size:11px;
+	display:block;
+	padding-left:6px;
+	position:relative;
+	
+	cursor:default;
+}
+.igtab_Windows7LVCenter
+{
+	display:block;
+	position:relative;
+	overflow:hidden;	
+	background:url(./images/igtab_LVCenter.gif) repeat-y;
+	background-color:#f0f0f0;
+	padding-left:3px;
+}
+.igtab_Windows7LVTail
+{
+	display:block;
+	background:url(./images/igtab_LVBot.gif) bottom left;
+	padding-top:3px;
+}
+.igtab_Windows7LVTab
+{
+	background:url(./images/igtab_LVTop.gif) no-repeat top left;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	padding-top:3px;
+	border-right:1px solid #999999;
+}
+.igtab_Windows7LVOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Windows7LVTextHov
+{
+}
+.igtab_Windows7LVCenterHov
+{
+	background-image:url(./images/igtab_LVCenterHov.gif);
+	background-color:#ff9e33;
+}
+.igtab_Windows7LVTailHov
+{
+	background-image:url(./images/igtab_LVBotHov.gif);
+}
+.igtab_Windows7LVTabHov
+{
+	background-image:url(./images/igtab_LVTopHov.gif);
+	color:#ffffff;
+}
+.igtab_Windows7LVTextSel
+{
+}
+.igtab_Windows7LVCenterSel
+{
+	background-image:url(./images/igtab_LVCenterSel.gif);
+	background-color:#8fc6ea;
+}
+.igtab_Windows7LVTailSel
+{
+	background-image:url(./images/igtab_LVBotSel.gif);
+	border-right-color:#999999;
+}
+.igtab_Windows7LVTabSel
+{
+	background-image:url(./images/igtab_LVTopSel.gif);
+	border-right-color:#94c8eb;
+}
+.igtab_Windows7LVTextAct
+{	
+	border:1px dotted #000;
+}
+.igtab_Windows7LVCenterAct
+{
+}
+.igtab_Windows7LVTailAct
+{
+}
+.igtab_Windows7LVTabAct
+{
+}
+.igtab_Windows7LVTextDis
+{
+    color:#AAAAAA;
+}
+.igtab_Windows7LVCenterDis
+{
+	background-image:url(./images/igtab_LVCenterDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Windows7LVTailDis
+{
+	background-image:url(./images/igtab_LVBotDis.gif);
+}
+.igtab_Windows7LVTabDis
+{
+	background-image:url(./images/igtab_LVTopDis.gif);
+}
+.igtab_Windows7LVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7LVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7LVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7LVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7LVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7LVRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}
+
+
+
+.igtab_Windows7RVControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7RVContentHolder
+{
+	background:#FFFFFF;
+	border-right:1px solid #999999;
+	border-bottom:1px solid #999999;
+	border-top:1px solid #999999;
+	height:99%;
+	margin-left:-24px;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	z-index:9;
+}
+.igtab_Windows7RVContentHolderInner
+{
+	border-left:1px solid #999999;
+	height:100%;
+	margin-left:24px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Windows7RVContent
+{
+	height:100%;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.igtab_Windows7RVHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:100%;
+	top:0px;
+	height:100%;
+	width:24px;
+	margin-left:-24px;
+}
+.igtab_Windows7RVHolderScroll
+{
+	top:-47px;
+}
+.igtab_Windows7RVHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Windows7RVRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Windows7RVRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Windows7RVRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Windows7RVRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Windows7RVScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;	
+	z-index:20000;
+	left:100%;
+	margin-top:-47px;
+	margin-left:-22px;
+}
+.igtab_Windows7RVRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Windows7RVScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Windows7RVClose
+{
+	position:absolute;
+	margin-top:-15px;
+	margin-left:4px;
+	cursor:pointer;
+}
+.igtab_Windows7RVCloseSize
+{
+	padding-bottom:14px;
+}
+.igtab_Windows7RVImage
+{
+	vertical-align:middle;
+	position:relative;
+	display:block;
+}
+.igtab_Windows7RVText
+{
+	vertical-align:middle;
+	line-height:14px;
+	font-family:Verdana;
+	font-size:11px;
+	display:block;
+	padding-left:5px;
+	width:13px;
+	position:relative;
+	
+	cursor:default;
+}
+.igtab_Windows7RVCenter
+{
+	display:block;
+	position:relative;
+	overflow:hidden;
+	background:url(./images/igtab_RVCenter.gif) repeat-y top right;
+	background-color:#f0f0f0;
+	padding-left:1px;
+}
+.igtab_Windows7RVTail
+{
+	display:block;
+	background:url(./images/igtab_RVBot.gif) bottom right;
+	padding-top:3px;
+}
+.igtab_Windows7RVTab
+{
+	background:url(./images/igtab_RVTop.gif) no-repeat top right;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	padding-top:3px;
+	border-left:1px solid #999999;
+}
+.igtab_Windows7RVOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Windows7RVTextHov
+{
+}
+.igtab_Windows7RVCenterHov
+{
+	background-image:url(./images/igtab_RVCenterHov.gif);
+	background-color:#ff9e33;
+}
+.igtab_Windows7RVTailHov
+{
+	background-image:url(./images/igtab_RVBotHov.gif);
+}
+.igtab_Windows7RVTabHov
+{
+	background-image:url(./images/igtab_RVTopHov.gif);
+	color:#ffffff;
+}
+.igtab_Windows7RVTextSel
+{
+}
+.igtab_Windows7RVCenterSel
+{
+	background-image:url(./images/igtab_RVCenterSel.gif);
+	background-color:#8fc6ea;
+}
+.igtab_Windows7RVTailSel
+{
+	background-image:url(./images/igtab_RVBotSel.gif);
+	border-left-color:#999999;
+}
+.igtab_Windows7RVTabSel
+{
+	background-image:url(./images/igtab_RVTopSel.gif);
+	border-left-color:#94c8eb;
+}
+.igtab_Windows7RVTextAct
+{
+	border:1px dotted #000;
+}
+.igtab_Windows7RVCenterAct
+{
+}
+.igtab_Windows7RVTailAct
+{
+}
+.igtab_Windows7RVTabAct
+{
+}
+.igtab_Windows7RVTextDis
+{
+    color:#AAAAAA;
+}
+.igtab_Windows7RVCenterDis
+{
+	background-image:url(./images/igtab_RVCenterDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Windows7RVTailDis
+{
+	background-image:url(./images/igtab_RVBotDis.gif);
+}
+.igtab_Windows7RVTabDis
+{
+	background-image:url(./images/igtab_RVTopDis.gif);
+}
+.igtab_Windows7RVTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7RVTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7RVRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7RVRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7RVRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7RVRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}
+
+
+
+
+
+
+
+.igtab_Windows7LHControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7LHContentHolder
+{
+	background:#FFFFFF;
+	border:1px solid #999999;
+	height:99%;
+	left:-1px;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Windows7LHContent
+{
+	height:100%;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.igtab_Windows7LHHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:0px;
+	top:0px;
+	height:100%;
+}
+.igtab_Windows7LHHolderScroll
+{
+	top:-47px;
+}
+.igtab_Windows7LHHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Windows7LHRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Windows7LHRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Windows7LHRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Windows7LHRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Windows7LHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	margin-left:-21px;
+	z-index:20000;
+}
+.igtab_Windows7LHRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Windows7LHScrollButton
+{
+	display:block;
+	margin-top:2px;
+}
+.igtab_Windows7LHClose
+{
+	position:absolute;
+	left:100%;
+	top:12px;
+	margin-left:-17px;
+	cursor:pointer;
+}
+.igtab_Windows7LHCloseSize
+{
+	padding-right:10px;
+}
+.igtab_Windows7LHImage
+{
+	vertical-align:middle;
+	position:relative;
+	margin-top:2px;
+}
+.igtab_Windows7LHText
+{
+	vertical-align:middle;	
+	line-height:24px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	position:relative;
+	cursor:default;
+}
+.igtab_Windows7LHCenter
+{
+	display:block;
+	background:url(./images/igtab_LHTop.gif) repeat-x;
+	background-color:#f0f0f0;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Windows7LHTail
+{
+	display:block;
+	background:url(./images/igtab_LHTopLeft.gif) no-repeat;
+	padding-left:10px;
+	white-space:nowrap;
+	border-right:1px solid #999999;
+	height:24px;
+}
+.igtab_Windows7LHMirror
+{
+	display:block;
+	padding-left:10px;
+	background:url(./images/igtab_LHBotLeft.gif) bottom left no-repeat;
+	border-right:1px solid #999999;
+	height:3px;
+}
+.igtab_Windows7LHMirrorCenter
+{
+	display:block;
+	background:url(./images/igtab_LHBot.gif) bottom left repeat-x;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Windows7LHTab
+{
+	display:block;
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7LHOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Windows7LHTextHov
+{
+}
+.igtab_Windows7LHCenterHov
+{
+	background-image:url(./images/igtab_LHTopHov.gif);
+	background-color:#ff9e33;
+}
+.igtab_Windows7LHTailHov
+{
+	background-image:url(./images/igtab_LHTopLeftHov.gif);
+}
+.igtab_Windows7LHMirrorHov
+{
+	background-image:url(./images/igtab_LHBotLeftHov.gif);
+}
+.igtab_Windows7LHMirrorCenterHov
+{
+	background-image:url(./images/igtab_LHBotHov.gif);
+}
+.igtab_Windows7LHTabHov
+{
+}
+.igtab_Windows7LHTextSel
+{
+}
+.igtab_Windows7LHCenterSel
+{
+	background-image:url(./images/igtab_LHTopSel.gif);
+	background-color:#8fc6ea;
+}
+.igtab_Windows7LHTailSel
+{
+	background-image:url(./images/igtab_LHTopLeftSel.gif);
+	border-right-color:#999999;
+}
+.igtab_Windows7LHMirrorSel
+{
+	background-image:url(./images/igtab_LHBotLeftSel.gif);
+	border-right-color:#999999;
+}
+.igtab_Windows7LHMirrorCenterSel
+{
+	background-image:url(./images/igtab_LHBotSel.gif);
+}
+.igtab_Windows7LHTabSel
+{
+}
+.igtab_Windows7LHTextAct
+{
+	border:1px dotted blue;
+}
+.igtab_Windows7LHCenterAct
+{
+}
+.igtab_Windows7LHTailAct
+{
+}
+.igtab_Windows7LHMirrorAct
+{
+}
+.igtab_Windows7LHMirrorCenterAct
+{
+}
+.igtab_Windows7LHTabAct
+{
+}
+.igtab_Windows7LHTextDis
+{
+    color:#AAAAAA;
+}
+.igtab_Windows7LHCenterDis
+{
+	background-image:url(./images/igtab_LHTopDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Windows7LHTailDis
+{
+	background-image:url(./images/igtab_LHTopLeftDis.gif);
+}
+.igtab_Windows7LHMirrorDis
+{
+	background-image:url(./images/igtab_LHBotLeftDis.gif);
+}
+.igtab_Windows7LHMirrorCenterDis
+{
+	background-image:url(./images/igtab_LHBotDis.gif);
+}
+.igtab_Windows7LHTabDis
+{
+}
+.igtab_Windows7LHTabMoving
+{
+	filter:alpha(opacity:30);
+	opacity:0.3;
+}
+.igtab_Windows7LHTabMovingMarkUp
+{
+	filter:alpha(opacity:70);
+	opacity:0.7;
+}
+.igtab_Windows7LHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7LHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7LHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7LHRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}
+
+
+
+
+
+
+
+.igtab_Windows7RHControl
+{
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7RHContentHolder
+{
+	background:#FFFFFF;
+	border-right:1px solid #999999;
+	border-bottom:1px solid #999999;
+	border-top:1px solid #999999;
+	height:99%;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	z-index:9;
+}
+.igtab_Windows7RHContentHolderInner
+{
+	border-left:1px solid #999999;
+	height:100%;
+	position:relative;
+	overflow:hidden;
+	z-index:9;
+}
+.igtab_Windows7RHContent
+{
+	height:100%;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.igtab_Windows7RHHolder
+{
+	overflow:hidden;
+	position:absolute;
+	z-index:999;
+	left:100%;
+	top:0px;
+	height:100%;
+}
+.igtab_Windows7RHHolderScroll
+{
+	top:-47px;
+}
+.igtab_Windows7RHHolderScrollInner
+{
+	top:47px;
+}
+.igtab_Windows7RHRoundedForHolder
+{
+	top:-6px;
+}
+.igtab_Windows7RHRoundedForHolderInner
+{
+	top:12px;
+}
+.igtab_Windows7RHRoundedForHolderScroll
+{
+	top:-53px;
+}
+.igtab_Windows7RHRoundedForHolderScrollInner
+{
+	top:59px;
+}
+.igtab_Windows7RHScrollButtons
+{
+	font-size:1px;
+	position:absolute;
+	top:100%;
+	margin-top:-47px;
+	z-index:20000;
+	left:100%;
+}
+.igtab_Windows7RHRoundedForScroll
+{
+	margin-top:-53px;
+}
+.igtab_Windows7RHScrollButton
+{
+	display:block;
+	margin-top:2px;
+	margin-left:3px;
+}
+.igtab_Windows7RHClose
+{
+	position:absolute;
+	top:12px;
+	margin-left:3px;
+	cursor:pointer;
+}
+.igtab_Windows7RHCloseSize
+{
+	padding-left:10px;
+}
+.igtab_Windows7RHImage
+{
+	vertical-align:middle;
+	position:relative;
+	margin-top:2px;
+}
+.igtab_Windows7RHText
+{
+	vertical-align:middle;
+	line-height:24px;
+	font-family:Verdana;
+	font-size:11px;
+	white-space:nowrap;
+	position:relative;
+	cursor:default;
+}
+.igtab_Windows7RHCenter
+{
+	display:block;
+	background:url(./images/igtab_RHTop.gif) repeat-x;
+	background-color:#f0f0f0;
+	line-height:20px;
+	font:22px sans-serif;
+	text-align:right;
+	white-space:nowrap;
+	overflow:hidden;
+}
+.igtab_Windows7RHTail
+{
+	display:block;
+	padding-right:10px;
+	background:url(./images/igtab_RHTopRight.gif) top right no-repeat;
+	white-space:nowrap;
+	border-left:1px solid #999999;
+	height:24px;
+}
+.igtab_Windows7RHMirror
+{
+	display:block;
+	padding-right:10px;
+	background:url(./images/igtab_RHBotRight.gif) bottom right no-repeat;
+	border-left:1px solid #999999;
+	height:3px;
+}
+.igtab_Windows7RHMirrorCenter
+{
+	display:block;
+	background:url(./images/igtab_RHBot.gif) bottom left repeat-x;
+	font:1px verdana;
+	line-height:1px;
+	height:100%;
+}
+.igtab_Windows7RHTab
+{
+	display:block;
+	overflow:hidden;
+	position:relative;
+}
+.igtab_Windows7RHOverlap
+{
+	margin-top:-5px;
+}
+.igtab_Windows7RHTextHov
+{
+}
+.igtab_Windows7RHCenterHov
+{
+	background-image:url(./images/igtab_RHTopHov.gif);
+	background-color:#ff9e33;
+}
+.igtab_Windows7RHTailHov
+{
+	background-image:url(./images/igtab_RHTopRightHov.gif);
+}
+.igtab_Windows7RHMirrorHov
+{
+	background-image:url(./images/igtab_RHBotRightHov.gif);
+}
+.igtab_Windows7RHMirrorCenterHov
+{
+	background-image:url(./images/igtab_RHBotHov.gif);
+}
+.igtab_Windows7RHTabHov
+{
+}
+.igtab_Windows7RHTextSel
+{
+}
+.igtab_Windows7RHCenterSel
+{
+	background-image:url(./images/igtab_RHTopSel.gif);
+	background-color:#8fc6ea;
+}
+.igtab_Windows7RHTailSel
+{
+	background-image:url(./images/igtab_RHTopRightSel.gif);
+	border-left-color:#999999;
+}
+.igtab_Windows7RHMirrorSel
+{
+	background-image:url(./images/igtab_RHBotRightSel.gif);
+	border-left-color:#999999;
+}
+.igtab_Windows7RHMirrorCenterSel
+{
+	background-image:url(./images/igtab_RHBotSel.gif);
+}
+.igtab_Windows7RHTabSel
+{
+}
+.igtab_Windows7RHTextAct
+{
+	border:1px dotted blue;
+}
+.igtab_Windows7RHCenterAct
+{
+}
+.igtab_Windows7RHTailAct
+{
+}
+.igtab_Windows7RHMirrorAct
+{
+}
+.igtab_Windows7RHMirrorCenterAct
+{
+}
+.igtab_Windows7RHTabAct
+{
+}
+.igtab_Windows7RHTextDis
+{
+    color:#AAAAAA;
+}
+.igtab_Windows7RHCenterDis
+{
+	background-image:url(./images/igtab_RHTopDis.gif);
+	background-color:#cccccc;
+}
+.igtab_Windows7RHTailDis
+{
+	background-image:url(./images/igtab_RHTopRightDis.gif);
+}
+.igtab_Windows7RHMirrorDis
+{
+	background-image:url(./images/igtab_RHBotRightDis.gif);
+}
+.igtab_Windows7RHMirrorCenterDis
+{
+	background-image:url(./images/igtab_RHBotDis.gif);
+}
+.igtab_Windows7RHTabDis
+{
+}
+.igtab_Windows7RHRoundedCorners
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundCorners.gif);
+	background-repeat:no-repeat;
+}
+.igtab_Windows7RHRoundedTopBottom
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundTopBot.gif);
+	background-repeat:repeat-x;
+}
+.igtab_Windows7RHRoundedLeftRight
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundLeftRight.gif);
+	background-repeat:repeat-y;
+}
+.igtab_Windows7RHRoundedFill
+{
+	position:absolute;
+	display:block;
+	background-image:url(./images/igtab_TRoundFill.gif);
+}

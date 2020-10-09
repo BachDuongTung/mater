@@ -1,0 +1,97 @@
+.igmn_Windows7Control
+{
+	background-color:#F1F5FB;
+	font-size:xx-small;
+	font-family: Verdana;
+	border:solid 1px #AABFD6;
+	color:#4C607A;
+}
+
+
+.igmn_Windows7Island
+{
+	background-color:#FAFAFA;
+	background-repeat:repeat-y;
+	background-position:left ;
+	background-image: url(images/buttonbg.png);
+	font-size:xx-small;
+	font-family: Verdana;
+	border:solid 1px #A5B3C5;
+	color:Black;
+}
+
+
+.igmn_Windows7Item
+{
+	background-color:Transparent;
+	background-image:none;
+	border:solid 1px Transparent;
+	padding-top:5px;
+	padding-bottom:5px;
+	cursor:pointer;
+}
+
+
+.igmn_Windows7Leaf
+{
+}
+
+
+.igmn_Windows7Parent
+{
+}
+
+
+.igmn_Windows7TopLevelLeaf
+{
+}
+
+
+.igmn_Windows7TopLevelParent
+{
+}
+
+
+.igmn_Windows7Header
+{
+}
+
+
+.igmn_Windows7Separator
+{
+}
+
+
+.igmn_Windows7Hover
+{
+	background-color:#ECF0F6;
+	background-repeat:repeat-x;
+	background-image: url(images/igwm_itemhover.png);
+	border-color:#A8D8EB;
+	color:#4C607A;
+}
+
+
+.igmn_Windows7TopLevelHover
+{
+	background-color:#CFDBEC;
+	background-repeat:repeat-x;
+	background-image: url(images/igwm_itemhover.png);
+	border-color:#BBCADB;
+	color:#4C607A;
+}
+
+
+.igmn_Windows7TopSelected
+{
+}
+
+
+.igmn_Windows7Disabled
+{
+	font-size:xx-small;
+	font-family: Verdana;
+	color:#C8CCD5;
+}
+
+

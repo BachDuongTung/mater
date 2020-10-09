@@ -1,0 +1,259 @@
+.igdt_Windows7Control
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	color:Black;
+}
+
+
+.igdt_Windows7ControlActive
+{
+}
+
+
+.igdt_Windows7ControlDisabled
+{
+}
+
+
+.igdt_Windows7DataLoadingContainer
+{
+}
+
+
+.igdt_Windows7DataLoadingMessage
+{
+}
+
+
+/* //////////////////// GROUP STYLES //////////////////// */
+.igdt_Windows7NodeGroup
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igdt_Windows7NodeHolder
+{
+	white-space: nowrap;
+	display: block;
+	float: left;
+	float: none!;
+	width: 99%;
+}
+
+
+.igdt_Windows7NodeImage
+{
+	margin-top:2px;
+	margin-right:5px;
+	float: left;
+	vertical-align:middle;
+}
+
+
+.igdt_Windows7Node
+{
+	line-height: 20px;
+	display: block;
+	cursor:pointer;
+	color:Black;
+	text-decoration:none;
+}
+
+
+.igdt_Windows7NodeRoot
+{
+	font-weight:bold;
+	color:Black;
+	vertical-align:middle;
+}
+
+
+.igdt_Windows7NodeParent
+{
+}
+
+
+.igdt_Windows7NodeSelected
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_bgdt_selected.gif');
+	border-top:solid 1px #84ACDD;
+	border-bottom:solid 1px #84ACDD;
+	display: block;
+}
+
+
+.igdt_Windows7NodeActive
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_bgdt_selected.gif');
+	border-top:solid 1px #84ACDD;
+	border-bottom:solid 1px #84ACDD;
+	display: block;
+	line-height: 18px;
+}
+
+
+.igdt_Windows7NodeHover
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_bgdt_selected.gif');
+	border-top:solid 1px #84ACDD;
+	border-bottom:solid 1px #84ACDD;
+	display: block;
+}
+
+
+.igdt_Windows7NodeDisabled
+{
+	color:Gray;
+}
+
+
+.igdt_Windows7InternalNodeEditor
+{
+	border:solid 1px #CCCCCC;
+	padding-left:2px;
+}
+
+
+/*Applied on the cloned node that is being dragged*/
+.igdt_Windows7DragMarkup
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_dragmarkupbg.gif');
+	font-size:xx-small;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	border-top:solid 1px #84ACDD;
+	border-bottom:solid 1px #84ACDD;
+	padding:0px;
+	display: block;
+	width: 150px;
+	height: 20px;
+	cursor:move;
+}
+
+
+/* //////////////////// GROUP STYLES //////////////////// */
+/****************************************************/
+/* Added for WebDataTree Drag And Drop funtionality */
+/****************************************************/
+/*CSS class that will define the style applied before or after some node. 
+If the space between the nodes is accepted as potential drop target this class will define 
+some separator/dashed line that will show where the new node will be placed*/
+/*The DropIndicator purpose is to guide the user where the node will be inserted 
+when they drop it*/
+.igdt_Windows7DropIndicator
+{
+	background:#E4E5F0 url(./images/igdt_dropindicatorbg.jpg); Repeat-X Scroll notset notset ;
+	font-size:12px;
+	font-family: Segoe UI,Arial,Verdana,Helvetica,sans-serif;
+	border:solid 1px #767676;
+	padding:1px 8px 3px 4px;
+	height: 20px;
+	cursor:default;
+	color:#000066;
+}
+
+
+/*CSS class that will be applied just before the Dropping event is fired on a node if it is a possible drop target. 
+For example when you drag over concrete node its color will change to alert the user he will drop inside the highlighted node.*/
+.igdt_Windows7DropTarget
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_bgdt_selected.gif');
+	border-top:solid 1px #CEDEF1;
+	border-bottom:solid 1px #CEDEF1;
+	line-height: 18px;
+}
+
+
+/* Applied to the line shown, when inserting between two nodes.*/
+.igdt_Windows7DropInsertLine
+{
+	border:dotted 2px #84ACDD;
+}
+
+
+.igdt_Windows7NodeGroupDragDrop
+{
+	margin-left:0px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igdt_Windows7NodeHolderDragDrop
+{
+	white-space: nowrap;
+}
+
+
+.igdt_Windows7DragMarkup *
+{
+	border-style:none;
+	border-color:};
+	margin:0px;
+	padding:0px;
+	.igdt_Windows7DragMarkup: middle;
+	height: 20px;
+}
+
+
+.igdt_Windows7DropIndicator span
+{
+	position: relative;
+	top: -1px;
+}
+
+
+.igdt_Windows7DropIndicator img
+{
+	margin-right:5px;
+	position: relative;
+	top: 3px;
+	width: 16px;
+	height: 16px;
+}
+
+
+.igdt_Windows7NodeHolder img
+{
+	padding:0px;
+	white-space: nowrap;
+	float: left;
+}
+
+
+.igdt_Windows7NodeHolderDragDrop img
+{
+	padding:0px;
+	float: left;
+	white-space: nowrap;
+	vertical-align:middle;
+}
+
+
+.igdt_Windows7NodeHolderHover
+{
+}
+
+

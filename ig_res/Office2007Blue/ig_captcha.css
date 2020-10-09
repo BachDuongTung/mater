@@ -1,0 +1,110 @@
+﻿.igc_Office2007BlueControl
+{
+	border:solid 1px #ABC1DE;
+	background-color:#EAF2FB;
+	padding:10px;
+	margin:0px;
+	font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+}
+
+.igc_Office2007BlueControlActive
+{
+	
+}
+
+.igc_Office2007BlueCaptchaInput
+{
+    border:1px solid #ABC1DE;
+    display:block;
+    padding:5px 0;
+    
+    margin-bottom:10px;
+    /*IE6 and IE7 specific hack*/
+    *margin-bottom:0;
+    
+}
+
+.igc_Office2007BlueRefreshAndAudioButtonsArea
+{
+    margin-left:10px;
+	border-width:0;
+	text-decoration:none;
+    display:block;
+}
+
+    .igc_Office2007BlueRefreshAndAudioButtonsArea img
+    {
+	    border-width:0px;
+	    text-decoration:none;
+	    margin-bottom:3px;
+    }
+
+.igc_Office2007BlueSubmitButton {
+    background:#FFE395 url(./images/igc_submitButtonBg.png) repeat-x left top;
+    border:1px solid #C0A877;
+    clear:left;
+    display:block;
+    height:30px;
+    width:177px;
+    cursor:pointer;
+    color:#567DB1;
+    margin-top:10px;
+    font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+    font-weight:bold;
+    padding:0px;
+}
+
+.igc_Office2007BlueErrorLabel
+{
+    background-color:#FF6666;
+    color:white;
+    padding:3px;
+}
+
+.igc_Office2007BlueCaptchaImageLabel
+{
+	border:1px solid #ABC1DE;
+}
+
+.igc_Office2007BlueCaptchaInputLabel{
+}
+
+.igc_Office2007BlueCaptchaInfoTextLabel
+{
+    display:block;
+    margin:10px 0 5px 0;
+}
+
+.igc_Office2007BlueCaptchaImage
+{
+    display:block;
+    margin-bottom:10px;
+}
+
+.igc_Office2007BlueCaptchaImageArea
+{
+    display:block;
+    float:left;
+    padding:0;
+    margin:0;
+}
+    .igc_Office2007BlueCaptchaImageArea label 
+    {
+        display:block
+    }
+	    
+.igc_Office2007BlueRefreshAndAudioButtonsArea 
+{
+    float:left;
+}
+    .igc_Office2007BlueRefreshAndAudioButtonsArea a 
+    {
+        display:block
+    }
+    .igc_Office2007BlueRefreshAndAudioButtonsArea a,
+    .igc_Office2007BlueRefreshAndAudioButtonsArea img 
+    {
+        cursor:pointer
+    }

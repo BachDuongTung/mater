@@ -1,0 +1,687 @@
+.igg_Office2007SilverControl
+{
+	background-repeat:repeat-x;
+	font-size:11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px #ACAFB7;
+}
+
+
+.igg_Office2007SilverHeader
+{
+	background-color:#DFDFDF;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_header.gif);
+	border-right:solid 0px #909192;
+	height: 25px;
+	color:#27415C;
+}
+
+
+.igg_Office2007SilverHeaderCaption
+{
+	border-right:solid 1px #909192;
+	border-bottom:solid 1px #909192;
+	padding-left:8px;
+	overflow: hidden;
+	height: 25px;
+	text-align:left;
+}
+
+
+.igg_Office2007SilverFooter
+{
+	background-image: url(images/igg_footer.gif);
+	border-top:solid 1px #15428B;
+	height: 22px;
+}
+
+
+.igg_Office2007SilverFooterCaption
+{
+	font-weight:normal;
+	font-size:10px;
+	padding-left:8px;
+	overflow: hidden;
+	text-align:left;
+}
+
+
+tbody.igg_Office2007SilverItem>tr>td
+{
+	background-color:White;
+	border-right:solid 1px #D0D7E5;
+	border-bottom:solid 1px #D0D7E5;
+	padding:5px 8px 5px 8px;
+	height: 23px;
+	overflow: hidden;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Office2007SilverScrollbarIntersection
+{
+}
+
+
+.igg_Office2007SilverRowSelector
+{
+	background-color:#EDEDED;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 1px #B6B6B6;
+	width: 35px;
+	color:#27415C;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+.igg_Office2007SilverPager
+{
+	background-color:#C7C9CE;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_pagerbg.gif);
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:right;
+}
+
+
+.igg_Office2007SilverPageLink
+{
+	margin-right:10px;
+	cursor:pointer;
+	color:#4C535C;
+}
+
+
+.igg_Office2007SilverFilterRuleDropDown
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_summarydropdownbg.png);
+	font-size:xx-small;
+	font-family: verdana;
+	border:solid 1px #83AFDF;
+	width: 150px;
+	overflow: auto;
+	max-height: 150px;
+	height: auto !important;
+	height: 150px;
+	box-shadow: 0 4px 8px 0 #5A5A5A;
+	filter: progid : DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#5A5A5A');
+}
+
+
+.igg_Office2007SilverFilterButton
+{
+	background-color:Transparent;
+	border-style:solid;
+	border-width:0px;
+	height: 18px;
+}
+
+
+.igg_Office2007SilverResizeIndicator
+{
+	background-color:#909192;
+	width: 2px;
+}
+
+
+.igg_Office2007SilverFixedColumnSeparatorCssClass
+{
+	background-color:#909192;
+	width: 3px;
+}
+
+
+.igg_Office2007SilverFixedColumnPinButtonCssClass
+{
+	padding-top:0px;
+	padding-right:3px;
+	cursor:pointer;
+	vertical-align:middle;
+}
+
+
+.igg_Office2007SilverVirtualScrollTooltip
+{
+	background-image: url(images/igg_footer.gif);
+	font-size:10px;
+	border:solid 1px #ACAFB7;
+	padding:3px;
+	color:Black;
+	text-align:center;
+}
+
+
+.igg_Office2007SilverTopDragIndicator
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igg_topdragindicator.png);
+	margin-top:2px;
+	width: 11px;
+	height: 6px;
+	z-index: 100;
+}
+
+
+.igg_Office2007SilverMiddleDragIndicator
+{
+	background-repeat:repeat-y;
+	background-position:center;
+	background-image: url(images/igg_middledragindicator.png);
+	width: 11px;
+}
+
+
+.igg_Office2007SilverBottomDragIndicator
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igg_bottomdragindicator.png);
+	margin-top:-2px;
+	width: 11px;
+	height: 6px;
+	position: absolute;
+	z-index: 100;
+}
+
+
+.igg_Office2007SilverDragMarkup
+{
+}
+
+
+.igg_Office2007SilverSummary
+{
+	font-weight:bold;
+	font-size:9px;
+	border-bottom:solid 1px #CBCBCB;
+	overflow: hidden;
+	line-height: 20px;
+	color:#444444;
+	text-align:right;
+}
+
+
+.igg_Office2007SilverSummaryButton
+{
+	background-color: none;
+	border-style:none;
+	border-color: medium;
+	margin:0px;
+	padding:0px;
+	cursor:pointer;
+}
+
+
+/** Removed Property (Olga Kerchentseva mail 5/25/2010 )**/
+/*
+.igg_Office2007SilverFooterSummariesCaption
+{
+    color:#000;
+    background:#88C2E8 url(images/igg_FooterSummariesBG.png) repeat-x scroll;
+} */
+.igg_Office2007SilverSummaryDropDown
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_summarydropdownbg.png);
+	font-size:11px;
+	font-family: verdana;
+	border:solid 1px #FFE395;
+	padding:12px;
+	width: 146px;
+	_overflow: hidden!important;
+	box-shadow: 0 4px 8px 0 #5A5A5A;
+	filter: progid : DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#5A5A5A');
+}
+
+
+.igg_Office2007SilverSummaryDropDownItem
+{
+	font-weight:normal;
+	cursor:default;
+	color:Black;
+}
+
+
+.igg_Office2007SilverSummaryRow
+{
+}
+
+
+.igg_Office2007SilverFixedColumnHeaderCssClass
+{
+}
+
+
+tbody>tr.igg_Office2007SilverAlt>td
+{
+	background-color:#EBF6FF;
+	padding:5px 8px 5px 8px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Office2007SilverHeaderRowSelector
+{
+	background-color:Transparent;
+	border-top:solid 0px #909192;
+	border-right:solid 1px #909192;
+	border-bottom:solid 1px #909192;
+	border-left:solid 0px #909192;
+}
+
+
+.igg_Office2007SilverFooterRowSelector
+{
+	background-color:Transparent;
+	border:solid 0px #D0D7E5;
+}
+
+
+.igg_Office2007SilverSelectedHeader
+{
+}
+
+
+.igg_Office2007SilverPageCurrent
+{
+	font-weight:bold;
+	margin-right:10px;
+	color:DimGray;
+}
+
+
+tr.igg_Office2007SilverAddNewRow>td
+{
+	background-color:#E8EAEC;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	border-bottom-style:none;
+	padding-left:7px;
+	height: 22px;
+	overflow: hidden;
+}
+
+
+.igg_Office2007SilverAddNewRowSelectorImageCssClass
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-position:center ;
+	background-image: url(images/addnewrow_image.gif);
+}
+
+
+.igg_Office2007SilverAddNewRowSelectorCssClass
+{
+	background-color:#E8EAEC;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	border-bottom-style:none;
+}
+
+
+.igg_Office2007SilverAddNewRowExpansionColumnCssClass
+{
+}
+
+
+.igg_Office2007SilverFilterRow
+{
+	background-color:White;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 0px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 1px #B6B6B6;
+	height: 22px;
+}
+
+
+.igg_Office2007SilverFilterRuleDropDownItem
+{
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+}
+
+
+.igg_Office2007SilverFilterRowSelectorImage
+{
+}
+
+
+.igg_Office2007SilverFilterRowSelectorCssClass
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+tr.igg_Office2007SilverFilterRow>td
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	color:Black;
+}
+
+
+.igg_Office2007SilverFilterRowExpansionColumnCssClass
+{
+}
+
+
+tbody.igg_Office2007SilverFixedColumnCellCssClass>tr>td
+{
+}
+
+
+.igg_Office2007SilverFixedColumnFooterCssClass
+{
+	font-weight:bold;
+}
+
+
+.igg_Office2007SilverHeaderScrollbarIntersection
+{
+}
+
+
+.igg_Office2007SilverFooterScrollbarIntersection
+{
+}
+
+
+.igg_Office2007SilverSelectedRowSelector
+{
+	background-repeat:no-repeat;
+	background-position:left center ;
+	background-image: url(images/selectedrowselector.gif);
+}
+
+
+.igg_Office2007SilverSelectedRowSelectorImage
+{
+}
+
+
+tr.igg_Office2007SilverAddNewRowTop>td
+{
+}
+
+
+tr.igg_Office2007SilverAddNewRowBottom>td
+{
+}
+
+
+.igg_Office2007SilverFilterRowTop
+{
+}
+
+
+.igg_Office2007SilverFilterRowBottom
+{
+}
+
+
+.igg_Office2007SilverFilterRuleDropDownSelectedItem
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igg_selected.gif);
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+	color:Black;
+}
+
+
+tr.igg_Office2007SilverFilterRowTop>td
+{
+}
+
+
+tr.igg_Office2007SilverFilterRowBottom>td
+{
+}
+
+
+tbody>tr>td.igg_Office2007SilverSelectedCell
+{
+	background-color:#FEC271;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_cellselected.gif);
+	border-bottom:solid 1px #FDAD11;
+	color:Black;
+}
+
+
+.igg_Office2007SilverAddNewRowScrollbarIntersection
+{
+	background-color:#E8EAEC;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 0px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+.igg_Office2007SilverFilterDisabled
+{
+}
+
+
+.igg_Office2007SilverFilterScrollbarIntersection
+{
+	background-color:#EEEEEE;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 0px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+tbody>tr>td.igg_Office2007SilverActiveCell
+{
+}
+
+
+.igg_Office2007SilverActiveRow
+{
+}
+
+
+.igg_Office2007SilverActiveColumn
+{
+}
+
+
+.igg_Office2007SilverActiveRowSelectorImage
+{
+}
+
+
+.igg_Office2007SilverActiveRowSelector
+{
+	background-color:#FFC875;
+	background-repeat:no-repeat;
+	background-position:left center ;
+	background-image: url(images/selectedrowselector.gif);
+}
+
+
+.igg_Office2007SilverFilterRuleDropDownHoverItem
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igg_selected.gif);
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+	color:Black;
+}
+
+
+.igg_Office2007SilverEditCell
+{
+	background-color:White;
+	border:solid 1px #AAAAAA !important;
+}
+
+
+tbody.igg_Office2007SilverItemIE6 tr td
+{
+	background-color:White;
+	border-right:solid 1px #D0D7E5;
+	border-bottom:solid 1px #D0D7E5;
+	padding:5px 8px 5px 8px;
+	height: 23px;
+	overflow: hidden;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Office2007SilverSummaryDropDownItem img
+{
+	margin-right:5px;
+	cursor:pointer;
+}
+
+
+tbody tr.igg_Office2007SilverAltIE6 td
+{
+	background-color:#EBF6FF;
+	padding:5px 8px 5px 8px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+tr.igg_Office2007SilverAddNewRowIE6 td
+{
+	background-color:#E8EAEC;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	padding-left:7px;
+	height: 22px;
+	overflow: hidden;
+}
+
+
+tr.igg_Office2007SilverFilterRowTopIE6 td
+{
+}
+
+
+tr.igg_Office2007SilverFilterRowBottomIE6 td
+{
+}
+
+
+.igg_Office2007SilverFilterButton>td
+{
+	border-top:solid 0px Transparent;
+	border-right:solid 0px Transparent;
+	border-bottom:solid 0px Transparent;
+	border-left:solid 0px Transparent;
+}
+
+
+tr.igg_Office2007SilverFilterRowIE6 td
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	color:Black;
+}
+
+
+.igg_Office2007SilverSummaryRow th
+{
+	background-color:#F7F7F7;
+	border-bottom:solid 1px #CCCCCC;
+}
+
+
+.igg_Office2007SilverSummaryDropDown input
+{
+	background-attachment:scroll;
+	background-color:#FFEBB0;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_buttonsbg.png);
+	border:solid 1px #C0A776;
+	margin-top:10px;
+	margin-right:3px;
+	width: 70px;
+	color:#7C7C7C;
+}
+
+
+.igg_Office2007SilverFooter tr[mkr="columnheaderrow"] th
+{
+	background-color:#F7F7F7;
+	border-top:solid 1px #CCCCCC;
+	border-bottom:solid 1px #CCCCCC;
+	line-height: 20px;
+}
+
+
+tbody tr td.igg_Office2007SilverActiveCellIE6
+{
+}
+
+
+TR.igg_Office2007SilverAddNewRowBottomIE6 TD
+{
+}
+
+
+TR.igg_Office2007SilverAddNewRowTopIE6 TD
+{
+}
+
+
+tbody tr td.igg_Office2007SilverSelectedCellIE6
+{
+	background-color:#FEC271;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_cellselected.gif);
+	border-bottom:solid 1px #FDAD11;
+	color:Black;
+}
+
+

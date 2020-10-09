@@ -1,0 +1,1000 @@
+/**************************** VERTICAL (Default / No suffixes) *************************************************/
+.igdm_Office2010BlueControlVertical
+{
+	background-color:#CEDCED;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	border-style:none;
+	border-width:0px;
+	white-space: nowrap;
+	overflow: hidden;
+	cursor:default;
+}
+
+
+/*
+ Main Control CSS class when it's active 
+*/
+.igdm_Office2010BlueControlVerticalActive
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdm_Office2010BlueControlVerticalDisabled
+{
+	background-color:#F1F1F1;
+}
+
+
+/******************************** ROOT ELEMENTS ***************************************************/
+.igdm_Office2010BlueMenuGroupVerticalRoot
+{
+	background-color:Transparent;
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRoot
+{
+	font-size:10px;
+	border:solid 1px Transparent;
+	padding:6px 30px 6px 12px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalIcon
+{
+	border-style:none;
+	border-width:0px;
+	padding-right:6px;
+	clear: none;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	line-height: 12px;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootSelected
+{
+	background-color:#FEE286;
+	background-repeat:repeat-x;
+	background-position:center -117px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px #C29E47;
+	_border: 0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootActive
+{
+	background-color:#F1CA58;
+	border:solid 1px #C28838;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootHover
+{
+	background-color:#EFC958;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px Transparent;
+	_border: 0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootDisabled
+{
+}
+
+
+/********************************** END ROOT ELEMENTS *********************************************/
+/****************************** MenuGroup (UL) ELEMENTS (SubMenu) *********************************/
+/* UL (List) */
+.igdm_Office2010BlueMenuGroupVertical
+{
+	background-color:White;
+	border:solid 1px #A7ABB0;
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+/**************************** END Menu Group Elemnts ********************************************/
+/************ MenuItem elements (single menu item - LI (base element) has > a > span) ***********/
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemVertical
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat;
+	background-position:notset notset ;
+	border:solid 1px Transparent;
+	margin:0px;
+	padding:5px 30px 5px 5px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	line-height: 12px;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+/* List Item (Li) that is a parent of a menu which will appear on the bottom */
+.igdm_Office2010BlueMenuItemVerticalParent
+{
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalParentLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemVerticalSelected
+{
+	background-color:#FDE794;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	margin:0px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemVerticalActive
+{
+	background-color:#FDE794;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px Transparent;
+	_border: 0px;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemVerticalHover
+{
+	background-color:#FDE794;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	margin:0px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalDisabled
+{
+}
+
+
+/* List Item (LI) no inner content */
+.igdm_Office2010BlueMenuItemVerticalSeparator
+{
+	background-color:#CCCCCC;
+	border-style:none;
+	border-width:0px;
+	margin-top:0px;
+	padding:0px;
+	display: block;
+	height: 1px;
+	height: 1px;
+	width: 100%;
+	margin: 0px auto;
+	position: absolute;
+	clear: both;
+}
+
+
+.igdm_Office2010BlueMenuScrollContainerVertical
+{
+	background-color:White;
+	border:solid 1px #A7ABB0;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuScrollerRootTop
+{
+}
+
+
+.igdm_Office2010BlueMenuScrollerRootBottom
+{
+}
+
+
+.igdm_Office2010BlueMenuScrollerTop
+{
+	height: 10px;
+	width: 100%;
+}
+
+
+.igdm_Office2010BlueMenuScrollerBottom
+{
+	height: 10px;
+	width: 100%;
+}
+
+
+/************************************************************************************************\
+
+********************** Horizontal / Suffixed with "Horizontal" *********************************
+
+\************************************************************************************************/
+.igdm_Office2010BlueControlHorizontal
+{
+	background-color:#CEDCED;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	border-style:none;
+	border-width:0px;
+	white-space: nowrap;
+	overflow: hidden;
+	cursor:default;
+}
+
+
+.igdm_Office2010BlueControlHorizontalActive
+{
+}
+
+
+/*
+ Main Control CSS class when it's disabled
+*/
+.igdm_Office2010BlueControlHorizontalDisabled
+{
+	background-color:#F1F1F1;
+}
+
+
+/************** End Main Control Definitions ********************/
+/******************************** ROOT ELEMENTS - Group and Item ***************************************/
+/** Definitions for Root elements should be always before definitions of subElements **/
+.igdm_Office2010BlueMenuGroupHorizontalRoot
+{
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRoot
+{
+	font-size:10px;
+	border:solid 1px Transparent;
+	padding:6px 6px 6px 12px;
+	float: left;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalIcon
+{
+	border-style:none;
+	border-width:0px;
+	padding-right:6px;
+	clear: none;
+	float: left;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootSelected
+{
+	background-color:#F1CA58;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px #F1CA58;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootActive
+{
+	background-color:#F1CA58;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px #F1CA58;
+	_border: 0px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootHover
+{
+	background-color:#F1CA58;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px Transparent;
+	_border: 0px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootDisabled
+{
+	float: left;
+}
+
+
+/********************************** END ROOT ELEMENTS *********************************************/
+/****************************** MenuGroup (UL) ELEMENTS (SubMenu) *********************************/
+/* UL (List) */
+.igdm_Office2010BlueMenuGroupHorizontal
+{
+	background-color:White;
+	border:solid 1px #A7ABB0;
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+/**************************** END Menu Group Elemnts ********************************************/
+/************ MenuItem elements (single menu item - LI (base element) has > a > span) ***********/
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemHorizontal
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat;
+	background-position:notset notset ;
+	border:solid 1px Transparent;
+	margin:0px;
+	padding:5px 30px 5px 5px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+/* List Item (Li) that is a parent of a menu which will appear on the bottom */
+.igdm_Office2010BlueMenuItemHorizontalParent
+{
+	font-weight:normal;
+	margin:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalParentLink
+{
+	font-size:12px;
+	font-family: Verdana,Arial,Lucida Grande,Lucida Sans Unicode,Lucida,Helvetica,Sans-serif;
+	display: block;
+	cursor:default;
+	color:#1E395B;
+	text-decoration:none;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemHorizontalSelected
+{
+	background-color:#FDE794;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	margin:0px;
+	color:#1E395B;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemHorizontalActive
+{
+	background-color:#FDE794;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	margin:0px;
+	color:#1E395B;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemHorizontalHover
+{
+	background-color:#FDE794;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	margin:0px;
+	_border: 0px;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalDisabled
+{
+}
+
+
+/* List Item (LI) no inner content */
+.igdm_Office2010BlueMenuItemHorizontalSeparator
+{
+	background-color:#CCCCCC;
+	border-style:none;
+	border-width:0px;
+	margin-top:0px;
+	padding:0px;
+	display: block;
+	width: 1px;
+	width: 1px;
+	height: 100%;
+	margin: 0px auto;
+}
+
+
+/* Scrolling container - DIV */
+.igdm_Office2010BlueMenuScrollContainerHorizontal
+{
+	background-color:White;
+	border:solid 1px #A7ABB0;
+	color:#1E395B;
+}
+
+
+/* Left scrolling element for root level items Horizontal orientation - DIV */
+.igdm_Office2010BlueMenuScrollerRootLeft
+{
+}
+
+
+/* Right scrolling element for root level items Horizontal orientation - DIV */
+.igdm_Office2010BlueMenuScrollerRootRight
+{
+}
+
+
+/* Left scrolling element for non-root level items Horizontal orientation - DIV */
+.igdm_Office2010BlueMenuScrollerLeft
+{
+	background-repeat:repeat-y;
+	background-position:right -177px ;
+	border-left:solid 1px #ABBAD0;
+	width: 10px;
+	height: 28px;
+	display: block;
+}
+
+
+/* Right scrolling element for non-root level items Horizontal orientation - DIV */
+.igdm_Office2010BlueMenuScrollerRight
+{
+	background-repeat:repeat-y;
+	background-position:right -177px ;
+	border-right:solid 1px #ABBAD0;
+	width: 10px;
+	height: 28px;
+	display: block;
+}
+
+
+/*************************************** SCROLLING ROLES ************************************/
+.igdm_Office2010BlueMenuScrollButton
+{
+	background-color:#EDF5FD;
+	background-repeat:repeat-x;
+	background-position:center -57px ;
+	background-image: url(images/igwdm_sprite.png);
+	border:solid 1px #ABBAD0;
+	margin:0px;
+	padding:0px;
+	position: absolute;
+	text-decoration:none;
+}
+
+
+.igdm_Office2010BlueMenuScrollIcon
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igwdm_sprite.png);
+	margin:0px;
+	padding:0px;
+	display: block;
+	height: 10px;
+	cursor:pointer;
+}
+
+
+.igdm_Office2010BlueMenuScrollIconTop
+{
+	background-position:center -1px ;
+	margin-left:-5px;
+	width: 10px;
+	position: relative;
+	left: 50%;
+}
+
+
+.igdm_Office2010BlueMenuScrollIconBottom
+{
+	background-position:center -25px ;
+	margin-left:-5px;
+	width: 10px;
+	position: relative;
+	left: 50%;
+}
+
+
+.igdm_Office2010BlueMenuScrollIconLeft
+{
+	background-position:-15px -15px ;
+	margin-top:-6px;
+	position: relative;
+	top: 50%;
+}
+
+
+.igdm_Office2010BlueMenuScrollIconRight
+{
+	background-position:-30px -15px ;
+	margin-top:-6px;
+	position: relative;
+	top: 50%;
+}
+
+
+.igdm_Office2010BlueMenuScrollContainer
+{
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+}
+
+
+.igdm_Office2010BlueMenuScrollContainerRootVertical
+{
+}
+
+
+.igdm_Office2010BlueMenuScrollContainerRootHorizontal
+{
+}
+
+
+.igdm_Office2010BlueMenuGroupScrollingVertical
+{
+	background-color:White;
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuGroupScrollingHorizontal
+{
+	background-color:White;
+	margin:0px;
+	padding-top:0px;
+	padding-left:0px;
+	list-style-type: none;
+	cursor:default;
+	color:#1E395B;
+}
+
+
+ul.igdm_Office2010BlueMenuGroupVerticalRoot li.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010Bluemenuitemverticalrootactive, ul.igdm_Office2010BlueMenuGroupVerticalRoot li.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010Bluemenuitemverticalroothover, ul.igdm_Office2010BlueMenuGroupVerticalRoot li.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010BlueMenuItemVerticalRootSelected
+{
+	_background-position: center -71px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootActive > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootDisabled > a
+{
+	color:#AAAAAA;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalHover > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootActive > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalHover.igdm_Office2010BlueMenuItemVerticalParent
+{
+	background-color:#FDE794;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px Transparent;
+	_border: 0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalActive > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuScrollerRight hover, .igdm_Office2010BlueMenuScrollerRight active
+{
+	background-position:left -177px ;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalRoot.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010BlueMenuItemVerticalRootSelected
+{
+	background-color: #FEE286!important;
+	background-position:left ;
+	background-image: url(images/igdm_rootselected.png)!important;
+	border-width:0px;
+	background-repeat: repeat-x!important;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootDisabled > a
+{
+	color:#AAAAAA;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootSelected > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootHover .igdm_Office2010BlueMenuItemHorizontalRootLink
+{
+	_color: #1E395B;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalHover
+{
+	border-width:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootHover > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalSelected.igdm_Office2010BlueMenuItemVerticalParent
+{
+	background-color:#FDE794;
+	font-weight:normal;
+	border:solid 1px #F1CA58;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootHover > a
+{
+	color:#1E395B;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVertical
+{
+	border-width:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalSelected > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuScrollerLeft hover, .igdm_Office2010BlueMenuScrollerRight active
+{
+	background-position:left -177px ;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalRoot
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVertical.igdm_Office2010BlueMenuItemVerticalParent
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalActive
+{
+	border-width:0px;
+}
+
+
+ul.igdm_Office2010BlueMenuGroupVerticalRoot li.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010BlueMenuItemVerticalRoot
+{
+	_background: none;
+}
+
+
+.igdm_Office2010BlueMenuScrollerBottom hover, .igdm_Office2010BlueMenuScrollerRight active
+{
+	background-position:center -42px ;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalRootSelected
+{
+	border-width:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalSelected > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuScrollerTop hover, .igdm_Office2010BlueMenuScrollerRight active
+{
+	background-position:center -42px ;
+}
+
+
+/***********************/
+/* IE 6 specific fixes */
+/***********************/
+.igdm_Office2010BlueMenuItemVertical.igdm_Office2010BlueMenuItemVerticalParent
+{
+	background-repeat:no-repeat;
+	background-position:right -152px ;
+	background-image: url(images/igwdm_sprite.png);
+	_border: 0px;
+}
+
+
+/***************
+*   IE6 Fixes  *
+****************/
+.ie6 .igdm_Office2010BlueMenuItemVerticalRoot.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010BlueMenuItemVerticalRootHover
+{
+	background-color: #EFC958!important;
+	background-position:left ;
+	background-image: url(images/igdm_roothover.png)!important;
+	border-width:0px;
+	background-repeat: repeat-x!important;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalRootHover
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalRootSelected
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalRoot
+{
+	border-width:0px;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemVerticalDisabled > a
+{
+	color:#CCCCCC;
+}
+
+
+/* List Item (Li) */
+.igdm_Office2010BlueMenuItemHorizontalDisabled > a
+{
+	color:#CCCCCC;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalHover
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalSelected
+{
+	border-width:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalActive.igdm_Office2010BlueMenuItemVerticalParent
+{
+	background-color:#FDE794;
+	background-repeat:repeat-x;
+	background-position:center -71px ;
+	background-image: url(images/igwdm_sprite.png);
+	font-weight:normal;
+	border:solid 1px #F1CA58;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootActive .igdm_Office2010BlueMenuItemHorizontalRootLink
+{
+	_color: #1E395B;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuGroupScrollingVertical .igdm_Office2010BlueMenuItemVerticalParent
+{
+	background-color:Transparent;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalSeparator
+{
+	overflow: hidden;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalRootHover
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalRootLink
+{
+	border-width:0px;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalHover > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRoot.igdm_Office2010BlueMenuItemVerticalRootActive .igdm_Office2010Bluemenuitemverticalrootlink, .igdm_Office2010BlueMenuItemVerticalRoot.igdm_Office2010BlueMenuItemVerticalRootSelected .igdm_Office2010BlueMenuItemVerticalRootLink
+{
+	color:#1E395B;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontalSeparator
+{
+	overflow: hidden;
+}
+
+
+.ie6 ul.igdm_Office2010BlueMenuGroupVerticalRoot li.igdm_Office2010BlueMenuItemVerticalParent.igdm_Office2010BlueMenuItemVerticalRoot
+{
+	background-color: none;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemHorizontal
+{
+	border-width:0px;
+}
+
+
+.ie6 .igdm_Office2010BlueMenuItemVerticalRootHover .igdm_Office2010BlueMenuItemVerticalRootLink
+{
+	color:Black;
+}
+
+
+.igdm_Office2010BlueMenuItemVerticalRootHover .igdm_Office2010BlueMenuItemVerticalRootLink
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalRootSelected > a
+{
+	color:#1E395B;
+}
+
+
+.igdm_Office2010BlueMenuItemHorizontalActive > a
+{
+	color:#1E395B;
+}
+
+

@@ -1,0 +1,87 @@
+.igcal_Office2007SilverControl
+{
+	border-style:solid;
+	cursor:hand;
+	text-align:center;
+}
+
+
+.igcal_Office2007SilverCalendar
+{
+}
+
+
+.igcal_Office2007SilverDOW
+{
+	font-size:xx-small;
+	border-width:0px;
+	border-bottom:solid 1px #9199A4;
+	padding:5px 0px 0px 0px;
+}
+
+
+.igcal_Office2007SilverDay
+{
+	font-size:xx-small;
+	border-width:0px;
+}
+
+
+.igcal_Office2007SilverNextPrev
+{
+	background-color:#D2D5DA;
+	padding-right:5px;
+	padding-left:5px;
+}
+
+
+.igcal_Office2007SilverFooter
+{
+	border-top:solid 1px LightGrey;
+	padding-top:5px;
+	text-align:center;
+}
+
+
+.igcal_Office2007SilverHeader
+{
+	background-color:#D2D5DA;
+	font-size:10px;
+	height: 16px;
+}
+
+
+.igcal_Office2007SilverDropDown
+{
+}
+
+
+.igcal_Office2007SilverWeekendDay
+{
+}
+
+
+.igcal_Office2007SilverOtherMonthDay
+{
+	color:#B3B3B3;
+}
+
+
+.igcal_Office2007SilverWeekendDayMajor
+{
+}
+
+
+.igcal_Office2007SilverTodayDay
+{
+	font-weight:bold;
+	border:solid 1px #BB5503;
+}
+
+
+.igcal_Office2007SilverSelectedDay
+{
+	background-color:#FBC84F;
+}
+
+

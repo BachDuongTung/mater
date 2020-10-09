@@ -1,0 +1,98 @@
+.igcv_Office2007SilverControl
+{
+}
+
+
+.igcv_Office2007SilverCaptionHeader
+{
+	background-color:#D2D5DA;
+	font-size:8pt;
+	padding:3px;
+	width: 100%;
+	white-space: nowrap;
+	color:Black;
+	text-align:center;
+}
+
+
+.igcv_Office2007SilverDayHeader
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	font-size:10px;
+	border-bottom:solid 1px #9199A4;
+	height: 16px;
+	color:Black;
+}
+
+
+.igcv_Office2007SilverDay
+{
+	background-color:White;
+	font-size:11px;
+	border-width:0px;
+	padding-right:5px;
+	padding-left:7px;
+	cursor:hand;
+	text-align:right;
+}
+
+
+.igcv_Office2007SilverFooter
+{
+	background-color:#EEEEEE;
+	font-size:8pt;
+	padding:3px;
+	white-space: nowrap;
+	cursor:pointer;
+	text-align:left;
+}
+
+
+.igcv_Office2007SilverDropDown
+{
+	font-size:8pt;
+}
+
+
+.igcv_Office2007SilverOtherMonthDay
+{
+	background-color:White;
+	color:#B3B3B3;
+}
+
+
+.igcv_Office2007SilverWeekendDay
+{
+	background-color:#FAFAFA;
+}
+
+
+.igcv_Office2007SilverNavigationButton
+{
+	background-color:#D2D5DA;
+	padding-right:3px;
+	padding-left:3px;
+	cursor:pointer;
+}
+
+
+.igcv_Office2007SilverTodayDay
+{
+	border:solid 1px #BB5503;
+}
+
+
+.igcv_Office2007SilverActivityDay
+{
+	font-weight:bold;
+}
+
+
+.igcv_Office2007SilverActiveDay
+{
+	background-color:#FBC84F;
+	background-image:none;
+}
+
+

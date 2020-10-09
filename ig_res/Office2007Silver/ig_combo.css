@@ -1,0 +1,109 @@
+.igcmb_Office2007SilverControl
+{
+}
+
+
+.igcmb_Office2007SilverEditWithButtons
+{
+	border:solid 1px #ACACAC;
+	cursor:hand;
+}
+
+
+.igcmb_Office2007SilverPagerArea
+{
+}
+
+
+.igcmb_Office2007SilverPageCurrent
+{
+}
+
+
+.igcmb_Office2007SilverPageLink
+{
+}
+
+
+.igcmb_Office2007SilverItem
+{
+	border:solid 1px Transparent;
+	border-right-color:#D0D7E5;
+	border-bottom-color:#D0D7E5;
+}
+
+
+.igcmb_Office2007SilverAlt
+{
+}
+
+
+.igcmb_Office2007SilverHeader
+{
+	background-color:Transparent;
+	background-position:bottom ;
+	background-image: url(images/office_grid_header.jpg);
+	border-width:0px;
+	border-color:Transparent;
+	border-right-width:1px;
+	border-right-color:#F29536;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+.igcmb_Office2007SilverFooter
+{
+}
+
+
+.igcmb_Office2007SilverLabel
+{
+	background-color:#EDEDED;
+	background-image:none;
+	border-right-width:1px;
+	border-right-color:#B6B6B6;
+	border-bottom-width:1px;
+	border-bottom-color:#B6B6B6;
+}
+
+
+.igcmb_Office2007SilverSelected
+{
+	background-color:#EAECF5;
+	border-width:1px;
+	color:Black;
+}
+
+
+.igcmb_Office2007SilverEditSelected
+{
+	background-color:White;
+	font-size:x-small;
+	font-family: Verdana;
+	border:solid 1px Transparent;
+	padding-top:6px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igcmb_Office2007SilverActiveBorderTopBottom
+{
+	border-top:solid 1px DimGray;
+	border-bottom:solid 1px DimGray;
+}
+
+
+.igcmb_Office2007SilverActiveBorderLeft
+{
+	border-left:solid 1px DimGray;
+}
+
+
+.igcmb_Office2007SilverActiveBorderRight
+{
+	border-right:solid 1px DimGray;
+}
+
+

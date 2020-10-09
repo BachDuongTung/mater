@@ -1,0 +1,245 @@
+.igdt_Office2010BlueControl
+{
+	background-color:Transparent;
+	font-size:xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px Transparent;
+	color:Black;
+}
+
+
+.igdt_Office2010BlueControlActive
+{
+}
+
+
+.igdt_Office2010BlueControlDisabled
+{
+}
+
+
+.igdt_Office2010BlueDataLoadingContainer
+{
+}
+
+
+.igdt_Office2010BlueDataLoadingMessage
+{
+}
+
+
+/* //////////////////// GROUP STYLES //////////////////// */
+.igdt_Office2010BlueNodeGroup
+{
+	margin-left:0px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igdt_Office2010BlueNodeHolder
+{
+	white-space: nowrap;
+	display: block;
+	float: left;
+	float: none!;
+	width: 99%;
+}
+
+
+.igdt_Office2010BlueNodeImage
+{
+	margin-top:2px;
+	margin-right:5px;
+	float: left;
+	vertical-align:middle;
+}
+
+
+.igdt_Office2010BlueNode
+{
+	line-height: 20px;
+	display: block;
+	cursor:pointer;
+	color:#1F3976;
+	text-decoration:none;
+}
+
+
+.igdt_Office2010BlueNodeRoot
+{
+	font-weight:bold;
+	color:#21272D;
+	vertical-align:middle;
+}
+
+
+.igdt_Office2010BlueNodeParent
+{
+}
+
+
+.igdt_Office2010BlueNodeSelected
+{
+	background-color:#A9C1DE;
+	display: block;
+}
+
+
+.igdt_Office2010BlueNodeActive
+{
+	background-color:#A9C1DE;
+	display: block;
+	line-height: 20px;
+}
+
+
+.igdt_Office2010BlueNodeHover
+{
+	background-color:#A7CDF0;
+	display: block;
+}
+
+
+.igdt_Office2010BlueNodeDisabled
+{
+	color:Gray;
+}
+
+
+.igdt_Office2010BlueInternalNodeEditor
+{
+	border:solid 1px #CCCCCC;
+	padding-left:2px;
+}
+
+
+/*Applied on the cloned node that is being dragged*/
+.igdt_Office2010BlueDragMarkup
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_dragmarkupbg.gif');
+	font-size:xx-small;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	border-top:solid 1px #84ACDD;
+	border-bottom:solid 1px #84ACDD;
+	padding:0px;
+	display: block;
+	width: 150px;
+	height: 20px;
+	cursor:move;
+}
+
+
+/* //////////////////// GROUP STYLES //////////////////// */
+/****************************************************/
+/* Added for WebDataTree Drag And Drop funtionality */
+/****************************************************/
+/*CSS class that will define the style applied before or after some node. 
+If the space between the nodes is accepted as potential drop target this class will define 
+some separator/dashed line that will show where the new node will be placed*/
+/*The DropIndicator purpose is to guide the user where the node will be inserted 
+when they drop it*/
+.igdt_Office2010BlueDropIndicator
+{
+	background-color:#E4E5F0;
+	background-image: url(./images/igdt_dropindicatorbg.jpg);
+	font-family: Segoe UI,Arial,Verdana,Helvetica,sans-serif;
+	border:solid 1px #767676;
+	padding:1px 8px 3px 4px;
+	Repeat-X: 12px;
+	height: 20px;
+	cursor:default;
+	color:#4C4C4C;
+}
+
+
+/*CSS class that will be applied just before the Dropping event is fired on a node if it is a possible drop target. 
+For example when you drag over concrete node its color will change to alert the user he will drop inside the highlighted node.*/
+.igdt_Office2010BlueDropTarget
+{
+	background-color:#CFE4FE;
+	background-repeat:repeat-x;
+	background-position:notset notset ;
+	background-image: url('images/igdt_bgdt_selected.gif');
+	border-top:solid 1px #CEDEF1;
+	border-bottom:solid 1px #CEDEF1;
+	line-height: 18px;
+}
+
+
+/* Applied to the line shown, when inserting between two nodes.*/
+.igdt_Office2010BlueDropInsertLine
+{
+	border:dotted 2px #84ACDD;
+}
+
+
+.igdt_Office2010BlueNodeGroupDragDrop
+{
+	margin-left:0px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:0px;
+	list-style: none;
+}
+
+
+.igdt_Office2010BlueNodeHolderDragDrop
+{
+	white-space: nowrap;
+}
+
+
+.igdt_Office2010BlueNodeHolderDragDrop img
+{
+	padding:0px;
+	float: left;
+	white-space: nowrap;
+	vertical-align:middle;
+}
+
+
+.igdt_Office2010BlueNodeHolderHover
+{
+}
+
+
+.igdt_Office2010BlueDragMarkup *
+{
+	border-style:none;
+	border-color: };
+	margin:0px;
+	padding:0px;
+	.igdt_Office2010BlueDragMarkup: middle;
+	height: 20px;
+}
+
+
+.igdt_Office2010BlueDropIndicator span
+{
+	position: relative;
+	top: -1px;
+}
+
+
+.igdt_Office2010BlueDropIndicator img
+{
+	margin-right:5px;
+	position: relative;
+	top: 3px;
+	width: 16px;
+	height: 16px;
+}
+
+
+.igdt_Office2010BlueNodeHolder img
+{
+	padding:0px;
+	white-space: nowrap;
+	float: left;
+}
+
+

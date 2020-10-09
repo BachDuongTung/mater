@@ -1,0 +1,89 @@
+.igtxt_Windows7EditWithButtons
+{
+	background-color:#E8EAEC;
+	font-size:10px;
+	font-family: Verdana;
+	border:solid 1px #A9B1B8;
+	line-height: 1px;
+	height: 20px;
+	width: 130px;
+}
+
+
+.igtxt_Windows7Edit
+{
+	background-color:#E8EAEC;
+	border:solid 1px #A9B1B8;
+	outline: 0;
+}
+
+
+.igtxt_Windows7EditInContainer
+{
+	background-color:#E8E8E8;
+	border-width:0px;
+	margin:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	outline: 0;
+}
+
+
+.igtxt_Windows7Button
+{
+	background-color:#E8E8E8;
+	border:solid 1px #E8E8E8;
+	line-height: normal;
+}
+
+
+.igtxt_Windows7ButtonHover
+{
+	background-color:#FFDA7A;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Windows7ButtonPressed
+{
+	background-color:#FFA738;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Windows7ButtonDisabled
+{
+	background-color: LightGrey;
+	border:solid 1px White;
+}
+
+
+.igtxt_Windows7ButtonSize
+{
+	width: 15px;
+	height: 100%;
+}
+
+
+.igtxt_Windows7Focus
+{
+	border-color:#C0C080;
+}
+
+
+.igtxt_Windows7TextArea
+{
+	background-color:#E8EAEC;
+	font-size:12px;
+	font-family: arial;
+	border:solid 1px #A9B1B8;
+	outline: 0;
+}
+
+
+.igtxt_Windows7ButtonFocus
+{
+	background-color:#F0F0B0;
+}
+
+

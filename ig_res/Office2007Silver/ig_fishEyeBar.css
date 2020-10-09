@@ -1,0 +1,41 @@
+﻿.igfeb_Office2007SilverControl
+{
+	background-color: Transparent;
+}
+
+.igfeb_Office2007SilverControlHover
+{
+				
+				
+}
+
+.igfeb_Office2007SilverFishEyeItemLabel
+{
+}
+
+.igfeb_Office2007SilverFishEyeItem
+{
+}
+
+.igfeb_Office2007SilverFishEyeItemHover
+{			
+}
+
+.igfeb_Office2007SilverFishEyeItemDisabled
+{
+				
+				
+}
+
+.igfeb_Office2007SilverControlFocus
+{
+				
+				
+}
+
+.igfeb_Office2007SilverFishEyeItemSelected
+{
+	background-position: bottom;
+	background-image: url(images/igfeb_itemselected.png);	
+	background-repeat:  no-repeat;
+}

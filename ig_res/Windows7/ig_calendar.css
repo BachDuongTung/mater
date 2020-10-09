@@ -1,0 +1,112 @@
+.igcal_Windows7Control
+{
+	border:solid 1px #CDDAEA;
+	cursor:pointer;
+	color:#1E395B;
+}
+
+
+.igcal_Windows7Calendar
+{
+}
+
+
+.igcal_Windows7DOW
+{
+	font-size:10px;
+	border-width:0px;
+	border-bottom:solid 1px #CDDAEA;
+	padding:5px 0px 0px 0px;
+	height: 16px;
+	color:Black;
+}
+
+
+.igcal_Windows7Day
+{
+	background-color:White;
+	font-size:11px;
+	border-width:0px;
+	padding-right:5px;
+	padding-left:7px;
+	cursor:pointer;
+	color:Black;
+	text-align:right;
+}
+
+
+.igcal_Windows7NextPrev
+{
+	background-color:#F1F5FB;
+	padding-right:5px;
+	padding-left:5px;
+}
+
+
+.igcal_Windows7Footer
+{
+	background-color:#F1F5FB;
+	font-size:8pt;
+	padding:3px;
+	white-space: nowrap;
+	cursor:pointer;
+	text-align:left;
+}
+
+
+.igcal_Windows7Header
+{
+	background-color:#F1F5FB;
+	font-size:8pt;
+	padding:3px;
+	height: 16px;
+	width: 100%;
+	white-space: nowrap;
+	color:#1E395B;
+	text-align:center;
+}
+
+
+.igcal_Windows7DropDown
+{
+	font-size:8pt;
+}
+
+
+.igcal_Windows7WeekendDay
+{
+	background-color:#E7EBF6;
+	color:#4C607A;
+}
+
+
+.igcal_Windows7WeekNumber
+{
+}
+
+
+.igcal_Windows7OtherMonthDay
+{
+	color:#B3B3B3;
+}
+
+
+.igcal_Windows7WeekendDayMajor
+{
+}
+
+
+.igcal_Windows7TodayDay
+{
+	border:solid 1px #8FB0D6;
+	color:#4C607A;
+}
+
+
+.igcal_Windows7SelectedDay
+{
+	background-color:#CCE2FC;
+	background-image:none;
+}
+
+

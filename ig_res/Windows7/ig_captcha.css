@@ -1,0 +1,110 @@
+﻿.igc_Windows7Control
+{
+	border:solid 1px #9AB3D3;
+	background-color:#ffffff;
+	padding:10px;
+	margin:0px;
+	font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+}
+
+.igc_Windows7ControlActive
+{
+	
+}
+
+.igc_Windows7CaptchaInput
+{
+    border:1px solid #9AB3D3;
+    display:block;
+    padding:5px 0;
+    
+    margin-bottom:10px;
+    /*IE6 and IE7 specific hack*/
+    *margin-bottom:0;
+    
+}
+
+.igc_Windows7RefreshAndAudioButtonsArea
+{
+    margin-left:10px;
+	border-width:0;
+	text-decoration:none;
+    display:block;
+}
+
+    .igc_Windows7RefreshAndAudioButtonsArea img
+    {
+	    border-width:0px;
+	    text-decoration:none;
+	    margin-bottom:3px;
+    }
+
+.igc_Windows7SubmitButton {
+    background:#C6D8F0 url(./images/igc_submitButtonBg.png) repeat-x left top;
+    border:1px solid #9AB3D3;
+    clear:left;
+    display:block;
+    height:30px;
+    width:177px;
+    cursor:pointer;
+    color:#1E395B;
+    margin-top:10px;
+    font-family:Segoe UI,Verdana,Arial,Sans-Serif;
+    font-size:12px;
+    font-weight:bold;
+    padding:0px;
+}
+
+.igc_Windows7ErrorLabel
+{
+    background-color:#FF6666;
+    color:white;
+    padding:3px;
+}
+
+.igc_Windows7CaptchaImageLabel
+{
+	border:1px solid #9AB3D3;
+}
+
+.igc_Windows7CaptchaInputLabel{
+}
+
+.igc_Windows7CaptchaInfoTextLabel
+{
+    display:block;
+    margin:10px 0 5px 0;
+}
+
+.igc_Windows7CaptchaImage
+{
+    display:block;
+    margin-bottom:10px;
+}
+
+.igc_Windows7CaptchaImageArea
+{
+    display:block;
+    float:left;
+    padding:0;
+    margin:0;
+}
+    .igc_Windows7CaptchaImageArea label 
+    {
+        display:block
+    }
+	    
+.igc_Windows7RefreshAndAudioButtonsArea 
+{
+    float:left;
+}
+    .igc_Windows7RefreshAndAudioButtonsArea a 
+    {
+        display:block
+    }
+    .igc_Windows7RefreshAndAudioButtonsArea a,
+    .igc_Windows7RefreshAndAudioButtonsArea img 
+    {
+        cursor:pointer
+    }

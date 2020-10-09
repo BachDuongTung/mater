@@ -1,0 +1,277 @@
+<<<<<<< Yours (ig_spellCheckerDialog.css)
+.igspell_Office2010BlueWrapper
+{
+	background-repeat:no-repeat;
+	background-image: url(images/officeblue.jpg);
+	font-size:x-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:5px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+
+.igspell_Office2010BlueDocumentTextPanel
+{
+	background-color:White;
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	height: 85px;
+	width: 230px;
+	left: 10px;
+	top: 76px;
+	overflow: auto;
+}
+
+
+.igspell_Office2010BlueButton
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-image: url(images/button_officeblue.png);
+	font-size:10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	width: 95px;
+	height: 21px;
+	position: absolute;
+	left: 250px;
+	cursor:hand;
+}
+
+
+.igspell_Office2010BlueChangeToBox
+{
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	left: 10px;
+	top: 197px;
+	width: 230px;
+	height: 25px;
+}
+
+
+.igspell_Office2010BlueSuggestions
+{
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	left: 10px;
+	top: 262px;
+	width: 340px;
+	height: 109px;
+}
+
+
+.igspell_Office2010BlueLabel
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-bottom:2px;
+	position: absolute;
+	left: 10px;
+	color:#151C55;
+}
+
+
+.igspell_Office2010BlueBadWord
+{
+	border-bottom:solid 1px Red;
+}
+
+
+.igspell_Office2010BlueIgnoreButton
+{
+	top: 76px;
+}
+
+
+.igspell_Office2010BlueIgnoreAllButton
+{
+	top: 102px;
+}
+
+
+.igspell_Office2010BlueChangeButton
+{
+	top: 197px;
+}
+
+
+.igspell_Office2010BlueChangeAllButton
+{
+	top: 223px;
+}
+
+
+.igspell_Office2010BlueFinishButton
+{
+	top: 374px;
+}
+
+
+.igspell_Office2010BlueAddButton
+{
+	top: 128px;
+}
+
+
+.igspell_Office2010BlueChangeToLabel
+{
+	top: 180px;
+}
+
+
+.igspell_Office2010BlueSuggestionsLabel
+{
+	top: 246px;
+}
+
+
+.igspell_Office2010BlueNotFoundLabel
+{
+	top: 10px;
+}
+
+
+||||||| Original (ig_spellCheckerDialog.css;C179273)
+=======
+.igspell_Office2010BlueWrapper
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-image: url(images/officeblue.jpg);
+	font-size:x-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:5px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+
+.igspell_Office2010BlueDocumentTextPanel
+{
+	background-color:White;
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	height: 85px;
+	width: 230px;
+	left: 10px;
+	top: 76px;
+	overflow: auto;
+}
+
+
+.igspell_Office2010BlueButton
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-image: url(images/button_officeblue.png);
+	font-size:10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-width:0px;
+	width: 95px;
+	height: 21px;
+	position: absolute;
+	left: 250px;
+	cursor:pointer;
+}
+
+
+.igspell_Office2010BlueChangeToBox
+{
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	left: 10px;
+	top: 197px;
+	width: 230px;
+	height: 25px;
+}
+
+
+.igspell_Office2010BlueSuggestions
+{
+	border:solid 1px #BFDBFF;
+	position: absolute;
+	left: 10px;
+	top: 262px;
+	width: 340px;
+	height: 109px;
+}
+
+
+.igspell_Office2010BlueLabel
+{
+	font-weight:bold;
+	font-size:xx-small;
+	margin-bottom:2px;
+	position: absolute;
+	left: 10px;
+	color:#151C55;
+}
+
+
+.igspell_Office2010BlueBadWord
+{
+	border-bottom:solid 1px Red;
+}
+
+
+.igspell_Office2010BlueIgnoreButton
+{
+	top: 76px;
+}
+
+
+.igspell_Office2010BlueIgnoreAllButton
+{
+	top: 102px;
+}
+
+
+.igspell_Office2010BlueChangeButton
+{
+	top: 197px;
+}
+
+
+.igspell_Office2010BlueChangeAllButton
+{
+	top: 223px;
+}
+
+
+.igspell_Office2010BlueFinishButton
+{
+	top: 374px;
+}
+
+
+.igspell_Office2010BlueAddButton
+{
+	top: 128px;
+}
+
+
+.igspell_Office2010BlueChangeToLabel
+{
+	top: 180px;
+}
+
+
+.igspell_Office2010BlueSuggestionsLabel
+{
+	top: 246px;
+}
+
+
+.igspell_Office2010BlueNotFoundLabel
+{
+	top: 10px;
+}
+
+
+>>>>>>> Theirs ($/NetAdvantage/DEV/ASP.NET/2010.3/Source/Infragistics.WebUI/AppStyling/Style Libraries/Office2010Blue/ig_spellCheckerDialog.css;C179273)

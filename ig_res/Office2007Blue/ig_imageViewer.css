@@ -1,0 +1,674 @@
+/* The CSS Class that will be applied to the outer control.*/
+.igiv_Office2007BlueControl
+{
+	background-color:Transparent;
+	border-width:0px;
+	padding-bottom:60px;
+}
+
+
+/*
+	This class should be used for setting any padding that might be 
+	needed if the Header is placed above the control.
+*/
+.igiv_Office2007BlueHeaderPadding
+{
+	padding-top:60px;
+}
+
+
+/*
+	This class should be used for adjusting the padding of the control
+	to account for the additional size of the header and footer.
+*/
+.igiv_Office2007BlueFooterPadding
+{
+	padding-bottom:60px;
+}
+
+
+/*
+	The CSS class that will be applied to the header. 
+    The header can be absolutely positoned anywhere in the control, because the WebImageViewerhas an internal DIV that
+    wraps the control with a position set to relative. </para>
+*/
+.igiv_Office2007BlueHeaderContentArea
+{
+	font-size:14px;
+	border-top:solid 1px #3D5C82;
+	padding-top:3px;
+	width: 100%;
+	position: absolute;
+	top: -27px;
+	right: 0px;
+	text-align:left;
+}
+
+
+/*The CSS class that will be applied to the Left Corner of the Header. */
+.igiv_Office2007BlueHeaderContentLeft
+{
+}
+
+
+/*The CSS class that will be applied to the actual content of the Header.*/
+.igiv_Office2007BlueHeaderContent
+{
+	font-size:small;
+	color:#3D5C82;
+}
+
+
+/*The CSS class that will be applied to the Right Corner of the Header. */
+.igiv_Office2007BlueHeaderContentRight
+{
+}
+
+
+/*
+	A TR that wraps the TopLeft, TopArea, and TopRight elements. 
+    This CSS class is useful in setting the height of the entire row.
+*/
+.igiv_Office2007BlueHeaderArea
+{
+	height: 10px;
+}
+
+
+/*
+	The CSS class that will be applied to the footer. 
+    The footer can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative. </para>
+*/
+.igiv_Office2007BlueFooterContentArea
+{
+	font-size:14px;
+	border-bottom:solid 1px #3D5C82;
+	padding-bottom:3px;
+	width: 100%;
+	position: absolute;
+	bottom: -50px;
+	right: 0px;
+	text-align:right;
+}
+
+
+/*The CSS class that will be applied to the Left Corner of the Footer. */
+.igiv_Office2007BlueFooterContentLeft
+{
+}
+
+
+/*The CSS class that will be applied to the actual content of the Footer.*/
+.igiv_Office2007BlueFooterContent
+{
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	font-size:small;
+	color:#3D5C82;
+}
+
+
+/* The CSS class that will be applied to the Right Corner of the Footer. */
+.igiv_Office2007BlueFooterContentRight
+{
+}
+
+
+/*
+	 A TR that wraps the BottomLeft, BottomArea, and BottomRight elements. 
+     This CSS class is useful in setting the height of the entire row.
+*/
+.igiv_Office2007BlueFooterArea
+{
+	height: 10px;
+}
+
+
+/*
+	A TD that wraps the Header.
+    This CSS Class should be used for applying a Background-Image along the top border of the control.
+*/
+.igiv_Office2007BlueEdgeTop
+{
+	background-repeat:repeat-x;
+	background-image: url(./images/igiv_EdgeTop.gif);
+	height: 10px;
+}
+
+
+/*
+	A TD on the left side of the ImageArea.
+    This CSS Class should be used for applying a Background-Image along the left border of the control.
+*/
+.igiv_Office2007BlueEdgeLeft
+{
+	background-repeat:repeat-y;
+	background-image: url(./images/igiv_EdgeLeft.gif);
+	width: 10px;
+}
+
+
+/*
+	A TD that wraps the Footer.
+    This CSS Class should be used for applying a Background-Image along the bottom border of the control.
+*/
+.igiv_Office2007BlueEdgeBottom
+{
+	background-repeat:repeat-x;
+	background-position:bottom ;
+	background-image: url(./images/igiv_EdgeBottom.gif);
+}
+
+
+/*
+	 A TD on the right side of the ImageArea.
+     This CSS Class should be used for applying a Background-Image along the right border of the control.
+       
+*/
+.igiv_Office2007BlueEdgeRight
+{
+	background-repeat:repeat-y;
+	background-position:right ;
+	background-image: url(./images/igiv_EdgeRight.gif);
+	width: 10px;
+}
+
+
+/*
+	 The Top Left corner of the control.
+     This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerTopLeft
+{
+	background-repeat:no-repeat;
+	background-image: url(./images/igiv_CornerTopLeft.gif);
+	width: 10px;
+}
+
+
+/*
+	The Top Right corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerTopRight
+{
+	background-repeat:no-repeat;
+	background-position:right top ;
+	background-image: url(./images/igiv_CornerTopRight.gif);
+	width: 10px;
+}
+
+
+/*
+	The Bottom Left corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerBottomLeft
+{
+	background-repeat:no-repeat;
+	background-position:bottom left ;
+	background-image: url(./images/igiv_CornerBottomLeft.gif);
+}
+
+
+/*
+	The Bottom Right corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerBottomRight
+{
+	background-repeat:no-repeat;
+	background-position:bottom right ;
+	background-image: url(./images/igiv_CornerBottomRight.gif);
+}
+
+
+/*
+	The CSS class that will be applied to the Container of the Previous Button. 
+    This css Class is the TD in which the Image element is rendered. This style can be used
+    to set the vertical-align CSS attribute.
+*/
+.igiv_Office2007BluePrevButtonArea
+{
+	vertical-align:middle;
+}
+
+
+/*
+	The CSS class that will be applied to the Previous Button. 
+    The Previous Button can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative. 
+*/
+.igiv_Office2007BluePrevButton
+{
+	cursor:pointer;
+}
+
+
+/*
+	The CSS class that will be applied to the Container of the Next Button. 
+    This css Class is the TD in which the Image element is rendered. This style can be used
+    to set the vetical-align CSS attribute.
+*/
+.igiv_Office2007BlueNextButtonArea
+{
+	cursor:pointer;
+	vertical-align:middle;
+}
+
+
+/*
+	The CSS class that will be applied to the Next Button. 
+    The Next Button can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative.
+*/
+.igiv_Office2007BlueNextButton
+{
+}
+
+
+/*
+	A TD that contains the ImageArea.
+    If you would like a border around the ImageArea, this is the class to use.
+*/
+.igiv_Office2007BlueImageAreaContainer
+{
+	border:solid 1px #C5D2DF;
+}
+
+
+/*
+	A DIV that contains all of the Images. 
+    In XHTML, to apply a border around the images a padding-bottom must be set to the size of the 
+	border-top-width plus the border-bottom-width.
+*/
+.igiv_Office2007BlueImageArea
+{
+	background-color:#F9FCFF;
+	padding-bottom: 2px;
+}
+
+
+/*
+	An IMG element that is contained by the ImageAra.
+    In XHTML, to apply a border around an image a padding-bottom must be set to the size of the 
+	border-top-width plus the border-bottom-width on the ImageArea.
+*/
+.igiv_Office2007BlueImage
+{
+}
+
+
+/*Applied to an IMG when it is selected.*/
+.igiv_Office2007BlueImageSelected
+{
+}
+
+
+/*Applied to an IMG when the mouse is over it.*/
+.igiv_Office2007BlueImageHover
+{
+}
+
+
+/*
+	When an image is hovered, this style gets applied to all other images.
+    A good use of this style is to apply an opacity to all other images that aren't being hovered, 
+	so that the hovered image has more focus.
+*/
+.igiv_Office2007BlueOtherImageHover
+{
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+
+
+/*Applied to an IMG when the image is disabled.*/
+.igiv_Office2007BlueImageDisabled
+{
+	opacity: .25;
+	filter: alpha(opacity=25);
+}
+
+
+/**************************** VERTICAL ***************************************/
+/*The CSS Class that will be applied to the outer control.*/
+.igiv_Office2007BlueControl_Vert
+{
+	background-color:Transparent;
+	border-width:0px;
+	padding-bottom:60px;
+}
+
+
+/*
+	This class should be used for setting any padding that might be 
+	needed if the Header is placed above the control.
+*/
+.igiv_Office2007BlueHeaderPadding_Vert
+{
+	padding-top:60px;
+}
+
+
+/*
+	This class should be used for adjusting the padding of the control
+	to account for the additional size of the header and footer.
+*/
+.igiv_Office2007BlueFooterPadding_Vert
+{
+	padding-bottom:60px;
+}
+
+
+/*
+	The CSS class that will be applied to the header. 
+    The header can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative.
+*/
+.igiv_Office2007BlueHeaderContentArea_Vert
+{
+	font-size:small;
+	border-top:solid 1px #3D5C82;
+	padding-top:3px;
+	width: 100%;
+	position: absolute;
+	top: -27px;
+	right: 0px;
+	color:#F0F0F0;
+	text-align:left;
+}
+
+
+/*The CSS class that will be applied to the Left Corner of the Header. */
+.igiv_Office2007BlueHeaderContentLeft_Vert
+{
+}
+
+
+/*The CSS class that will be applied to the actual content of the Header.*/
+.igiv_Office2007BlueHeaderContent_Vert
+{
+	font-size:small;
+	color:#3D5C82;
+}
+
+
+/*The CSS class that will be applied to the Right Corner of the Header. */
+.igiv_Office2007BlueHeaderContentRight_Vert
+{
+}
+
+
+/*
+	A TR that wraps the TopLeft_Vert, TopArea_Vert, and TopRight_Vert elements. 
+    This CSS class is useful in setting the height of the entire row.
+*/
+.igiv_Office2007BlueHeaderArea_Vert
+{
+	height: 10px;
+}
+
+
+/*
+	The CSS class that will be applied to the footer. 
+    The footer can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative. 
+*/
+.igiv_Office2007BlueFooterContentArea_Vert
+{
+	font-size:small;
+	border-bottom:solid 1px #3D5C82;
+	padding-bottom:3px;
+	width: 100%;
+	position: absolute;
+	bottom: -49px;
+	right: 0px;
+	color:#F0F0F0;
+	text-align:right;
+}
+
+
+/*The CSS class that will be applied to the Left Corner of the Footer. */
+.igiv_Office2007BlueFooterContentLeft_Vert
+{
+}
+
+
+/*The CSS class that will be applied to the actual content of the Footer.*/
+.igiv_Office2007BlueFooterContent_Vert
+{
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	font-size:small;
+	color:#3D5C82;
+}
+
+
+/*The CSS class that will be applied to the Right Corner of the Footer. */
+.igiv_Office2007BlueFooterContentRight_Vert
+{
+}
+
+
+/*
+	A TR that wraps the BottomLeft_Vert, BottomArea_Vert, and BottomRight_Vert elements. 
+    This CSS class is useful in setting the height of the entire row.
+*/
+.igiv_Office2007BlueFooterArea_Vert
+{
+	height: 10px;
+}
+
+
+/*
+	A TD that wraps the Header_Vert.
+    This CSS Class should be used for applying a Background-Image along the top border of the control.
+*/
+.igiv_Office2007BlueEdgeTop_Vert
+{
+	background-repeat:repeat-x;
+	background-image: url(./images/igiv_EdgeTop_Vert.gif);
+}
+
+
+/*
+	A TD on the left side of the ImageArea_Vert.
+    This CSS Class should be used for applying a Background-Image along the left border of the control.
+*/
+.igiv_Office2007BlueEdgeLeft_Vert
+{
+	background-repeat:repeat-y;
+	background-image: url(./images/igiv_EdgeLeft_Vert.gif);
+}
+
+
+/*
+	A TD that wraps the Footer_Vert.
+    This CSS Class should be used for applying a Background-Image along the bottom border of the control.
+*/
+.igiv_Office2007BlueEdgeBottom_Vert
+{
+	background-repeat:repeat-x;
+	background-position:bottom ;
+	background-image: url(./images/igiv_EdgeBottom_Vert.gif);
+	height: 10px;
+}
+
+
+/*
+	A TD on the right side of the ImageArea_Vert.
+    This CSS Class should be used for applying a Background-Image along the right border of the control.
+*/
+.igiv_Office2007BlueEdgeRight_Vert
+{
+	background-repeat:repeat-y;
+	background-position:right top ;
+	background-image: url(./images/igiv_EdgeRight_Vert.gif);
+}
+
+
+/*
+	The Top Left corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerTopLeft_Vert
+{
+	background-repeat:no-repeat;
+	background-image: url(./images/igiv_CornerTopLeft_Vert.gif);
+	width: 10px;
+}
+
+
+/*
+	The Top Right corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerTopRight_Vert
+{
+	background-repeat:no-repeat;
+	background-position:right top ;
+	background-image: url(./images/igiv_CornerTopRight_Vert.gif);
+	width: 10px;
+}
+
+
+/*
+	The Bottom Left corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerBottomLeft_Vert
+{
+	background-repeat:no-repeat;
+	background-position:bottom left ;
+	background-image: url(./images/igiv_CornerBottomLeft_Vert.gif);
+}
+
+
+/*
+	The Bottom Right corner of the control.
+    This CSS Class should be used for rounded corners.
+*/
+.igiv_Office2007BlueCornerBottomRight_Vert
+{
+	background-repeat:no-repeat;
+	background-position:bottom right ;
+	background-image: url(./images/igiv_CornerBottomRight_Vert.gif);
+}
+
+
+/*
+	The CSS class that will be applied to the Container of the PreviousButton. 
+    This css Class is the TD in which the Image element is rendered. This style can be used
+    to set the text-align CSS attribute.
+*/
+.igiv_Office2007BluePrevButtonArea_Vert
+{
+	position: relative;
+	width: 100%;
+	cursor:pointer;
+	text-align:center;
+}
+
+
+/*
+	The CSS class that will be applied to the Previous Button. 
+    The Previous Button can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative. 
+*/
+.igiv_Office2007BluePrevButton_Vert
+{
+}
+
+
+/*
+	The CSS class that will be applied to the Container of the Next Button. 
+    This css Class is the TD in which the Image element is rendered. This style can be used
+    to set the text-align CSS attribute.
+*/
+.igiv_Office2007BlueNextButtonArea_Vert
+{
+	position: relative;
+	width: 100%;
+	cursor:pointer;
+	text-align:center;
+}
+
+
+/*
+	The CSS class that will be applied to the Next Button. 
+    The Next Button can be absolutely positoned anywhere in the control, because the WebImageViewer has an internal DIV that
+    wraps the control with a position set to relative. 
+*/
+.igiv_Office2007BlueNextButton_Vert
+{
+}
+
+
+/*
+	A DIV that contains all of the Images. 
+    In XHTML, to apply a border around the images a padding-right must be set to the size of the 
+	border-left-width plus the border-right-width.
+*/
+.igiv_Office2007BlueImageArea_Vert
+{
+	background-color:#F9FCFF;
+	padding-right: 2px;
+}
+
+
+/*
+	A TD that contains the ImageArea.
+    If you would like a border around the ImageArea, this is the class to use.
+*/
+.igiv_Office2007BlueImageAreaContainer_Vert
+{
+	border:solid 1px #C5D2DF;
+}
+
+
+/*
+	An IMG element that is contained by the ImageAra.
+    In XHTML, to apply a border around an image a padding-right must be set to the size of the 
+	border-left-width plus the border-right-width on the ImageArea_Vert.
+*/
+.igiv_Office2007BlueImage_Vert
+{
+}
+
+
+/*Applied to an IMG when it is selected.*/
+.igiv_Office2007BlueImageSelected_Vert
+{
+}
+
+
+/*Applied to an IMG when the mouse is over it.*/
+.igiv_Office2007BlueImageHover_Vert
+{
+}
+
+
+/*
+	When an image is hovered, this style gets applied to all other images.
+    A good use of this style is to apply an opacity to all other images that aren't being hovered, 
+	so that the hovered image has more focus.
+*/
+.igiv_Office2007BlueOtherImageHover_Vert
+{
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+
+
+/*Applied to an IMG when the image is disabled.*/
+.igiv_Office2007BlueImageDisabled_Vert
+{
+	opacity: .25;
+	filter: alpha(opacity=25);
+}
+
+

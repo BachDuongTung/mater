@@ -1,0 +1,82 @@
+.igtxt_Office2007BlackEditWithButtons
+{
+	background-color:#E8E8E8;
+	font-family: Verdana;
+	font-size:10px;
+	line-height:1px;
+	height:20px;
+	width:130px;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Office2007BlackEdit
+{
+	background-color:#E8E8E8;
+	border:solid 1px #898989;
+	outline:0;
+}
+
+.igtxt_Office2007BlackTextArea
+{
+	background-color:#E8E8E8;
+	border:solid 1px #898989;
+	font-family:arial;
+	font-size:12px;
+	outline:0;
+}
+
+.igtxt_Office2007BlackEditInContainer
+{
+	background-color:#E8E8E8;
+	border-width:0px;
+	margin:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	outline:0;
+}
+
+.igtxt_Office2007BlackFocus
+{
+	border-color:#C0C080;
+}
+
+.igtxt_Office2007BlackButtonSize
+{
+	width:15px;
+	height:100%;
+}
+
+.igtxt_Office2007BlackButton
+{
+	background-color:#E8E8E8;
+	line-height:normal;
+	border:solid 1px #E8E8E8;
+}
+
+.igtxt_Office2007BlackButtonFocus
+{
+	background-color:#F0F0B0;
+}
+
+.igtxt_Office2007BlackButtonHover
+{
+	background-color:#FFDA7A;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Office2007BlackButtonPressed
+{
+	background-color:#FFA738;
+	border:solid 1px #898989;
+}
+
+
+.igtxt_Office2007BlackButtonDisabled
+{
+	background-color: LightGrey;
+	border:solid 1px White;
+}
+
+

@@ -1,0 +1,728 @@
+.igg_Windows7Control
+{
+	background-repeat:repeat-x;
+	font-size:11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:solid 1px #9AB3D3;
+}
+
+
+.igg_Windows7Header
+{
+	background-color:#D3E5FA;
+	background-repeat:repeat-x;
+	background-position:notset ;
+	background-image: url(images/ig_datagridheader.gif);
+	height: 25px;
+	color:#27415C;
+}
+
+
+.igg_Windows7HeaderCaption
+{
+	font-size:11px;
+	border-right:solid 1px #9AB3D3;
+	border-left:solid 1px #FFFFFF;
+	padding-left:8px;
+	overflow: hidden;
+	height: 25px;
+	text-align:left;
+}
+
+
+.igg_Windows7Footer
+{
+	background-color:#E8F3FD;
+	background-image: url(images/igg_footer.gif);
+	border-top:solid 1px #15428B;
+	height: 22px;
+}
+
+
+.igg_Windows7FooterCaption
+{
+	font-weight:normal;
+	font-size:10px;
+	padding-left:8px;
+	overflow: hidden;
+	text-align:left;
+}
+
+
+tbody.igg_Windows7Item>tr>td
+{
+	background-color:White;
+	padding:5px 8px 5px 8px;
+	height: 23px;
+	overflow: hidden;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7ScrollbarIntersection
+{
+}
+
+
+.igg_Windows7RowSelector
+{
+	background-color:#EDEDED;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 1px #B6B6B6;
+	width: 35px;
+	color:#27415C;
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7Pager
+{
+	background-color:#C7C9CE;
+	background-repeat:repeat-x;
+	background-image: url(images/ig_pagerbg.gif);
+	padding-top:5px;
+	padding-bottom:5px;
+	height: 20px;
+	text-align:right;
+}
+
+
+.igg_Windows7PageLink
+{
+	margin-right:10px;
+	cursor:pointer;
+	color:#4C535C;
+}
+
+
+.igg_Windows7FilterRuleDropDown
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_summarydropdownbg.png);
+	font-size:xx-small;
+	font-family: verdana;
+	border:solid 1px #83AFDF;
+	width: 150px;
+	overflow: auto;
+	max-height: 150px;
+	height: auto !important;
+	height: 150px;
+	box-shadow: 0 4px 8px 0 #5A5A5A;
+	filter: progid : DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#5A5A5A');
+}
+
+
+.igg_Windows7FilterButton
+{
+	background-color:Transparent;
+	border-style:solid;
+	border-width:0px;
+	height: 18px;
+}
+
+
+.igg_Windows7ResizeIndicator
+{
+	background-color:#909192;
+	width: 2px;
+}
+
+
+.igg_Windows7FixedColumnSeparatorCssClass
+{
+	background-color:#909192;
+	width: 3px;
+}
+
+
+.igg_Windows7FixedColumnPinButtonCssClass
+{
+	padding-top:0px;
+	padding-right:3px;
+	cursor:pointer;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7VirtualScrollTooltip
+{
+	background-image: url(images/igg_footer.gif);
+	font-size:10px;
+	border:solid 1px #ACAFB7;
+	padding:3px;
+	color:Black;
+	text-align:center;
+}
+
+
+.igg_Windows7TopDragIndicator
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igg_topdragindicator.png);
+	margin-top:2px;
+	width: 11px;
+	height: 6px;
+	z-index: 100;
+}
+
+
+.igg_Windows7MiddleDragIndicator
+{
+	background-repeat:repeat-y;
+	background-position:center ;
+	background-image: url(images/igg_middledragindicator.png);
+	width: 11px;
+}
+
+
+.igg_Windows7BottomDragIndicator
+{
+	background-repeat:no-repeat;
+	background-image: url(images/igg_bottomdragindicator.png);
+	margin-top:-2px;
+	width: 11px;
+	height: 6px;
+	position: absolute;
+	z-index: 100;
+}
+
+
+.igg_Windows7DragMarkup
+{
+}
+
+
+.igg_Windows7Summary
+{
+	font-weight:bold;
+	font-size:9px;
+	border-bottom:solid 1px #CBCBCB;
+	overflow: hidden;
+	line-height: 20px;
+	color:#444444;
+	text-align:right;
+}
+
+
+.igg_Windows7SummaryButton
+{
+	background-color: none;
+	border-style:none;
+	border-color: medium;
+	margin:0px;
+	padding:0px;
+	cursor:pointer;
+}
+
+
+.igg_Windows7SummaryDropDown
+{
+	background-attachment:scroll;
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_summarydropdownbg.png);
+	font-size:11px;
+	font-family: verdana;
+	border:solid 1px #9AB3D3;
+	padding:12px;
+	width: 146px;
+	_overflow: hidden!important;
+	box-shadow: 0 4px 8px 0 #5A5A5A;
+	filter: progid : DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#5A5A5A');
+}
+
+
+.igg_Windows7SummaryDropDownItem
+{
+	font-weight:normal;
+	cursor:default;
+	color:Black;
+}
+
+
+.igg_Windows7SummaryRow
+{
+}
+
+
+.igg_Windows7FixedColumnHeaderCssClass
+{
+}
+
+
+tbody>tr.igg_Windows7Alt>td
+{
+	background-color:#E5F0F5;
+	padding:5px 8px 5px 8px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7HeaderRowSelector
+{
+	background-color:Transparent;
+	border-top:solid 0px #9AB3D3;
+	border-right:solid 1px #9AB3D3;
+	border-bottom:solid 1px #9AB3D3;
+	border-left-style:none;
+}
+
+
+.igg_Windows7FooterRowSelector
+{
+	background-color:Transparent;
+	border:solid 0px #D0D7E5;
+}
+
+
+.igg_Windows7SelectedHeader
+{
+}
+
+
+.igg_Windows7PageCurrent
+{
+	font-weight:bold;
+	font-size:11px;
+	border:solid 1px #9AB3D3;
+	margin-right:10px;
+	padding-top:1px;
+	padding-right:5px;
+	color:#38404B;
+}
+
+
+tr.igg_Windows7AddNewRow>td
+{
+	background-color:#E8EAEC;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom-style:none;
+	border-left-style:none;
+	padding-left:7px;
+	height: 22px;
+	overflow: hidden;
+}
+
+
+.igg_Windows7AddNewRowSelectorImageCssClass
+{
+	background-color:Transparent;
+	background-repeat:no-repeat;
+	background-position:center ;
+	background-image: url(images/addnewrow_image.gif);
+}
+
+
+.igg_Windows7AddNewRowSelectorCssClass
+{
+	background-color:#E8EAEC;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom-style:none;
+	border-left-style:none;
+}
+
+
+.igg_Windows7AddNewRowExpansionColumnCssClass
+{
+}
+
+
+.igg_Windows7FilterRow
+{
+	background-color:White;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 0px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 1px #B6B6B6;
+	height: 22px;
+}
+
+
+.igg_Windows7FilterRuleDropDownItem
+{
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+}
+
+
+.igg_Windows7FilterRowSelectorImage
+{
+}
+
+
+.igg_Windows7FilterRowSelectorCssClass
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+tr.igg_Windows7FilterRow>td
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	color:Black;
+}
+
+
+.igg_Windows7FilterRowExpansionColumnCssClass
+{
+}
+
+
+tbody.igg_Windows7FixedColumnCellCssClass>tr>td
+{
+}
+
+
+.igg_Windows7FixedColumnFooterCssClass
+{
+	font-weight:bold;
+}
+
+
+.igg_Windows7HeaderScrollbarIntersection
+{
+}
+
+
+.igg_Windows7FooterScrollbarIntersection
+{
+}
+
+
+.igg_Windows7SelectedRowSelector
+{
+	background-repeat:no-repeat;
+	background-position:left center ;
+	background-image: url(images/selectedrowselector.gif);
+}
+
+
+.igg_Windows7SelectedRowSelectorImage
+{
+}
+
+
+tr.igg_Windows7AddNewRowTop>td
+{
+}
+
+
+tr.igg_Windows7AddNewRowBottom>td
+{
+}
+
+
+.igg_Windows7FilterRowTop
+{
+}
+
+
+.igg_Windows7FilterRowBottom
+{
+}
+
+
+.igg_Windows7FilterRuleDropDownSelectedItem
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igg_selected.gif);
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+	color:Black;
+}
+
+
+tr.igg_Windows7FilterRowTop>td
+{
+}
+
+
+tr.igg_Windows7FilterRowBottom>td
+{
+}
+
+
+tbody>tr>td.igg_Windows7SelectedCell
+{
+	background-color:#C6D8F0;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_cellselected.gif);
+	border-top:solid 1px #9AB3D3;
+	border-bottom:solid 1px #9AB3D3;
+	color:Black;
+}
+
+
+.igg_Windows7AddNewRowScrollbarIntersection
+{
+	background-color:#E8EAEC;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 0px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+.igg_Windows7FilterDisabled
+{
+}
+
+
+.igg_Windows7FilterScrollbarIntersection
+{
+	background-color:#EEEEEE;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 0px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+}
+
+
+tbody>tr>td.igg_Windows7ActiveCell
+{
+}
+
+
+.igg_Windows7ActiveRow
+{
+}
+
+
+.igg_Windows7ActiveColumn
+{
+}
+
+
+.igg_Windows7ActiveRowSelectorImage
+{
+}
+
+
+.igg_Windows7ActiveRowSelector
+{
+	background-position:left center ;
+	background-image: url(images/selectedrowselector.gif);
+}
+
+
+.igg_Windows7FilterRuleDropDownHoverItem
+{
+	background-repeat:repeat-x;
+	background-image: url(images/igg_selected.gif);
+	font-size:11px;
+	font-family: Verdana;
+	padding:1px 3px 1px 3px;
+	color:Black;
+}
+
+
+.igg_Windows7EditCell
+{
+	background-color:White;
+	border:solid 1px #AAAAAA !important;
+}
+
+
+tr.igg_Windows7AddNewRowIE6 td
+{
+	background-color:#E8EAEC;
+	font-size:10px;
+	font-family: Verdana;
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 1px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	padding-left:7px;
+	height: 22px;
+	overflow: hidden;
+}
+
+
+.igg_Windows7SummaryDropDown input
+{
+	background-attachment:scroll;
+	background-color:#D7E7F8;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_buttonsbg.png);
+	border:solid 1px #9AB3D3;
+	margin-top:10px;
+	margin-right:3px;
+	width: 70px;
+	color:#1E395B;
+}
+
+
+tr.igg_Windows7FilterRowTopIE6 td
+{
+}
+
+
+.igg_Windows7FilterButton>td
+{
+	border-top:solid 0px Transparent;
+	border-right:solid 0px Transparent;
+	border-bottom:solid 0px Transparent;
+	border-left:solid 0px Transparent;
+}
+
+
+.igg_Windows7AddNewRowTop
+{
+}
+
+
+tbody tr td.igg_Windows7ActiveCellIE6
+{
+}
+
+
+.igg_Windows7AddNewRowBottom
+{
+}
+
+
+TR.igg_Windows7AddNewRowTopIE6 TD
+{
+}
+
+
+.igg_Windows7SelectedCell
+{
+	background-image: url(images/igg_cellselected.gif);
+}
+
+
+. igg_Windows7SummaryDropDownItem img
+{
+	margin-right:5px;
+	cursor:pointer;
+}
+
+
+tr.igg_Windows7FilterRowIE6 td
+{
+	background-color:White;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_filterrow.gif);
+	border-top:solid 1px #B6B6B6;
+	border-right:solid 1px #B6B6B6;
+	border-bottom:solid 0px #B6B6B6;
+	border-left:solid 0px #B6B6B6;
+	color:Black;
+}
+
+
+tbody.igg_Windows7ItemIE6 tr td
+{
+	background-color:White;
+	padding:5px 8px 5px 8px;
+	height: 23px;
+	overflow: hidden;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7FixedColumnCellCssClass
+{
+}
+
+
+TR.igg_Windows7AddNewRowBottomIE6 TD
+{
+}
+
+
+.igg_Windows7FilterRowBottomCell
+{
+}
+
+
+.igg_Windows7AddNewRow
+{
+}
+
+
+tbody tr td.igg_Windows7SelectedCellIE6
+{
+	background-color:#FFC875;
+	background-repeat:repeat-x;
+	background-image: url(images/igg_cellselected.gif);
+	border-bottom:solid 1px #FDAD11;
+	color:Black;
+}
+
+
+tbody tr.igg_Windows7AltIE6 td
+{
+	background-color:#EBF6FF;
+	padding:5px 8px 5px 8px;
+	text-align:left;
+	vertical-align:middle;
+}
+
+
+.igg_Windows7FilterRowTopCell
+{
+}
+
+
+.igg_Windows7ActiveCell
+{
+}
+
+
+.igg_Windows7Footer tr[mkr="columnheaderrow"] th
+{
+	background-color:#F7F7F7;
+	border-top:solid 1px #CCCCCC;
+	border-bottom:solid 1px #CCCCCC;
+	line-height: 20px;
+}
+
+
+.igg_Windows7FilterRowCell
+{
+}
+
+
+.igg_Windows7SummaryRow th
+{
+	background-color:#F7F7F7;
+	border-bottom:solid 1px #CCCCCC;
+}
+
+
+tr.igg_Windows7FilterRowBottomIE6 td
+{
+}
+
+

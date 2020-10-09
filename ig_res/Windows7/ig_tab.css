@@ -1,0 +1,426 @@
+.igtab_Windows7Control
+{
+	background-color:#E5E5E6;
+	border:solid 1px #BEBEBE;
+}
+
+
+.igtab_Windows7Control_Outer
+{
+	background-color:#D0D4DD;
+	border-left-width:1px;
+	border-left-style:solid;
+}
+
+
+.igtab_Windows7DefaultTab_Top
+{
+	background-color:Transparent;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px Transparent;
+	padding:2px 8px 2px 8px;
+	color:White;
+	text-align:center;
+}
+
+
+.igtab_Windows7DefaultTab_Top_Rounded
+{
+	background-color:Transparent !important;
+	font-size:10pt;
+	font-family: Tahoma;
+	border-style:solid;
+	border-width:0px;
+	border-bottom-width:1px;
+	border-bottom-color:#BEBEBE;
+	padding:2px 3px 1px 10px;
+	height: 100%;
+	cursor:pointer;
+	color:DimGray;
+	text-align:center;
+}
+
+
+.igtab_Windows7DefaultTab_Top_Edge
+{
+	background-position:right top ;
+	font-size:2px;
+	padding:0px;
+}
+
+
+.igtab_Windows7Button
+{
+}
+
+
+.igtab_Windows7DefaultTab_Bottom
+{
+	background-color:Transparent;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px Transparent;
+	padding:2px;
+	color:White;
+}
+
+
+.igtab_Windows7DefaultTab_Bottom_Rounded
+{
+	background-color:Transparent !important;
+	background-repeat:no-repeat;
+	background-position:left bottom ;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px #BEBEBE;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	padding:5px 5px 6px 12px;
+	height: 100%;
+	cursor:pointer;
+	color:DimGray;
+}
+
+
+.igtab_Windows7DefaultTab_Bottom_Edge
+{
+	background-position:right bottom ;
+	font-size:2px;
+	padding:0px;
+}
+
+
+.igtab_Windows7DefaultTab_Left
+{
+	background-color:Transparent;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px Transparent;
+	padding:8px 2px 8px 2px;
+	color:White;
+}
+
+
+.igtab_Windows7DefaultTab_Left_Rounded
+{
+	background-color:Transparent !important;
+	background-repeat:no-repeat;
+	background-position:left top ;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px #BEBEBE;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	margin-top:0px;
+	margin-right:5px;
+	margin-bottom:0px;
+	padding:10px 0px 0px 4px;
+	cursor:pointer;
+	color:DimGray;
+	text-align:left;
+}
+
+
+.igtab_Windows7DefaultTab_Left_Edge
+{
+	background-position:left bottom ;
+	font-size:2px;
+	padding:3px;
+}
+
+
+.igtab_Windows7DefaultTab_Right
+{
+	background-color:Transparent;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px Transparent;
+	padding:8px 2px 8px 2px;
+	color:White;
+}
+
+
+.igtab_Windows7DefaultTab_Right_Rounded
+{
+	background-color:Transparent !important;
+	background-repeat:no-repeat;
+	background-position:right top ;
+	font-size:9pt;
+	font-family: Tahoma;
+	border:solid 1px #BEBEBE;
+	border-top-width:0px;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	padding-top:12px;
+	padding-right:5px;
+	padding-bottom:10px;
+	cursor:pointer;
+	color:DimGray;
+	text-align:right;
+}
+
+
+.igtab_Windows7DefaultTab_Right_Edge
+{
+	background-position:right bottom ;
+	font-size:2px;
+	padding:0px;
+}
+
+
+.igtab_Windows7ButtonHover
+{
+}
+
+
+.igtab_Windows7ButtonPressed
+{
+}
+
+
+.igtab_Windows7ButtonDisabled
+{
+}
+
+
+.igtab_Windows7HoverTab_Top
+{
+	background-color:#F0F0FF;
+	background-image: url(images/tab_top_hover_f.gif);
+	border-color:#A5A5A5;
+	border-bottom-width:0px;
+	color:DimGray;
+}
+
+
+.igtab_Windows7Separator_Top
+{
+	border-bottom:solid 1px #BEBEBE;
+	border-top-width:0px;
+	border-right-width:0px;
+	border-left-width:0px;
+}
+
+
+.igtab_Windows7HoverTab_Top_Rounded
+{
+	background-image: url(images/igwt_tab_hover.jpg);
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	color:DimGray;
+}
+
+
+.igtab_Windows7HoverTab_Bottom
+{
+	background-color:#F0F0FF;
+	background-position:bottom ;
+	background-image: url(images/tab_bottom_hover_f.gif);
+	border-color:#A5A5A5;
+	border-top-width:1px;
+	border-top-color:Transparent;
+	color:DimGray;
+}
+
+
+.igtab_Windows7Separator_Bottom
+{
+	border-top:solid 1px #BEBEBE;
+	border-right-width:0px;
+	border-bottom-width:0px;
+	border-left-width:0px;
+}
+
+
+.igtab_Windows7HoverTab_Bottom_Rounded
+{
+	background-image: url(images/tab_bottom_hover.gif);
+	color:DimGray;
+}
+
+
+.igtab_Windows7HoverTab_Left
+{
+	background-color:#F0F0FF;
+	background-image: url(images/tab_left_hover_f.gif);
+	border-color:#969696;
+	border-right-width:0px;
+	color:DimGray;
+}
+
+
+.igtab_Windows7Separator_Left
+{
+	border-right:solid 1px #BEBEBE;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:0px;
+}
+
+
+.igtab_Windows7HoverTab_Left_Rounded
+{
+	background-image: url(images/tab_left_hover.gif);
+	color:DimGray;
+}
+
+
+.igtab_Windows7HoverTab_Right
+{
+	background-color:#F0F0FF;
+	background-position:right ;
+	background-image: url(images/tab_right_hover_f.gif);
+	border-color:#969696;
+	border-left-width:1px;
+	border-left-color:Transparent;
+	color:DimGray;
+}
+
+
+.igtab_Windows7Separator_Right
+{
+	border-left:solid 1px #BEBEBE;
+	border-top-width:0px;
+	border-right-width:0px;
+	border-bottom-width:0px;
+}
+
+
+.igtab_Windows7HoverTab_Right_Rounded
+{
+	background-image: url(images/tab_right_hover.jpg);
+	color:DimGray;
+}
+
+
+.igtab_Windows7SelectedTab_Top
+{
+	background-color:#FEF0F0;
+	background-image: url(images/tab_top_f.gif);
+	border-color:#BEBEBE;
+	border-bottom-color:Transparent;
+	color:Black;
+}
+
+
+.igtab_Windows7SelectedTab_Top_Rounded
+{
+	background-image: url(images/igwt_tab_selected.jpg);
+	border-width:0px;
+	border-bottom:solid 1px #BEBEBE;
+	cursor:default;
+	color:DimGray;
+}
+
+
+.igtab_Windows7SelectedTab_Bottom
+{
+	background-color:#FEF0F0;
+	background-position:bottom ;
+	background-image: url(images/tab_bottom_f.gif);
+	border-color:#BEBEBE;
+	border-top-width:0px;
+	color:Black;
+}
+
+
+.igtab_Windows7SelectedTab_Bottom_Rounded
+{
+	background-image: url(images/tab_bottom.gif);
+	cursor:default;
+	color:DimGray;
+}
+
+
+.igtab_Windows7SelectedTab_Left
+{
+	background-color:#FEF0F0;
+	background-image: url(images/tab_left_f.gif);
+	border-color:#BEBEBE;
+	border-right-width:0px;
+	color:Black;
+}
+
+
+.igtab_Windows7SelectedTab_Left_Rounded
+{
+	background-image: url(images/tab_left.gif);
+	border-color:#535353;
+	border-right-color:#BEBEBE;
+	cursor:default;
+	color:DimGray;
+}
+
+
+.igtab_Windows7SelectedTab_Right
+{
+	background-color:#FEF0F0;
+	background-position:right ;
+	background-image: url(images/tab_right_f.gif);
+	border-color:#BEBEBE;
+	border-left-width:1px;
+	border-left-color:#E5E5E6;
+	color:Black;
+}
+
+
+.igtab_Windows7SelectedTab_Right_Rounded
+{
+	background-image: url(images/tab_right.gif);
+	border-left-color:#BEBEBE;
+	cursor:default;
+	color:DimGray;
+}
+
+
+.igtab_Windows7DisabledTab_Top
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Top_Rounded
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Bottom
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Bottom_Rounded
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Left
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Left_Rounded
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Right
+{
+	color:#BCC0C8;
+}
+
+
+.igtab_Windows7DisabledTab_Right_Rounded
+{
+	color:#BCC0C8;
+}
+
+

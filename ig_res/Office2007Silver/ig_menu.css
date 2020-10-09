@@ -1,0 +1,89 @@
+.igmn_Office2007SilverControl
+{
+	background-color:#DADEE8;
+	background-repeat:repeat-x;
+	border-color:Transparent;
+}
+
+
+.igmn_Office2007SilverIsland
+{
+	background-color:#DADEE8;
+	border:solid 1px #C7CBD1;
+}
+
+
+.igmn_Office2007SilverItem
+{
+	background-color:Transparent;
+	background-image:none;
+	border:solid 1px Transparent;
+	padding:0px;
+	height: 20px;
+	cursor:hand;
+	color:#4A4A4A;
+}
+
+
+.igmn_Office2007SilverLeaf
+{
+}
+
+
+.igmn_Office2007SilverParent
+{
+}
+
+
+.igmn_Office2007SilverTopLevelLeaf
+{
+}
+
+
+.igmn_Office2007SilverTopLevelParent
+{
+}
+
+
+.igmn_Office2007SilverHeader
+{
+}
+
+
+.igmn_Office2007SilverSeparator
+{
+	background-color:#aaaaaa;
+	color:Black;
+}
+
+
+.igmn_Office2007SilverHover
+{
+	background-repeat:repeat-x;
+	background-image: url(images/day_header_active.jpg);
+	border-color:BurlyWood;
+	color:Black;
+}
+
+
+.igmn_Office2007SilverTopLevelHover
+{
+	background-image: url(images/day_header_active.jpg);
+	border-color:BurlyWood;
+	color:Black;
+}
+
+
+.igmn_Office2007SilverTopSelected
+{
+}
+
+
+.igmn_Office2007SilverDisabled
+{
+	font-size:x-small;
+	font-family: Verdana;
+	color:#C8CCD5;
+}
+
+

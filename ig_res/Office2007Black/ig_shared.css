@@ -1,0 +1,159 @@
+.ig_Office2007BlackControl
+{
+	background-color:White;
+	font-size:xx-small;
+	font-family: verdana;
+	color:Black;
+}
+
+
+.ig_Office2007BlackItem
+{
+	background-color:White;
+	font-size:10px;
+	font-family: verdana;
+	padding-left:1px;
+}
+
+
+.ig_Office2007BlackButton
+{
+	cursor:hand;
+}
+
+
+.ig_Office2007BlackButtonHover
+{
+}
+
+
+.ig_Office2007BlackButtonPressed
+{
+}
+
+
+.ig_Office2007BlackButtonDisabled
+{
+}
+
+
+.ig_Office2007BlackHover
+{
+}
+
+
+.ig_Office2007BlackSelected
+{
+}
+
+
+.ig_Office2007BlackDisabled
+{
+}
+
+
+.ig_Office2007BlackHeader
+{
+}
+
+
+.ig_Office2007BlackFooter
+{
+}
+
+
+.ig_Office2007BlackEditWithButtons
+{
+}
+
+
+.ig_Office2007BlackEdit
+{
+}
+
+
+.ig_Office2007BlackEditInContainer
+{
+}
+
+
+.ig_Office2007BlackAlt
+{
+	border-top:solid 1px #E3EFFF;
+	border-right:solid 0px #FFFFFF;
+	border-bottom:solid 1px #E3EFFF;
+	border-left:solid 0px #FFFFFF;
+}
+
+
+.ig_Office2007BlackDropDown
+{
+}
+
+
+.ig_Office2007BlackEditSelected
+{
+}
+
+
+Body
+{
+}
+
+
+.ms-WPBody .igmc_Office2007BlackControl TD
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-style:inherit;
+}
+
+
+.ms-WPBody .igte_Office2007BlackEditWithButtons TD
+{
+	background-color:Transparent;
+	font-size:1px;
+	border-bottom-style:none;
+}
+
+
+.ms-wpbody .ig_Office2007BlackControl td
+{
+	background-color: inherit;
+	font-style:inherit;
+	font-size:xx-small;
+	border-bottom-style:none;
+}
+
+
+.ms-WPBody .igmc_Office2007BlackControl TABLE
+{
+	font-style:inherit;
+	font-size:xx-small;
+}
+
+
+.ms-WPBody .igte_Office2007BlackEditWithButtons TABLE
+{
+	font-size:1px;
+}
+
+
+.ms-wpbody .ig_Office2007BlackControl table
+{
+	font-style:inherit;
+	font-size:xx-small;
+	border-collapse:Separate;
+}
+
+
+.ms-WPBody .igdw_Office2007BlackControl TD
+{
+	background-color:White;
+}
+
+.ie7_DisplayInlineFix { display: inline-block; }
+.ie7_DisplayInlineFix { display: inline; }
+
+
